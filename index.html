@@ -53,6 +53,20 @@
   footer { margin-top: 32px; color: var(--muted); font-size: 0.8rem; line-height: 1.5; }
   a { color: var(--accent); }
   .err { color: var(--red); padding: 20px; }
+  h2 { font-size: 1.15rem; margin: 40px 0 4px; }
+  .h2sub { color: var(--muted); font-size: 0.85rem; margin-bottom: 16px; }
+  .tabs { display: flex; gap: 8px; margin-bottom: 12px; }
+  .tab {
+    background: var(--card); border: 1px solid var(--border); color: var(--muted);
+    padding: 8px 16px; border-radius: 8px; cursor: pointer; font-size: 0.88rem; font-weight: 600;
+  }
+  .tab.active { color: var(--text); border-color: var(--accent); }
+  .search {
+    width: 100%; padding: 10px 12px; margin-bottom: 12px; border-radius: 8px;
+    border: 1px solid var(--border); background: var(--card); color: var(--text); font-size: 0.9rem;
+  }
+  .search:focus { outline: none; border-color: var(--accent); }
+  .catalogo-count { color: var(--muted); font-size: 0.8rem; margin-bottom: 8px; }
 </style>
 </head>
 <body>
@@ -76,6 +90,17 @@
     <span><span class="dot" style="background:var(--green)"></span> Precio más bajo del día</span>
     <span>— No disponible en catálogo en línea de esa tienda</span>
   </div>
+
+  <h2>Catálogo completo</h2>
+  <div class="h2sub">Todas las frutas y verduras naturales (sin ensaladas, jugos, salsas ni cortes procesados) del catálogo en línea de cada tienda.</div>
+
+  <div class="tabs" id="tabs"></div>
+  <input class="search" id="buscador" type="text" placeholder="Buscar producto...">
+  <div class="catalogo-count" id="conteo"></div>
+  <table>
+    <thead><tr><th>Producto</th><th>Precio</th></tr></thead>
+    <tbody id="tbodyCatalogo"></tbody>
+  </table>
 
   <footer>
     Precios tomados de las tiendas en línea de cada cadena (catálogo público), sucursal Aguascalientes cuando aplica.
@@ -131,6 +156,39 @@ async function main() {
       tr.innerHTML = html;
       tbody.appendChild(tr);
     }
+
+    // --- Catálogo completo con tabs + búsqueda ---
+    const tabsEl = document.getElementById("tabs");
+    const conteoEl = document.getElementById("conteo");
+    const tbodyCat = document.getElementById("tbodyCatalogo");
+    const buscador = document.getElementById("buscador");
+    let tiendaActiva = TIENDAS[0];
+
+    function renderCatalogo() {
+      const items = (data.catalogos && data.catalogos[tiendaActiva]) || [];
+      const filtro = buscador.value.trim().toLowerCase();
+      const filtrados = filtro
+        ? items.filter(p => p.nombre.toLowerCase().includes(filtro))
+        : items;
+
+      conteoEl.textContent = `${filtrados.length} de ${items.length} productos`;
+      tbodyCat.innerHTML = filtrados.map(p =>
+        `<tr><td>${p.nombre}</td><td class="precio">$${p.precio.toFixed(2)} <span class="unidad">/${p.unidad || "kg"}</span></td></tr>`
+      ).join("");
+    }
+
+    tabsEl.innerHTML = TIENDAS.map(t =>
+      `<button class="tab${t === tiendaActiva ? " active" : ""}" data-tienda="${t}">${t}</button>`
+    ).join("");
+    tabsEl.querySelectorAll(".tab").forEach(btn => {
+      btn.addEventListener("click", () => {
+        tiendaActiva = btn.dataset.tienda;
+        tabsEl.querySelectorAll(".tab").forEach(b => b.classList.toggle("active", b === btn));
+        renderCatalogo();
+      });
+    });
+    buscador.addEventListener("input", renderCatalogo);
+    renderCatalogo();
   } catch (e) {
     document.querySelector(".wrap").innerHTML = `<h1>Precios Frutas y Verduras</h1><div class="err">Error cargando datos: ${e.message}</div>`;
   }

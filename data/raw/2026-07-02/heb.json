@@ -187,12 +187,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Espinaca Baby 170 g",
-    "precio": 45.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Tomatillo Limpio Seasons Select en Malla",
     "precio": 35.0,
     "unidad": "un"
@@ -283,12 +277,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Brócoli Florete 454 g",
-    "precio": 37.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Tomate Cherry 284 g",
     "precio": 47.0,
     "unidad": "un"
@@ -361,21 +349,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Espinaca 284 g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Manzana Ambrosia",
     "precio": 39.95,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Apio Orgánico Mr Lucky",
-    "precio": 26.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -475,50 +451,14 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Organics Baby Spinach 142 g",
-    "precio": 69.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Baby Arugula 142 g",
-    "precio": 69.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Lechuga Italiana Hidropónica",
     "precio": 45.0,
     "unidad": "un"
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Mini Florete Brócoli 225 g",
-    "precio": 28.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Elote Dulce Charola con 3 pz",
     "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Flor de Jamaica",
-    "precio": 77.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Palitos de Apio 400 g",
-    "precio": 42.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Zanahoria Baby 400 g",
-    "precio": 59.9,
     "unidad": "un"
   },
   {
@@ -553,12 +493,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Corazon de Lechuga",
-    "precio": 50.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Champinon Blanco de 225 g",
     "precio": 39.0,
     "unidad": "un"
@@ -583,12 +517,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Lechuga Iceberg Rallada 284 g",
-    "precio": 29.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Manzana Golden Saltillo Bin",
     "precio": 51.0,
     "unidad": "kg"
@@ -597,12 +525,6 @@
     "tienda": "HEB",
     "nombre": "Champiñon Cremini Rebanado de 225 g",
     "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada Americana 340 g",
-    "precio": 35.0,
     "unidad": "un"
   },
   {
@@ -703,30 +625,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Organics Baby Spinach & Baby Arugula 142 g",
-    "precio": 69.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Floretes de Coliflor 454 g",
-    "precio": 31.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Floretes de Brócoli y Coliflor 454 g",
-    "precio": 35.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Corazón de Lechuga Orgánico con 3 pz",
-    "precio": 73.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Lechuga Francesa Hidropónica  1 Cmt",
     "precio": 45.0,
     "unidad": "un"
@@ -734,12 +632,6 @@
   {
     "tienda": "HEB",
     "nombre": "Lechuga Hidroponica Mini Romaine 2pz 1 Pz",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Pepino Persa Organico en Bolsa 1 pz",
     "precio": 52.0,
     "unidad": "un"
   },
@@ -765,30 +657,6 @@
     "tienda": "HEB",
     "nombre": "Aguacate MT",
     "precio": 66.9,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Vegetalistos Zanahoria Rallada 1 pz",
-    "precio": 31.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Desinfectante Microdyn 15 Ml",
-    "precio": 38.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Corazón de Nuez 150 g",
-    "precio": 83.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Plátano Orgánico",
-    "precio": 37.0,
     "unidad": "kg"
   },
   {
@@ -835,18 +703,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Piña Cortada Fresca HEB FRESH",
-    "precio": 114.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Sandía Cortada",
-    "precio": 79.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Chile Habanero Naranja",
     "precio": 156.0,
     "unidad": "kg"
@@ -862,12 +718,6 @@
     "nombre": "Uva Roja Suprema Sin Semilla",
     "precio": 105.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jitomate Cherry Baby 1 Pz",
-    "precio": 44.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -889,12 +739,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Leonali Espinaca Baby 250 g",
-    "precio": 59.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Chile Serrano Mt",
     "precio": 64.95,
     "unidad": "kg"
@@ -904,18 +748,6 @@
     "nombre": "Mango Ataulfo Mt",
     "precio": 47.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada Cesar 284 g",
-    "precio": 49.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada Classic Romaine 284 g",
-    "precio": 39.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -1015,50 +847,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Ejotes 340 g",
-    "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Coles de Bruselas 340 g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Manzana Rockit 907 g",
     "precio": 54.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Baby Spring Mix 142 g",
-    "precio": 69.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Baby Spinach 284 g",
-    "precio": 94.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Baby Spring Mix 284 g",
-    "precio": 79.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Mezcla de Vegetales 454 g",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Brócoli Florete y Zanahoria Baby 454 g",
-    "precio": 47.0,
     "unidad": "un"
   },
   {
@@ -1075,38 +865,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Palitos de Apio Orgánico 400 g",
-    "precio": 41.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Tomate Orgánico Bola con 4 pz",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Espinaca 170 g",
-    "precio": 46.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Blueberries Clam 311 g",
     "precio": 135.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Bactericida 1 pz",
-    "precio": 82.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Palitos de Jícama",
-    "precio": 83.9,
     "unidad": "un"
   },
   {
@@ -1129,111 +889,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Fresh Fruta Cortada Especialidad Grande",
-    "precio": 68.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Lechuga Hidropónica Francesa 1 Pz",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Lechuga Hidropónica Italiana 1 Pz",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Arandano 150 g",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Flor Jamaica Granel 1 Kg",
-    "precio": 293.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jamaicool",
-    "precio": 73.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Arandano Deshidratado 1 Kg",
-    "precio": 225.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Chía 1 kg",
-    "precio": 141.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Col Morada",
     "precio": 52.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Almendra Fileteada 150 g",
-    "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Almendra 150 g",
-    "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Corazón de Nuez Pecan Halves 300 g",
-    "precio": 156.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Trozos de Nuez 150g 150 g",
-    "precio": 83.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Nuez Corazon 1 kg",
-    "precio": 545.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Cacahuate Tost Nat 1 Kg",
-    "precio": 102.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Desinfectante Microdyn 90 Ml",
-    "precio": 74.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Espinaca Popeye Mr Lucky 284 g",
-    "precio": 54.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Tomate Cherry Orgánico 284 g",
-    "precio": 58.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -1261,27 +919,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Fresh Papaya Cortada",
-    "precio": 104.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Germinado de Soya 250 g",
     "precio": 39.0,
     "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jicama Cortada",
-    "precio": 94.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Melón Cortado Fresco HEB FRESH",
-    "precio": 104.0,
-    "unidad": "kg"
   },
   {
     "tienda": "HEB",
@@ -1297,45 +937,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Organics Nuez Organica Pecanera 200 g",
-    "precio": 156.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Hojas de Lechuga Orejona Orgánica en Charolas",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Sandía Bambino",
     "precio": 31.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ensalada Italiana Orgánica Mr Lucky 908 g",
-    "precio": 69.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jugo de Naranja Natural HEB FRESH 1 L",
-    "precio": 94.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ensalada Primavera 1 Pz",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Cilantro Manojo Org 1 Pz",
-    "precio": 23.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -1375,18 +979,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Fresh Guacamole Grande 500 g",
-    "precio": 125.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Guacamole Chico 250 g",
-    "precio": 73.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Chile de Arbol 100 g",
     "precio": 45.0,
     "unidad": "un"
@@ -1395,12 +987,6 @@
     "tienda": "HEB",
     "nombre": "HEB Chile Cascabel 100 g",
     "precio": 45.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Eva Ensalada Toscana 250 g",
-    "precio": 73.0,
     "unidad": "un"
   },
   {
@@ -1420,12 +1006,6 @@
     "nombre": "Chile Jalapeño Mt",
     "precio": 29.95,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Mix Botanero Grande 454 g",
-    "precio": 37.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -1489,12 +1069,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Lechuga Orgánica Orejona Mr Lucky",
-    "precio": 24.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Ajo Pelado Mr Lucky 280 g",
     "precio": 83.0,
     "unidad": "un"
@@ -1519,12 +1093,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Fresh Pina Limpia Suprema 1 pz",
-    "precio": 94.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Camote Rojo Dulce 1 kg",
     "precio": 62.9,
     "unidad": "kg"
@@ -1534,24 +1102,6 @@
     "nombre": "Chile Serrano de Malla Seasons Select 350 g",
     "precio": 16.0,
     "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada César con Tocino",
-    "precio": 73.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada Miel y Vinagre Balsámico 235 g",
-    "precio": 66.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Datil Medjool Granel  1 Kg",
-    "precio": 282.0,
-    "unidad": "kg"
   },
   {
     "tienda": "HEB",
@@ -1570,84 +1120,6 @@
     "nombre": "Manzana Opal 1 Kg",
     "precio": 77.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Piña Cortada 250 g",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Papaya Cortada 250 g",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Papaya Cortada 500 g",
-    "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Jícama Cortada 250 g",
-    "precio": 20.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Desinfectante Agua Y Alimentos  1 Cmt",
-    "precio": 30.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Baby Kale 142 g",
-    "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Baby Spinach & Baby Kale 142 g",
-    "precio": 100.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Mezclas Tomate Cherry Colores 284 g",
-    "precio": 61.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Infusión de Jamaica 1 pz",
-    "precio": 94.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Espinaca Baby 170 g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Calabacita con Queso",
-    "precio": 41.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Coco 1 L",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Limón 1 L",
-    "precio": 39.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -1735,123 +1207,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Azahar D Allende Miel de Abeja 700 g",
-    "precio": 147.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Mini Flakes de Coliflor Mr Lucky 454 g",
-    "precio": 38.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Mini Flakes Brócoli, Zanahoria y Coliflor Mr Lucky 454 g",
-    "precio": 37.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Pepita Verde 1 Kg",
-    "precio": 269.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Girasol Sin Cascara 1 Kg",
-    "precio": 79.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Zanahoria Rallada Flow Pack Mr Lucky 200 g",
-    "precio": 29.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Grimm Way Farms Zanahoria Baby Bolthouse 340 g",
-    "precio": 38.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Lechuga Hidroponica Mini Romaine 1 Pz",
-    "precio": 83.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Arandano Rojo 200 g",
-    "precio": 68.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Canela 100 g",
-    "precio": 100.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ciruela Pasa Sin Hueso 200 g",
-    "precio": 81.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Tamarindo Deshidratado 500 g",
-    "precio": 101.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Coco Rallado 100 g",
-    "precio": 35.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Piloncillo Grande 1 Kg",
-    "precio": 78.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Cacahuate Limpio Crudo 1 Kg",
-    "precio": 81.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Amaranto 1 kg",
-    "precio": 191.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Almendra 1 kg",
-    "precio": 446.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Pera Bartlet",
     "precio": 83.9,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Almendra Entera 300 g",
-    "precio": 121.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Granillo de Nuez 150 g",
-    "precio": 83.9,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -1861,26 +1219,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Germinado de Soya a Granel 1 kg",
-    "precio": 45.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Frijol Pinto 1 Kg",
-    "precio": 26.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Calabaza Criolla",
     "precio": 49.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Cacahuate Virginia Salado con Cuticula 1 Kg",
-    "precio": 91.0,
     "unidad": "kg"
   },
   {
@@ -1939,86 +1279,14 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Organics Arandanos Organicos 200 g",
-    "precio": 125.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Vegetalistos Ensalada Espinaca Baby 125 g 1 Pz",
-    "precio": 37.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Dátiles Medjool Orgánico 1 Pz",
-    "precio": 200.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Aguacate Hass Orgánico en Malla 1 pz",
-    "precio": 114.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Salsa Verde Casera Gde 500 ml",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Uva Blanca Cotton Candy Sin Semilla",
     "precio": 177.0,
     "unidad": "kg"
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Corazón de Apio Orgánico con 24 pz",
-    "precio": 41.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Eneldo/Hinojo Granel 1 pz",
     "precio": 26.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ajo Organico 120 g",
-    "precio": 60.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Salsa Roja Casera Ch 250 ml",
-    "precio": 28.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ensalada Italiana Orgánica Mr Lucky 284 g",
-    "precio": 41.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada Spring Mix 142 g",
-    "precio": 56.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jugo de Naranja Apio y Nopal 1 pz",
-    "precio": 68.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Aderezo Ranch Casero LiteHouse 384 ml",
-    "precio": 105.0,
     "unidad": "un"
   },
   {
@@ -2095,12 +1363,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Arúgula",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Blueberry Jumbo 278 Gr",
     "precio": 135.0,
     "unidad": "un"
@@ -2125,18 +1387,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Ensalada Ranch",
-    "precio": 35.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Arándanos  1 Cmt",
-    "precio": 67.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Chile Jalapeño de Malla 500 g",
     "precio": 19.0,
     "unidad": "un"
@@ -2149,62 +1399,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Ensalada Manzana y Queso Feta 207 g",
-    "precio": 66.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Mezcla de Hojas Verdes 200 g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Nueces Sin Sal 750 g",
-    "precio": 303.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Cacahuate con Casacara Tostado Sin Sal  1 Pz",
-    "precio": 44.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Espinaca Y Arugula 200gr  1 Cmt",
-    "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Mini Pimiento Orgánico Mr Lucky en Bolsa 454 g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Coliflor Organica Mr Lucky 1 Pz",
-    "precio": 45.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Tomate Cherry Orgánico en Racimo Mr Lucky 340 g",
-    "precio": 72.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Tomate Naturesweet Glorys 680gr 680 Gr",
     "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Corazones de Lechuga Mr Lucky con 3 pz",
-    "precio": 52.0,
     "unidad": "un"
   },
   {
@@ -2221,110 +1417,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Fresh Melón Cortado 500 g",
-    "precio": 68.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Piña Cortada 500 g",
-    "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Jícama Cortada 500 g",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Cacahuate con Cascara Tostado 454 g",
-    "precio": 44.95,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Ensalada 50 / 50 Blend 142 g",
-    "precio": 100.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Fresh Pepino Cortado 500 g",
     "precio": 73.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Charola Party Size Verduras Chica",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jugo de Limón 260 ml",
-    "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Infusión de Jamaica con Stevia 1 pz",
-    "precio": 100.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Betabel Guayaba sin Azúcar 1 L",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Guayaba 480 ml",
-    "precio": 26.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Betabel Guayaba 1 L",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Mango 480 ml",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Sandía 1 L",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Mango 1 L",
-    "precio": 60.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Melón 1 L",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Piña Jengibre 1 L",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Agua de Piña Pepino 1 L",
-    "precio": 39.0,
     "unidad": "un"
   },
   {
@@ -2335,39 +1429,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Fresh Jugo de Naranja Natural 500 ml",
-    "precio": 58.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Perejil Empacada 50 g",
     "precio": 41.9,
     "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Sopa Puchero 1 kg",
-    "precio": 79.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ensalada Arugula Organica 1 Pz",
-    "precio": 80.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HCF Cacahuate Cantinero 454 g",
-    "precio": 65.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Mr Lucky Tomate Bola Orgánico 1 kg",
-    "precio": 68.0,
-    "unidad": "kg"
   },
   {
     "tienda": "HEB",
@@ -2383,74 +1447,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Pimienta Limon 1 Kg",
-    "precio": 125.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada Florence Orgánica 200 g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jugo de Kale Espinaca 1 L",
-    "precio": 62.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Pik Penk Nopal Enchilado 250 g",
-    "precio": 119.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ajonjoli 1 kg",
-    "precio": 135.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Vegetalistos Jícama Precortada",
-    "precio": 41.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Vegetalistos Zanahoria Baby 1 pz",
-    "precio": 41.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Lechuga Hidroponica Trio Mix 1 Pz",
-    "precio": 50.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Antioxidante de Alimentos Individual",
-    "precio": 156.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Te Cola de Caballo 30 g",
-    "precio": 30.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Jengibre",
     "precio": 188.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ciruela Pasa Sin Hueso 1 Kg",
-    "precio": 278.0,
     "unidad": "kg"
   },
   {
@@ -2461,86 +1459,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Amaranto con Miel 1 Kg",
-    "precio": 230.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Pimienta Negra 1 Kg",
-    "precio": 282.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Linaza 1 kg",
-    "precio": 105.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Granola 1 kg",
-    "precio": 128.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Coco Rallado 1 Kg",
-    "precio": 282.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "HEB Cereza Importada",
     "precio": 261.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HCF Cacahuate Cantinero 1 pz",
-    "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Almendra en Hojuela con Cuticula 1 Kg",
-    "precio": 492.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Almendra Fileteada 300 g",
-    "precio": 121.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Trozos de Nuez 300 g",
-    "precio": 156.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Arandano Enchilado 1 Kg",
-    "precio": 293.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Quinoa 1 kg",
-    "precio": 139.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Granillo de Nuez 300g 300 g",
-    "precio": 156.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Uva Pasa 1 kg",
-    "precio": 122.0,
     "unidad": "kg"
   },
   {
@@ -2557,44 +1477,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Canela 1 kg",
-    "precio": 992.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Cacahuate Vario Enchilado 1 Kg",
-    "precio": 91.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Pimienta Molida 1 Kg",
-    "precio": 321.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Cacahuate Garampinado 1 Kg",
-    "precio": 114.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Manzana Roja Nacional",
     "precio": 46.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Canela Molida 1 Kg",
-    "precio": 156.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Comino Molido 1 Kg",
-    "precio": 268.0,
     "unidad": "kg"
   },
   {
@@ -2605,57 +1489,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Aderezo Creamy Chipotle Ranch 1 Pz",
-    "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Durazno Amarillo Sup Michoacan",
     "precio": 105.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Zanahoria Organica 1 Pz",
-    "precio": 49.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Tomate Verde Organico 1 Pz",
-    "precio": 46.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Botanero Mix Grande",
-    "precio": 83.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Vinagreta Italiana Ajo Parmesano 1 Pz",
-    "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Vinagreta de Frambuesa 1 Pz",
-    "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Pepino Cortado",
-    "precio": 94.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Ensalada Coleslaw 1 Pz",
-    "precio": 56.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -2677,48 +1513,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "HEB Organics Almendras Organicas 200 g",
-    "precio": 146.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Vegetalistos Ensalada Super Food 5 200 g 1 Pz",
-    "precio": 56.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Salsa Guacamole Gde 1 pz",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Jugo Verde Grande 1 pz",
-    "precio": 98.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Fresh Champiñones Portabella Rellenos 2 pz",
-    "precio": 56.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Salsa del Dia Chica 250 ml",
-    "precio": 28.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Salsa Roja Casera Gde 500 ml",
-    "precio": 47.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Shitake Seleccionado 1 Pz",
     "precio": 52.0,
     "unidad": "un"
@@ -2731,39 +1525,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Jugo de Manzana 1 pz",
-    "precio": 100.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Pico de Gallo",
-    "precio": 52.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Leonali Vegetalistos Ensalada Oriental 300 g",
-    "precio": 79.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Salsa Verde Casera Ch 250 ml",
-    "precio": 28.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Pera Red D'Anjou",
     "precio": 62.9,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Aderezo Chunky Blue Cheese LiteHouse 384 ml",
-    "precio": 105.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -2845,12 +1609,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Mr Lucky Corazón Apio Orgánico con 24 pz",
-    "precio": 37.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Seasons Select Naranja Malla 2 kg",
     "precio": 58.0,
     "unidad": "un"
@@ -2905,12 +1663,6 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Frambuesa Org 170 Grs 1 Pz",
-    "precio": 70.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Portobella Entero 500 g",
     "precio": 94.0,
     "unidad": "un"
@@ -2929,39 +1681,9 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Tierra Linda Ciruela Pasa sin Hueso 220 g",
-    "precio": 94.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Nuez de la India  1 Cmt",
-    "precio": 124.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Bok Choy  1 Kg",
     "precio": 29.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Organics Manzana Gala 907 g",
-    "precio": 81.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Stir Fry Brócoli, Zanahoria y Chicharos 340 g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "HEB Ensalada Chile Ancho 382 g",
-    "precio": 73.0,
-    "unidad": "un"
   },
   {
     "tienda": "HEB",
@@ -2977,26 +1699,8 @@
   },
   {
     "tienda": "HEB",
-    "nombre": "Mix de Cacahuates y Arándano",
-    "precio": 146.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Espinaca Y Spring Mix 200gr  1 Cmt",
-    "precio": 60.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
     "nombre": "Pasta de Ajo Mr Lucky 100 g",
     "precio": 45.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Arugula Flow Pack Mr Lucky 200 g",
-    "precio": 81.0,
     "unidad": "un"
   }
 ]

@@ -80,8 +80,9 @@ def main():
     for store_name, products in stores.items():
         basket[store_name] = match_basket(products, patterns)
 
-    # data/latest.json: snapshot de hoy, pivotado por producto
-    latest = {"fecha": today, "productos": {}}
+    # data/latest.json: snapshot de hoy, pivotado por producto (canasta) +
+    # catálogo completo por tienda (todo fruta/verdura natural, sin procesados)
+    latest = {"fecha": today, "productos": {}, "catalogos": {}}
     for canon in patterns:
         latest["productos"][canon] = {}
         for store_name in stores:
@@ -92,22 +93,43 @@ def main():
                     "nombre": match["nombre"],
                     "unidad": match.get("unidad", ""),
                 }
+
+    for store_name, products in stores.items():
+        ordenados = sorted(products, key=lambda p: normalize(p["nombre"]))
+        latest["catalogos"][store_name] = [
+            {"nombre": p["nombre"], "precio": p["precio"], "unidad": p.get("unidad", "")}
+            for p in ordenados
+        ]
+
     (DATA_DIR / "latest.json").write_text(
         json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    # data/history.csv: una fila por producto/tienda/día, para graficar tendencia
+    # data/history.csv: una fila por producto/tienda/día, para graficar tendencia.
+    # Si ya corrió hoy (re-ejecución manual), reemplaza las filas de hoy en vez
+    # de duplicarlas.
     history_file = DATA_DIR / "history.csv"
-    is_new = not history_file.exists()
-    with open(history_file, "a", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        if is_new:
-            writer.writerow(["fecha", "producto", "tienda", "precio", "nombre_original", "unidad"])
-        for canon in patterns:
-            for store_name in stores:
-                match = basket[store_name].get(canon)
-                if match:
-                    writer.writerow([today, canon, store_name, match["precio"], match["nombre"], match.get("unidad", "")])
+    fieldnames = ["fecha", "producto", "tienda", "precio", "nombre_original", "unidad"]
+    filas_previas = []
+    if history_file.exists():
+        with open(history_file, newline="", encoding="utf-8") as f:
+            filas_previas = [r for r in csv.DictReader(f) if r["fecha"] != today]
+
+    filas_hoy = []
+    for canon in patterns:
+        for store_name in stores:
+            match = basket[store_name].get(canon)
+            if match:
+                filas_hoy.append({
+                    "fecha": today, "producto": canon, "tienda": store_name,
+                    "precio": match["precio"], "nombre_original": match["nombre"],
+                    "unidad": match.get("unidad", ""),
+                })
+
+    with open(history_file, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(filas_previas + filas_hoy)
 
     print("Listo.")
 

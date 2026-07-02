@@ -224,19 +224,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Jícama por Kg",
-    "precio": 29.9,
+    "precio": 29.5,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Mandarina Chumis 674g",
     "precio": 68.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Espinaca Baby Vegetalistos 125g",
-    "precio": 37.9,
     "unidad": "un"
   },
   {
@@ -363,12 +357,6 @@
     "tienda": "Chedraui",
     "nombre": "Toronja por Kg",
     "precio": 28.9,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Naranja de Jugo por Kg",
-    "precio": 39.9,
     "unidad": "kg"
   },
   {
@@ -625,12 +613,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Freshly Mixta 300g",
-    "precio": 37.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Zanahoria rallada Vegetalistos 340g",
     "precio": 32.9,
     "unidad": "un"
@@ -639,18 +621,6 @@
     "tienda": "Chedraui",
     "nombre": "Palitos de Apio Orgánico 4 Piezas de 100gr",
     "precio": 44.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Selecto Verde 284g",
-    "precio": 39.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Selecto Campestre 284g",
-    "precio": 39.0,
     "unidad": "un"
   },
   {
@@ -799,12 +769,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Ranch Vegetalistos Bolsa 200g",
-    "precio": 37.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Manzana Granny Chumis 552g",
     "precio": 56.5,
     "unidad": "un"
@@ -826,12 +790,6 @@
     "nombre": "Manzana Granny Smith en Bolsa por kg",
     "precio": 58.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Mezcla Mr. Lucky Brócoli Coliflor 454g",
-    "precio": 37.0,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -871,18 +829,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Eva Toscana 250g",
-    "precio": 65.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Eva Primavera 250g",
-    "precio": 43.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Lechuga Francesa Corazón de Eva 2 Piezas",
     "precio": 44.9,
     "unidad": "un"
@@ -892,12 +838,6 @@
     "nombre": "Chile de Árbol por Kg",
     "precio": 115.0,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Orgánica Earthbound Farm Baby Arúgula 142g",
-    "precio": 124.9,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -1069,12 +1009,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Freshly Coleslaw 420g",
-    "precio": 42.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Menta Fresca Tiempo de Cosecha 50g",
     "precio": 43.5,
     "unidad": "un"
@@ -1113,12 +1047,6 @@
     "tienda": "Chedraui",
     "nombre": "Jícama Vegetalistos 454g",
     "precio": 44.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Super Foood 5 Vegetalistos 200g",
-    "precio": 56.9,
     "unidad": "un"
   },
   {
@@ -1357,12 +1285,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Fresca Mixta Eva 300g",
-    "precio": 48.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Zanahoria Baby Vegetalistos 150g",
     "precio": 22.9,
     "unidad": "un"
@@ -1372,12 +1294,6 @@
     "nombre": "Guayaba Clamshell kg",
     "precio": 69.5,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Básica Mixta Vegetalistos 200g",
-    "precio": 34.9,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -1435,20 +1351,8 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Mezcla Mr. Lucky Brócoli Zanahoria 454g",
-    "precio": 49.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Lechuga Mr. Lucky Rallada 284g",
     "precio": 35.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Betabel Crujiente Fresh Gourmet Topping para Ensalada 99g",
-    "precio": 55.0,
     "unidad": "un"
   },
   {
@@ -1483,20 +1387,8 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Cebolla Salada Fresh Gourmet Topping para ensalada 99g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Hojas de Lechuga MrLucky' Orejona Orgánica 250g",
     "precio": 57.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Italiana Mr. Lucky Orgánica 284g",
-    "precio": 48.0,
     "unidad": "un"
   },
   {
@@ -1519,26 +1411,8 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Oriental Vegetalistos 300g",
-    "precio": 74.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Nopal Flor Azteca Baby Nopal 500g",
     "precio": 39.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Eva Mexicana 250g",
-    "precio": 66.8,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Eva César Premium 250g",
-    "precio": 68.0,
     "unidad": "un"
   },
   {
@@ -1627,12 +1501,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Esparrago Fresh Garden 450g",
-    "precio": 155.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Chalot Granel Kg",
     "precio": 142.5,
     "unidad": "kg"
@@ -1647,12 +1515,6 @@
     "tienda": "Chedraui",
     "nombre": "Raíz de Azafrán por kg",
     "precio": 63.9,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Germen Alfalfa por kg",
-    "precio": 98.0,
     "unidad": "kg"
   },
   {
@@ -1681,12 +1543,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Cilantro Vegetalistos 100 g",
-    "precio": 29.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Espinaca Mr Lucky Arugula 200g",
     "precio": 86.0,
     "unidad": "un"
@@ -1695,12 +1551,6 @@
     "tienda": "Chedraui",
     "nombre": "Lechuga Mr Lucky Orejona Organica 2 Piezas",
     "precio": 44.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada EarthBound Primavera 284g",
-    "precio": 159.9,
     "unidad": "un"
   },
   {
@@ -1795,12 +1645,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Eva Provenza 200g",
-    "precio": 57.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Romero Fresco Tiempo de Cosecha 50g",
     "precio": 43.5,
     "unidad": "un"
@@ -1849,45 +1693,9 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Arugula Baby Campo Vivo Orgánica 100g",
-    "precio": 62.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Manzana Honeycrisp por kg",
     "precio": 59.9,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Orgánica Earthbound Farm Spring Mix 142g",
-    "precio": 124.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cruton Italiano Fresh Gourmet para ensalada 142g",
-    "precio": 56.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cruton Mediterráneo Fresh Gourmet para Ensalada 142g",
-    "precio": 56.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cruton Cesar Fresh Gourmet para Ensalada 142g",
-    "precio": 66.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cebolla Ajo Pimienta Fresh Gourmet Topping para Ensalada 99g",
-    "precio": 52.0,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -1935,18 +1743,6 @@
     "tienda": "Chedraui",
     "nombre": "Jitomate Uva Campo Vivo Orgánico 280g",
     "precio": 51.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Espinaca Campo Vivo Orgánica 180g",
-    "precio": 80.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Arugula Campo Vivo Orgánica 180g",
-    "precio": 77.5,
     "unidad": "un"
   },
   {
@@ -2002,12 +1798,6 @@
     "nombre": "Aguacate Chiapas por Kg",
     "precio": 59.5,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Orgánica Earthbound Farm Baby Spinach 142g",
-    "precio": 124.9,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -2089,12 +1879,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Mr. Lucky Mixta 454g",
-    "precio": 41.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Pepino Blanco kg",
     "precio": 57.0,
     "unidad": "kg"
@@ -2107,24 +1891,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Vegetalistos Primavera 250 g",
-    "precio": 42.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Vegetalistos Italiana 175g",
-    "precio": 37.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Tropical Vegetalistos 230g",
-    "precio": 46.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Veggie Snack Mr Lucky 560g",
     "precio": 67.5,
     "unidad": "un"
@@ -2133,12 +1899,6 @@
     "tienda": "Chedraui",
     "nombre": "MoraAzul Selecto Brand 400g",
     "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Casera Eva 250g",
-    "precio": 63.1,
     "unidad": "un"
   },
   {
@@ -2175,12 +1935,6 @@
     "tienda": "Chedraui",
     "nombre": "Kale Arugula Daily Orgánica 150g",
     "precio": 61.2,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Champisalsas Champiñones Monteblanco Salsa Verde 250g",
-    "precio": 33.0,
     "unidad": "un"
   },
   {
@@ -2223,24 +1977,6 @@
     "tienda": "Chedraui",
     "nombre": "Jitomate Saladet Campo Vivo Orgánico 450g",
     "precio": 49.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cruton Queso y Ajo Fresh Gourmet para Ensalada 142g",
-    "precio": 56.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cruton Ranch Fresh Gourmet para Ensalada 142g",
-    "precio": 56.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Orgánica Earthbound Farm Kale 142g",
-    "precio": 124.9,
     "unidad": "un"
   },
   {
@@ -2293,12 +2029,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Croutones Marzetti Cesar 142g",
-    "precio": 74.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Pimiento Guernika Rancho San Agustín 24 Piezas",
     "precio": 99.9,
     "unidad": "un"
@@ -2313,12 +2043,6 @@
     "tienda": "Chedraui",
     "nombre": "Baby Bella Monteblanco Selección 350g",
     "precio": 54.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Hidróponica Hidrocool Energética con Espinaca y Arúgula 250g",
-    "precio": 49.0,
     "unidad": "un"
   },
   {
@@ -2371,12 +2095,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Mezcla Mr. Lucky Vegetales 454g",
-    "precio": 49.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Mini Flakes Mr. Lucky de Coliflor 454g",
     "precio": 42.0,
     "unidad": "un"
@@ -2413,18 +2131,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Kale Campo Vivo Orgánica 100g",
-    "precio": 60.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Orgánica Earthbound Farm Kale con Arúgula 142g",
-    "precio": 124.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Epazote Alfavid 30g",
     "precio": 20.9,
     "unidad": "un"
@@ -2437,27 +2143,9 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Tortilla Santa Fe Fresh Gourmet Topping para Ensalada 99g",
-    "precio": 52.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Francesa Mr. Lucky Orgánica 200g",
-    "precio": 48.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Grano de Elote por kg",
     "precio": 68.5,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Crouton Marzetti Cheese&Garlic 142g",
-    "precio": 74.9,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -2485,12 +2173,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Espinaca Baby Daily 200g",
-    "precio": 64.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Rábano Largo Rollo",
     "precio": 18.5,
     "unidad": "un"
@@ -2499,12 +2181,6 @@
     "tienda": "Chedraui",
     "nombre": "Nopal Flor Azteca Cambray en Salmuera 1kg",
     "precio": 74.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Elote First Street Golden 340g",
-    "precio": 79.6,
     "unidad": "un"
   },
   {
@@ -2539,26 +2215,8 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ensalada Nutribits Spicy 150 g",
-    "precio": 59.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Pimiento Nature Sweet Mini 454 g",
     "precio": 9.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Vegetalistos Mixta 250 g",
-    "precio": 32.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Topping Nature Source Crujiente 454g",
-    "precio": 189.0,
     "unidad": "un"
   },
   {
@@ -2581,30 +2239,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Topping Natural Source para Ensalada Bayas Salvaje 454g",
-    "precio": 175.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Topping Nature Source para Ensalada Crujiente 99g",
-    "precio": 79.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Topping Nature Source para Ensalada Bayas Salvaje 99g",
-    "precio": 79.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Garden Mix Vegetalistos 150g",
-    "precio": 69.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Champiñón Baby Bella Relleno Tocino 250g",
     "precio": 59.9,
     "unidad": "un"
@@ -2614,12 +2248,6 @@
     "nombre": "Melón Hami",
     "precio": 54.9,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Soya Limón Eva 260g",
-    "precio": 59.0,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -2659,12 +2287,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Crudité Fuente de Sodas Chedraui",
-    "precio": 29.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Mandarina Nova kg",
     "precio": 69.0,
     "unidad": "kg"
@@ -2673,18 +2295,6 @@
     "tienda": "Chedraui",
     "nombre": "Zanahoria Noodles Nutribits Clam 150g",
     "precio": 54.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Springmix Orgánica Nutribits Clamshell 142g",
-    "precio": 84.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Supergreen Orgánica Nutribits Clamshell 142g",
-    "precio": 84.9,
     "unidad": "un"
   },
   {
@@ -2698,24 +2308,6 @@
     "nombre": "Melón Juan Canario Kg",
     "precio": 49.9,
     "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Eva Wok Teriyaki 420g",
-    "precio": 64.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Champisalsas Champiñones Monteblanco Salsa Pasilla 250g",
-    "precio": 33.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Champisalsas Champiñones Monteblanco Salsa Morita 250g",
-    "precio": 32.0,
-    "unidad": "un"
   },
   {
     "tienda": "Chedraui",
@@ -2851,12 +2443,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Guarnición Hidrocool Mixta 500g",
-    "precio": 49.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Ajo Japonés Malla 150g",
     "precio": 98.5,
     "unidad": "un"
@@ -2913,24 +2499,6 @@
     "tienda": "Chedraui",
     "nombre": "Coles de Bruselas Eat Smart Bolsa 340g",
     "precio": 99.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cruton Cesar Orgánico Fresh Gourmet para Ensalada 142g",
-    "precio": 56.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cruton Cesar Ajo Fresh Gourmet Ensalada 142g",
-    "precio": 67.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Tortilla Salada Fresh Gourmet Topping para ensalada 99g",
-    "precio": 52.0,
     "unidad": "un"
   },
   {
