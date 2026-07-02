@@ -1,14 +1,442 @@
 {
-  "platano": "\\bplatano\\b",
-  "manzana": "\\bmanzana\\b",
-  "naranja": "\\bnaranja\\b",
-  "limon": "\\blimon\\b",
-  "jitomate_tomate": "\\b(jitomate|tomate saladet|tomate bola|tomate roma)\\b",
-  "cebolla": "\\bcebolla\\b",
-  "papa": "\\bpapa\\b",
-  "zanahoria": "\\bzanahoria\\b",
-  "aguacate": "\\baguacate\\b",
-  "pepino": "\\bpepino\\b",
-  "chile_serrano": "\\bchile serrano\\b",
-  "cilantro": "\\bcilantro\\b"
+  "acelga": {
+    "nombre": "Acelga",
+    "patron": "(?=.*\\b(acelga)\\w*\\b)"
+  },
+  "aguacate": {
+    "nombre": "Aguacate Hass",
+    "patron": "(?=.*\\b(aguacate)\\w*\\b)"
+  },
+  "ajo": {
+    "nombre": "Ajo",
+    "patron": "(?=.*\\b(ajo)\\w*\\b)"
+  },
+  "alcachofa": {
+    "nombre": "Alcachofa",
+    "patron": "(?=.*\\b(alcachofa)\\w*\\b)"
+  },
+  "alfalfa": {
+    "nombre": "Alfalfa",
+    "patron": "(?=.*\\b(alfalfa)\\w*\\b)"
+  },
+  "apio": {
+    "nombre": "Apio",
+    "patron": "(?=.*\\b(apio)\\w*\\b)"
+  },
+  "arugula": {
+    "nombre": "Arúgula",
+    "patron": "(?=.*\\b(arugul)\\w*\\b)"
+  },
+  "berenjena": {
+    "nombre": "Berenjena",
+    "patron": "(?=.*\\b(berenjena)\\w*\\b)"
+  },
+  "betabel": {
+    "nombre": "Betabel",
+    "patron": "(?=.*\\b(betabel)\\w*\\b)"
+  },
+  "blueberry": {
+    "nombre": "Blueberry / Arándano",
+    "patron": "(?=.*\\b(arandano|blueberry)\\w*\\b)"
+  },
+  "brocoli": {
+    "nombre": "Brócoli",
+    "patron": "(?=.*\\b(brocoli)\\w*\\b)"
+  },
+  "calabaza_italiana": {
+    "nombre": "Calabaza Italiana",
+    "patron": "(?=.*\\b(calabaza)\\w*\\b)(?=.*\\b(italian)\\w*\\b)"
+  },
+  "camote": {
+    "nombre": "Camote",
+    "patron": "(?=.*\\b(camote)\\w*\\b)"
+  },
+  "cana_azucar": {
+    "nombre": "Caña de Azúcar",
+    "patron": "(?=.*\\b(cana)\\w*\\b)"
+  },
+  "cebolla_blanca": {
+    "nombre": "Cebolla Blanca",
+    "patron": "(?=.*\\b(cebolla)\\w*\\b)(?=.*\\b(blanca)\\w*\\b)"
+  },
+  "cebolla_cambray": {
+    "nombre": "Cebolla de Cambray",
+    "patron": "(?=.*\\b(cebolla)\\w*\\b)(?=.*\\b(cambray)\\w*\\b)"
+  },
+  "cebolla_morada": {
+    "nombre": "Cebolla Morada",
+    "patron": "(?=.*\\b(cebolla)\\w*\\b)(?=.*\\b(morada)\\w*\\b)"
+  },
+  "cebollin": {
+    "nombre": "Cebollín",
+    "patron": "(?=.*\\b(cebollin)\\w*\\b)"
+  },
+  "cereza": {
+    "nombre": "Cereza",
+    "patron": "(?=.*\\b(cereza)\\w*\\b)"
+  },
+  "champinon": {
+    "nombre": "Champiñón",
+    "patron": "(?=.*\\b(champin)\\w*\\b)"
+  },
+  "chayote": {
+    "nombre": "Chayote",
+    "patron": "(?=.*\\b(chayote)\\w*\\b)"
+  },
+  "chicharo": {
+    "nombre": "Chícharo",
+    "patron": "(?=.*\\b(chicharo)\\w*\\b)"
+  },
+  "chile_caribe": {
+    "nombre": "Chile Caribe",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(caribe)\\w*\\b)"
+  },
+  "chile_chilaca": {
+    "nombre": "Chile Chilaca",
+    "patron": "(?=.*\\b(chilaca)\\w*\\b)"
+  },
+  "chile_arbol": {
+    "nombre": "Chile de Árbol",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(arbol)\\w*\\b)"
+  },
+  "chile_guajillo": {
+    "nombre": "Chile Guajillo",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(guajillo)\\w*\\b)"
+  },
+  "chile_guero": {
+    "nombre": "Chile Güero / Húngaro",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(guero|hungaro)\\w*\\b)"
+  },
+  "chile_habanero": {
+    "nombre": "Chile Habanero",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(habanero)\\w*\\b)"
+  },
+  "chile_jalapeno": {
+    "nombre": "Chile Jalapeño",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(jalape)\\w*\\b)"
+  },
+  "chile_poblano": {
+    "nombre": "Chile Poblano",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(poblano)\\w*\\b)"
+  },
+  "chile_serrano": {
+    "nombre": "Chile Serrano",
+    "patron": "(?=.*\\b(chile)\\w*\\b)(?=.*\\b(serrano)\\w*\\b)"
+  },
+  "cilantro": {
+    "nombre": "Cilantro",
+    "patron": "(?=.*\\b(cilantro)\\w*\\b)"
+  },
+  "ciruela_moscatel": {
+    "nombre": "Ciruela Moscatel",
+    "patron": "(?=.*\\b(ciruela)\\w*\\b)(?=.*\\b(moscatel)\\w*\\b)"
+  },
+  "ciruela_roja": {
+    "nombre": "Ciruela Roja",
+    "patron": "(?=.*\\b(ciruela)\\w*\\b)(?!.*\\b(moscatel)\\w*\\b)"
+  },
+  "col_blanca": {
+    "nombre": "Col Blanca",
+    "patron": "(?=.*\\b(col)\\w*\\b)(?=.*\\b(blanca)\\w*\\b)"
+  },
+  "coliflor": {
+    "nombre": "Coliflor",
+    "patron": "(?=.*\\b(coliflor)\\w*\\b)"
+  },
+  "durazno_amarillo": {
+    "nombre": "Durazno Amarillo",
+    "patron": "(?=.*\\b(durazno)\\w*\\b)(?=.*\\b(amarillo)\\w*\\b)"
+  },
+  "durazno_prisco": {
+    "nombre": "Durazno Prisco",
+    "patron": "(?=.*\\b(durazno)\\w*\\b)(?=.*\\b(prisco)\\w*\\b)"
+  },
+  "durazno_rojo": {
+    "nombre": "Durazno Rojo",
+    "patron": "(?=.*\\b(durazno)\\w*\\b)(?=.*\\b(rojo)\\w*\\b)"
+  },
+  "ejote": {
+    "nombre": "Ejote",
+    "patron": "(?=.*\\b(ejote)\\w*\\b)"
+  },
+  "elote": {
+    "nombre": "Elote",
+    "patron": "(?=.*\\b(elote)\\w*\\b)"
+  },
+  "epazote": {
+    "nombre": "Epazote",
+    "patron": "(?=.*\\b(epazote)\\w*\\b)"
+  },
+  "esparrago": {
+    "nombre": "Espárrago",
+    "patron": "(?=.*\\b(esparrago)\\w*\\b)"
+  },
+  "espinaca": {
+    "nombre": "Espinaca",
+    "patron": "(?=.*\\b(espinaca)\\w*\\b)"
+  },
+  "frambuesa": {
+    "nombre": "Frambuesa",
+    "patron": "(?=.*\\b(frambuesa)\\w*\\b)"
+  },
+  "fresa": {
+    "nombre": "Fresa",
+    "patron": "(?=.*\\b(fresa)\\w*\\b)"
+  },
+  "germen_soya": {
+    "nombre": "Germen de Soya",
+    "patron": "(?=.*\\b(germen)\\w*\\b)"
+  },
+  "guanabana": {
+    "nombre": "Guanábana",
+    "patron": "(?=.*\\b(guanabana)\\w*\\b)"
+  },
+  "guayaba": {
+    "nombre": "Guayaba",
+    "patron": "(?=.*\\b(guayaba)\\w*\\b)"
+  },
+  "hierbabuena": {
+    "nombre": "Hierbabuena",
+    "patron": "(?=.*\\b(hierbabuena)\\w*\\b)"
+  },
+  "jamaica": {
+    "nombre": "Jamaica",
+    "patron": "(?=.*\\b(jamaica)\\w*\\b)"
+  },
+  "jengibre": {
+    "nombre": "Jengibre",
+    "patron": "(?=.*\\b(jengibre)\\w*\\b)"
+  },
+  "jicama": {
+    "nombre": "Jícama",
+    "patron": "(?=.*\\b(jicama)\\w*\\b)"
+  },
+  "jitomate_saladet": {
+    "nombre": "Jitomate Saladet",
+    "patron": "(?=.*\\b(jitomate|tomate)\\w*\\b)(?=.*\\b(saladet)\\w*\\b)"
+  },
+  "jitomate_bola": {
+    "nombre": "Jitomate / Tomate Bola",
+    "patron": "(?=.*\\b(jitomate|tomate)\\w*\\b)(?=.*\\b(bola)\\w*\\b)"
+  },
+  "kiwi": {
+    "nombre": "Kiwi",
+    "patron": "(?=.*\\b(kiwi)\\w*\\b)"
+  },
+  "lechuga_italiana": {
+    "nombre": "Lechuga Italiana",
+    "patron": "(?=.*\\b(lechuga)\\w*\\b)(?=.*\\b(italian)\\w*\\b)"
+  },
+  "lechuga_orejona": {
+    "nombre": "Lechuga Orejona / Larga / Lisa",
+    "patron": "(?=.*\\b(lechuga)\\w*\\b)(?=.*\\b(orejona|larga|lisa)\\w*\\b)"
+  },
+  "lechuga_romana": {
+    "nombre": "Lechuga Romana",
+    "patron": "(?=.*\\b(lechuga)\\w*\\b)(?=.*\\b(romana)\\w*\\b)"
+  },
+  "lechuga_sangria": {
+    "nombre": "Lechuga Sangría",
+    "patron": "(?=.*\\b(lechuga)\\w*\\b)(?=.*\\b(sangria)\\w*\\b)"
+  },
+  "lichi": {
+    "nombre": "Lichi",
+    "patron": "(?=.*\\b(lichi)\\w*\\b)"
+  },
+  "limon": {
+    "nombre": "Limón",
+    "patron": "(?=.*\\b(limon)\\w*\\b)"
+  },
+  "mamey": {
+    "nombre": "Mamey",
+    "patron": "(?=.*\\b(mamey)\\w*\\b)"
+  },
+  "mandarina": {
+    "nombre": "Mandarina",
+    "patron": "(?=.*\\b(mandarina)\\w*\\b)"
+  },
+  "mango_ataulfo": {
+    "nombre": "Mango Ataulfo",
+    "patron": "(?=.*\\b(mango)\\w*\\b)(?=.*\\b(ataulfo)\\w*\\b)"
+  },
+  "mango_manila": {
+    "nombre": "Mango Manila",
+    "patron": "(?=.*\\b(mango)\\w*\\b)(?=.*\\b(manila)\\w*\\b)"
+  },
+  "mango_paraiso": {
+    "nombre": "Mango Paraíso",
+    "patron": "(?=.*\\b(mango)\\w*\\b)(?=.*\\b(paraiso)\\w*\\b)"
+  },
+  "manzana_golden": {
+    "nombre": "Manzana Golden",
+    "patron": "(?=.*\\b(manzana)\\w*\\b)(?=.*\\b(golden)\\w*\\b)"
+  },
+  "manzana_granny": {
+    "nombre": "Manzana Granny Smith",
+    "patron": "(?=.*\\b(manzana)\\w*\\b)(?=.*\\b(granny)\\w*\\b)"
+  },
+  "manzana_roja": {
+    "nombre": "Manzana Roja",
+    "patron": "(?=.*\\b(manzana)\\w*\\b)(?=.*\\b(roja)\\w*\\b)"
+  },
+  "manzana_royal_gala": {
+    "nombre": "Manzana Royal Gala",
+    "patron": "(?=.*\\b(manzana)\\w*\\b)(?=.*\\b(gala)\\w*\\b)"
+  },
+  "mejorana": {
+    "nombre": "Mejorana",
+    "patron": "(?=.*\\b(mejorana)\\w*\\b)"
+  },
+  "melon_amarillo": {
+    "nombre": "Melón Amarillo",
+    "patron": "(?=.*\\b(melon)\\w*\\b)(?=.*\\b(amarillo)\\w*\\b)"
+  },
+  "melon_chino": {
+    "nombre": "Melón Chino",
+    "patron": "(?=.*\\b(melon)\\w*\\b)(?=.*\\b(chino)\\w*\\b)"
+  },
+  "naranja": {
+    "nombre": "Naranja",
+    "patron": "(?=.*\\b(naranja)\\w*\\b)"
+  },
+  "nopal_entero": {
+    "nombre": "Nopal Entero",
+    "patron": "(?=.*\\b(nopal)\\w*\\b)(?!.*\\b(picado)\\w*\\b)"
+  },
+  "nopal_picado": {
+    "nombre": "Nopal Picado",
+    "patron": "(?=.*\\b(nopal)\\w*\\b)(?=.*\\b(picado)\\w*\\b)"
+  },
+  "papa_blanca": {
+    "nombre": "Papa Blanca",
+    "patron": "(?=.*\\b(papa)\\w*\\b)(?=.*\\b(blanca)\\w*\\b)"
+  },
+  "papa_cambray": {
+    "nombre": "Papa Cambray",
+    "patron": "(?=.*\\b(papa)\\w*\\b)(?=.*\\b(cambray)\\w*\\b)"
+  },
+  "papaya": {
+    "nombre": "Papaya Maradol",
+    "patron": "(?=.*\\b(papaya)\\w*\\b)"
+  },
+  "pepino": {
+    "nombre": "Pepino",
+    "patron": "(?=.*\\b(pepino)\\w*\\b)"
+  },
+  "pera_danjou": {
+    "nombre": "Pera D'Anjou",
+    "patron": "(?=.*\\b(pera)\\w*\\b)(?=.*\\b(anjou)\\w*\\b)"
+  },
+  "pera_mantequilla": {
+    "nombre": "Pera Mantequilla",
+    "patron": "(?=.*\\b(pera)\\w*\\b)(?=.*\\b(mantequilla)\\w*\\b)"
+  },
+  "perejil": {
+    "nombre": "Perejil",
+    "patron": "(?=.*\\b(perejil)\\w*\\b)"
+  },
+  "pimiento_amarillo": {
+    "nombre": "Pimiento Amarillo",
+    "patron": "(?=.*\\b(pimiento)\\w*\\b)(?=.*\\b(amarillo)\\w*\\b)"
+  },
+  "pimiento_naranja": {
+    "nombre": "Pimiento Naranja",
+    "patron": "(?=.*\\b(pimiento)\\w*\\b)(?=.*\\b(naranja)\\w*\\b)"
+  },
+  "pimiento_rojo": {
+    "nombre": "Pimiento Rojo",
+    "patron": "(?=.*\\b(pimiento)\\w*\\b)(?=.*\\b(rojo)\\w*\\b)"
+  },
+  "pimiento_verde": {
+    "nombre": "Pimiento Verde",
+    "patron": "(?=.*\\b(pimiento)\\w*\\b)(?=.*\\b(verde)\\w*\\b)"
+  },
+  "pina": {
+    "nombre": "Piña",
+    "patron": "(?=.*\\b(pina)\\w*\\b)"
+  },
+  "pitahaya": {
+    "nombre": "Pitahaya",
+    "patron": "(?=.*\\b(pitahaya)\\w*\\b)"
+  },
+  "platano_chiapas": {
+    "nombre": "Plátano",
+    "patron": "(?=.*\\b(platano)\\w*\\b)"
+  },
+  "platano_macho": {
+    "nombre": "Plátano Macho",
+    "patron": "(?=.*\\b(platano)\\w*\\b)(?=.*\\b(macho)\\w*\\b)"
+  },
+  "rabano": {
+    "nombre": "Rábano",
+    "patron": "(?=.*\\b(rabano)\\w*\\b)"
+  },
+  "repollo": {
+    "nombre": "Repollo (Col Blanca)",
+    "patron": "(?=.*\\b(repollo)\\w*\\b)"
+  },
+  "sandia": {
+    "nombre": "Sandía",
+    "patron": "(?=.*\\b(sandia)\\w*\\b)"
+  },
+  "te_limon": {
+    "nombre": "Té Limón",
+    "patron": "(?=.*\\b(te)\\w*\\b)(?=.*\\b(limon)\\w*\\b)"
+  },
+  "tomate_huaje": {
+    "nombre": "Tomate Huaje",
+    "patron": "(?=.*\\b(tomate)\\w*\\b)(?=.*\\b(huaje)\\w*\\b)"
+  },
+  "tomate_cherry": {
+    "nombre": "Tomate Cherry",
+    "patron": "(?=.*\\b(tomate)\\w*\\b)(?=.*\\b(cherry)\\w*\\b)"
+  },
+  "tomate_verde": {
+    "nombre": "Tomate Verde",
+    "patron": "(?=.*\\b(tomate)\\w*\\b)(?=.*\\b(verde)\\w*\\b)"
+  },
+  "tomillo": {
+    "nombre": "Tomillo",
+    "patron": "(?=.*\\b(tomillo)\\w*\\b)"
+  },
+  "toronja": {
+    "nombre": "Toronja",
+    "patron": "(?=.*\\b(toronja)\\w*\\b)"
+  },
+  "uva_blanca": {
+    "nombre": "Uva Blanca",
+    "patron": "(?=.*\\b(uva)\\w*\\b)(?=.*\\b(blanca)\\w*\\b)"
+  },
+  "uva_globo": {
+    "nombre": "Uva Globo",
+    "patron": "(?=.*\\b(uva)\\w*\\b)(?=.*\\b(globo)\\w*\\b)"
+  },
+  "uva_roja": {
+    "nombre": "Uva Roja",
+    "patron": "(?=.*\\b(uva)\\w*\\b)(?=.*\\b(roja)\\w*\\b)"
+  },
+  "uva_verde": {
+    "nombre": "Uva Verde",
+    "patron": "(?=.*\\b(uva)\\w*\\b)(?=.*\\b(verde)\\w*\\b)"
+  },
+  "verdolaga": {
+    "nombre": "Verdolaga",
+    "patron": "(?=.*\\b(verdolaga)\\w*\\b)"
+  },
+  "yaca": {
+    "nombre": "Yaca",
+    "patron": "(?=.*\\b(yaca)\\w*\\b)"
+  },
+  "yuca": {
+    "nombre": "Yuca",
+    "patron": "(?=.*\\b(yuca)\\w*\\b)"
+  },
+  "zanahoria": {
+    "nombre": "Zanahoria",
+    "patron": "(?=.*\\b(zanahoria)\\w*\\b)"
+  },
+  "zarzamora": {
+    "nombre": "Zarzamora",
+    "patron": "(?=.*\\b(zarzamora)\\w*\\b)"
+  }
 }

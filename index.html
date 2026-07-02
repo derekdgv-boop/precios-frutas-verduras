@@ -74,6 +74,8 @@
   <h1>Precios de Frutas y Verduras en Aguascalientes</h1>
   <div class="sub" id="fecha">Cargando...</div>
 
+  <input class="search" id="buscadorCanasta" type="text" placeholder="Buscar producto en la canasta...">
+  <div class="catalogo-count" id="conteoCanasta"></div>
   <table id="tabla">
     <thead>
       <tr>
@@ -110,20 +112,6 @@
 </div>
 
 <script>
-const NOMBRES = {
-  platano: "Plátano",
-  manzana: "Manzana",
-  naranja: "Naranja",
-  limon: "Limón",
-  jitomate_tomate: "Jitomate / Tomate",
-  cebolla: "Cebolla",
-  papa: "Papa",
-  zanahoria: "Zanahoria",
-  aguacate: "Aguacate",
-  pepino: "Pepino",
-  chile_serrano: "Chile serrano",
-  cilantro: "Cilantro",
-};
 const TIENDAS = ["Chedraui", "HEB", "Comer"];
 
 async function main() {
@@ -132,30 +120,44 @@ async function main() {
     if (!res.ok) throw new Error("No se pudo cargar data/latest.json");
     const data = await res.json();
 
-    document.getElementById("fecha").textContent = "Última actualización: " + data.fecha;
+    document.getElementById("fecha").textContent = "Última actualización: " + data.fecha + " — " + Object.keys(data.productos).length + " productos";
 
     const tbody = document.getElementById("tbody");
-    tbody.innerHTML = "";
+    const buscadorCanasta = document.getElementById("buscadorCanasta");
+    const conteoCanasta = document.getElementById("conteoCanasta");
+    const entradas = Object.entries(data.productos)
+      .sort((a, b) => a[1].nombre_producto.localeCompare(b[1].nombre_producto, "es"));
 
-    for (const [canon, label] of Object.entries(NOMBRES)) {
-      const row = data.productos[canon] || {};
-      const precios = TIENDAS.map(t => row[t] ? row[t].precio : null);
-      const minPrecio = Math.min(...precios.filter(p => p !== null));
+    function renderCanasta() {
+      const filtro = buscadorCanasta.value.trim().toLowerCase();
+      const filtradas = filtro
+        ? entradas.filter(([, row]) => row.nombre_producto.toLowerCase().includes(filtro))
+        : entradas;
 
-      const tr = document.createElement("tr");
-      let html = `<td class="producto">${label}</td>`;
-      for (const t of TIENDAS) {
-        const info = row[t];
-        if (!info) {
-          html += `<td class="na">—</td>`;
-        } else {
-          const cls = info.precio === minPrecio ? "precio min" : "precio";
-          html += `<td class="${cls}">$${info.precio.toFixed(2)} <span class="unidad">/${info.unidad || "kg"}</span></td>`;
+      conteoCanasta.textContent = `${filtradas.length} de ${entradas.length} productos`;
+      tbody.innerHTML = "";
+
+      for (const [canon, row] of filtradas) {
+        const precios = TIENDAS.map(t => row[t] ? row[t].precio : null);
+        const minPrecio = Math.min(...precios.filter(p => p !== null));
+
+        const tr = document.createElement("tr");
+        let html = `<td class="producto">${row.nombre_producto}</td>`;
+        for (const t of TIENDAS) {
+          const info = row[t];
+          if (!info) {
+            html += `<td class="na">—</td>`;
+          } else {
+            const cls = info.precio === minPrecio ? "precio min" : "precio";
+            html += `<td class="${cls}">$${info.precio.toFixed(2)} <span class="unidad">/${info.unidad || "kg"}</span></td>`;
+          }
         }
+        tr.innerHTML = html;
+        tbody.appendChild(tr);
       }
-      tr.innerHTML = html;
-      tbody.appendChild(tr);
     }
+    buscadorCanasta.addEventListener("input", renderCanasta);
+    renderCanasta();
 
     // --- Catálogo completo con tabs + búsqueda ---
     const tabsEl = document.getElementById("tabs");

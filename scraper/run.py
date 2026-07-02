@@ -29,9 +29,9 @@ def normalize(text):
     return strip_accents(text or "").lower()
 
 
-def match_basket(products, patterns):
+def match_basket(products, catalogo):
     """Para cada producto canónico, regresa el primer artículo que haga match."""
-    compiled = {k: re.compile(p) for k, p in patterns.items()}
+    compiled = {k: re.compile(v["patron"]) for k, v in catalogo.items()}
     found = {}
     for prod in products:
         norm_name = normalize(prod["nombre"])
@@ -47,7 +47,7 @@ def main():
     today = datetime.now(TZ_MX).date().isoformat()
     print(f"Scrapeando precios para {today}...")
 
-    patterns = json.loads(PRODUCTS_FILE.read_text(encoding="utf-8"))
+    catalogo = json.loads(PRODUCTS_FILE.read_text(encoding="utf-8"))
 
     stores = {}
 
@@ -78,13 +78,13 @@ def main():
     # Arma la canasta comparativa
     basket = {}
     for store_name, products in stores.items():
-        basket[store_name] = match_basket(products, patterns)
+        basket[store_name] = match_basket(products, catalogo)
 
     # data/latest.json: snapshot de hoy, pivotado por producto (canasta) +
     # catálogo completo por tienda (todo fruta/verdura natural, sin procesados)
     latest = {"fecha": today, "productos": {}, "catalogos": {}}
-    for canon in patterns:
-        latest["productos"][canon] = {}
+    for canon, info in catalogo.items():
+        latest["productos"][canon] = {"nombre_producto": info["nombre"]}
         for store_name in stores:
             match = basket[store_name].get(canon)
             if match:
@@ -116,7 +116,7 @@ def main():
             filas_previas = [r for r in csv.DictReader(f) if r["fecha"] != today]
 
     filas_hoy = []
-    for canon in patterns:
+    for canon in catalogo:
         for store_name in stores:
             match = basket[store_name].get(canon)
             if match:
