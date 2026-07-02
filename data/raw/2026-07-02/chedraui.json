@@ -211,6 +211,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Perejil Liso Rollo",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Fresa Domo 454g",
     "precio": 71.4,
     "unidad": "un"
@@ -369,12 +375,6 @@
     "tienda": "Chedraui",
     "nombre": "Ajo Enmallado por pieza",
     "precio": 44.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Perejil Liso Rollo",
-    "precio": 9.9,
     "unidad": "un"
   },
   {
@@ -631,6 +631,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Zanahoria rallada Vegetalistos 340g",
+    "precio": 32.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Palitos de Apio Orgánico 4 Piezas de 100gr",
     "precio": 44.5,
     "unidad": "un"
@@ -817,6 +823,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Manzana Granny Smith en Bolsa por kg",
+    "precio": 58.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Mezcla Mr. Lucky Brócoli Coliflor 454g",
     "precio": 37.0,
     "unidad": "un"
@@ -831,12 +843,6 @@
     "tienda": "Chedraui",
     "nombre": "Tomates Uva y Cherry NatureSweet Constellation 467g",
     "precio": 75.92,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Zanahoria rallada Vegetalistos 340g",
-    "precio": 32.9,
     "unidad": "un"
   },
   {
@@ -967,6 +973,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Flor de Calabaza por kg",
+    "precio": 99.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Manzana Roja Rancho Tierra Generosa 600g (4 unidades)",
     "precio": 32.0,
     "unidad": "un"
@@ -1041,12 +1053,6 @@
     "tienda": "Chedraui",
     "nombre": "Chile Habanero Naranja por kg",
     "precio": 165.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Manzana Granny Smith en Bolsa por kg",
-    "precio": 58.0,
     "unidad": "kg"
   },
   {
@@ -1323,12 +1329,6 @@
     "tienda": "Chedraui",
     "nombre": "Verdolaga por kg",
     "precio": 27.9,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Flor de Calabaza por kg",
-    "precio": 99.9,
     "unidad": "kg"
   },
   {
@@ -2383,6 +2383,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Yerbabuena Fresca Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Salvia Fresca Tiempo de Cosecha 50g",
     "precio": 43.5,
     "unidad": "un"
@@ -2486,7 +2492,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Rábano Largo Rollo",
-    "precio": 5.0,
+    "precio": 18.5,
     "unidad": "un"
   },
   {
@@ -2671,6 +2677,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Ensalada Springmix Orgánica Nutribits Clamshell 142g",
+    "precio": 84.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Ensalada Supergreen Orgánica Nutribits Clamshell 142g",
     "precio": 84.9,
     "unidad": "un"
@@ -2768,12 +2780,6 @@
   {
     "tienda": "Chedraui",
     "nombre": "Bouquet Garni Frescas Tiempo de Cosecha 50g",
-    "precio": 43.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Yerbabuena Fresca Tiempo de Cosecha 50g",
     "precio": 43.5,
     "unidad": "un"
   },
@@ -2989,14 +2995,8 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Germen de Alfalfa Germimax Chiki Germi con Aderezo Chile y Limón 40g",
-    "precio": 34.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Ensalada Festival Mr. Lucky Europea 312g",
-    "precio": 51.0,
-    "unidad": "un"
+    "nombre": "Achicoria kg",
+    "precio": 48.5,
+    "unidad": "kg"
   }
 ]

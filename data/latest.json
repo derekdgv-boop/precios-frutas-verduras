@@ -11,11 +11,6 @@
         "precio": 14.95,
         "nombre": "Plátano",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 22.0,
-        "nombre": "Platano Tabasco",
-        "unidad": "kg"
       }
     },
     "manzana": {
@@ -27,11 +22,6 @@
       "HEB": {
         "precio": 57.0,
         "nombre": "Manzana Golden Nacional",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 69.89,
-        "nombre": "Manzana Royal Gala",
         "unidad": "kg"
       }
     },
@@ -45,11 +35,6 @@
         "precio": 35.0,
         "nombre": "Naranja Suprema",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 29.0,
-        "nombre": "Naranja Valencia",
-        "unidad": "kg"
       }
     },
     "limon": {
@@ -62,11 +47,6 @@
         "precio": 42.95,
         "nombre": "Limón Agrio Supremo",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 34.89,
-        "nombre": "Limon Sin Semilla",
-        "unidad": "kg"
       }
     },
     "jitomate_tomate": {
@@ -78,11 +58,6 @@
       "HEB": {
         "precio": 52.0,
         "nombre": "Tomate Bola Supremo 1 kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 26.89,
-        "nombre": "Jitomate Saladet",
         "unidad": "kg"
       }
     },
@@ -132,11 +107,6 @@
         "precio": 103.0,
         "nombre": "Aguacate Supremo",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 79.0,
-        "nombre": "Aguacate Hass",
-        "unidad": "kg"
       }
     },
     "pepino": {
@@ -149,11 +119,6 @@
         "precio": 19.95,
         "nombre": "Pepino",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 27.89,
-        "nombre": "Pepino Americano",
-        "unidad": "kg"
       }
     },
     "chile_serrano": {
@@ -164,11 +129,6 @@
       },
       "HEB": {
         "precio": 52.0,
-        "nombre": "Chile Serrano",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 39.89,
         "nombre": "Chile Serrano",
         "unidad": "kg"
       }
