@@ -1,0 +1,1136 @@
+[
+  {
+    "tienda": "Comer",
+    "nombre": "Platano Tabasco",
+    "precio": 22.0,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Papaya Maradol",
+    "precio": 41.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Mango Ataulfo",
+    "precio": 46.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Fresa",
+    "precio": 74.89,
+    "unidad": "pza",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Piña Miel",
+    "precio": 32.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Uva Blanca Sin Semilla",
+    "precio": 134.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Royal Gala",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Melon Chino",
+    "precio": 39.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Red Delicious",
+    "precio": 49.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Mango Manila",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Guayaba",
+    "precio": 39.9,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pera De Anjou",
+    "precio": 49.0,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Granny",
+    "precio": 59.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Sandia Charleston",
+    "precio": 17.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Kiwi",
+    "precio": 124.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Platano Macho",
+    "precio": 46.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Delicious",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Zarzamora",
+    "precio": 59.89,
+    "unidad": "pza",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Ambrosia",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Mango Paraiso",
+    "precio": 37.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Sandia Baby",
+    "precio": 29.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Platano Dominico",
+    "precio": 59.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Sandia Sin Semilla",
+    "precio": 29.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Mamey",
+    "precio": 43.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Fuji",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Durazno Melocoton",
+    "precio": 79.0,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Moscatel",
+    "precio": 90.79,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Pink Lady",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pera Bosc",
+    "precio": 49.0,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Rockit",
+    "precio": 79.89,
+    "unidad": "grs",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Melon Valenciano",
+    "precio": 49.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pera Red De Anjou 4639 1",
+    "precio": 76.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Nubiana",
+    "precio": 98.49,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Cereza",
+    "precio": 197.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Cosmic Crisp",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Autumn Glory",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chicozapote 4639 1",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Guanabana",
+    "precio": 104.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Maracuya",
+    "precio": 106.19,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Sandia Yellow",
+    "precio": 32.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Uva Roja Sin Semilla 4639 1",
+    "precio": 134.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Granada China",
+    "precio": 248.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pitahaya",
+    "precio": 298.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Papaya Cubanita",
+    "precio": 41.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza De Castilla",
+    "precio": 32.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Melon Golden Hami",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Uva Negra Sin Semilla",
+    "precio": 157.39,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Carambolo",
+    "precio": 39.0,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Hunnyz",
+    "precio": 97.34,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Cripps Pink",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Melon Canary",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Rambutan",
+    "precio": 123.09,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Yaca",
+    "precio": 36.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Jaboticabo",
+    "precio": 158.49,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Curuba 4639 1",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Summer Punch",
+    "precio": 98.49,
+    "unidad": "grs",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Feijoa 4639 1",
+    "precio": 148.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Platano Manzano",
+    "precio": 73.79,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Zapote Negro",
+    "precio": 79.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Golden Treat",
+    "precio": 197.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Achachairu 4639 1",
+    "precio": 82.81,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Fantasia",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Brujita",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Calavera",
+    "precio": 79.9,
+    "unidad": "pza",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Casparita",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Fiesta Halloween 4639 1",
+    "precio": 98.49,
+    "unidad": "pza",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Hallowen",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Hot Chocolate",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Miniturbin",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Monstruo 4639 1",
+    "precio": 98.49,
+    "unidad": "pza",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Pay 4639 1",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Tipo Bola De Fuego",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Tipo Bola De Nieve",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Caña 4639 1",
+    "precio": 26.19,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Big Daddy",
+    "precio": 117.66,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Flavor Gator",
+    "precio": 98.49,
+    "unidad": "grs",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Flavor Grenade",
+    "precio": 197.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Midnight Rose",
+    "precio": 197.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Plum King Kong",
+    "precio": 197.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ciruela Sierra Honey",
+    "precio": 98.49,
+    "unidad": "grs",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Kiwi Rojo",
+    "precio": 110.79,
+    "unidad": "grs",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Mangostan 4639 1",
+    "precio": 598.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Manzana Granny Smith",
+    "precio": 59.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Nectarina Dona",
+    "precio": 197.99,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Persimon",
+    "precio": 115.39,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Tejocote 4639 1",
+    "precio": 61.49,
+    "unidad": "kg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Uva Bicolor",
+    "precio": 131.49,
+    "unidad": "grs",
+    "subcategoria": "Frutas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Limon Sin Semilla",
+    "precio": 34.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Limon Agrio Con Semilla",
+    "precio": 53.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Naranja Valencia",
+    "precio": 29.0,
+    "unidad": "kg",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Limon Eureka",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Mandarina Clementina Malla",
+    "precio": 40.0,
+    "unidad": "pza",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Toronja Sangria",
+    "precio": 36.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Naranja Valencia Importada",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Naranja Pink Navel Malla 23896 1",
+    "precio": 69.89,
+    "unidad": "pza",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Limon Real 4639 1",
+    "precio": 49.89,
+    "unidad": "kg",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Naranja Japonesa",
+    "precio": 38.49,
+    "unidad": "pza",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Limon Caviar 4639 1",
+    "precio": 159.89,
+    "unidad": "pza",
+    "subcategoria": "Frutas Cítricas"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Jitomate Saladet",
+    "precio": 26.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Aguacate Hass",
+    "precio": 79.0,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Italiana",
+    "precio": 19.9,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pepino Americano",
+    "precio": 27.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Tomate Verde Sin Cascara",
+    "precio": 41.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Serrano",
+    "precio": 39.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chayote Sin Espinas",
+    "precio": 34.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Ejote Verde",
+    "precio": 49.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pimiento Rojo",
+    "precio": 98.49,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Poblano",
+    "precio": 59.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Jitomate Bola",
+    "precio": 59.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pimiento Verde",
+    "precio": 98.49,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pepino Europeo",
+    "precio": 36.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pimiento Amarillo",
+    "precio": 98.49,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pepino Criollo",
+    "precio": 34.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pimiento Naranja",
+    "precio": 98.49,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Habanero",
+    "precio": 189.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Berenjena",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Pepino Persa",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Verde De Arbol",
+    "precio": 196.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Criolla",
+    "precio": 50.79,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Limón Eureka Malla",
+    "precio": 89.89,
+    "unidad": "pza",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Jalapeño / Cuaresmeño",
+    "precio": 28.69,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Tomatillo Milpero",
+    "precio": 92.31,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Tomate Verde Con Cascara 4639 1",
+    "precio": 26.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Butternut",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Cristal",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chayote Cambray",
+    "precio": 50.79,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Tomate Heirloom 4639 1",
+    "precio": 19.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Zuchini Verde",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chilacayote",
+    "precio": 76.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Anaheim",
+    "precio": 138.99,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chile Hungaro",
+    "precio": 79.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Zuchini Amarilla",
+    "precio": 89.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Aguacate Hass Especial",
+    "precio": 98.49,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Spaguetti",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Chilaca",
+    "precio": 92.31,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Picle 4639 1",
+    "precio": 98.49,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Acorn",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Tomate De Arbol",
+    "precio": 138.99,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabacin",
+    "precio": 100.79,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Toronja Selecta En Malla 4639 1",
+    "precio": 59.89,
+    "unidad": "pza",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Kabocha",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Bellota Dorada",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Bellota Blanca",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Carnival",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Calabaza Honeynut",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Naranja Selecta En Malla",
+    "precio": 54.89,
+    "unidad": "pza",
+    "subcategoria": "Legumbres"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Apio",
+    "precio": 24.89,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Champiñon",
+    "precio": 124.99,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Poro",
+    "precio": 51.89,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Esparrago",
+    "precio": 197.99,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Hongo Seta",
+    "precio": 69.89,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Champiñones Rebanados En Salmuera",
+    "precio": 17.5,
+    "unidad": "grs",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Champiñones Rebanados En Salmuera",
+    "precio": 34.9,
+    "unidad": "grs",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Champiñones En Trozos En Salmuera",
+    "precio": 32.9,
+    "unidad": "grs",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Champiñones En Trozos En Salmuera",
+    "precio": 18.9,
+    "unidad": "grs",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Huitlacoche",
+    "precio": 104.59,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Champiñones Enteros En Salmuera",
+    "precio": 42.9,
+    "unidad": "grs",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Champiñones Enteros En Salmuera",
+    "precio": 23.9,
+    "unidad": "grs",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Esparrago Blanco",
+    "precio": 397.99,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Riobarbo",
+    "precio": 211.19,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Esparrago Morado",
+    "precio": 307.69,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  },
+  {
+    "tienda": "Comer",
+    "nombre": "Hongo Portobella 1 Kg",
+    "precio": 129.49,
+    "unidad": "kg",
+    "subcategoria": "Tallos y Hongos"
+  }
+]

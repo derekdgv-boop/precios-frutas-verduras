@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Precios Frutas y Verduras — Aguascalientes</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --card: #171d26;
+    --border: #2a323f;
+    --text: #e6e9ef;
+    --muted: #8b95a5;
+    --green: #3ecf8e;
+    --red: #ff6b6b;
+    --accent: #5b9fff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    padding: 24px 16px 60px;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 0.9rem; margin-bottom: 24px; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.92rem;
+  }
+  th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; }
+  tr:last-child td { border-bottom: none; }
+  .producto { font-weight: 600; }
+  .precio { font-variant-numeric: tabular-nums; }
+  .precio.min { color: var(--green); font-weight: 700; }
+  .na { color: var(--muted); }
+  .unidad { color: var(--muted); font-size: 0.78rem; }
+  .legend { display: flex; gap: 16px; margin-top: 20px; color: var(--muted); font-size: 0.85rem; flex-wrap: wrap; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+  footer { margin-top: 32px; color: var(--muted); font-size: 0.8rem; line-height: 1.5; }
+  a { color: var(--accent); }
+  .err { color: var(--red); padding: 20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Precios de Frutas y Verduras en Aguascalientes</h1>
+  <div class="sub" id="fecha">Cargando...</div>
+
+  <table id="tabla">
+    <thead>
+      <tr>
+        <th>Producto</th>
+        <th>Chedraui</th>
+        <th>HEB</th>
+        <th>Comer</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+
+  <div class="legend">
+    <span><span class="dot" style="background:var(--green)"></span> Precio más bajo del día</span>
+    <span>— No disponible en catálogo en línea de esa tienda</span>
+  </div>
+
+  <footer>
+    Precios tomados de las tiendas en línea de cada cadena (catálogo público), sucursal Aguascalientes cuando aplica.
+    Se actualiza automáticamente todos los días. Precio por kilogramo salvo que se indique otra unidad.
+    No incluye Mega Comercial Mexicana (sin tienda en línea disponible).
+  </footer>
+</div>
+
+<script>
+const NOMBRES = {
+  platano: "Plátano",
+  manzana: "Manzana",
+  naranja: "Naranja",
+  limon: "Limón",
+  jitomate_tomate: "Jitomate / Tomate",
+  cebolla: "Cebolla",
+  papa: "Papa",
+  zanahoria: "Zanahoria",
+  aguacate: "Aguacate",
+  pepino: "Pepino",
+  chile_serrano: "Chile serrano",
+  cilantro: "Cilantro",
+};
+const TIENDAS = ["Chedraui", "HEB", "Comer"];
+
+async function main() {
+  try {
+    const res = await fetch("data/latest.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("No se pudo cargar data/latest.json");
+    const data = await res.json();
+
+    document.getElementById("fecha").textContent = "Última actualización: " + data.fecha;
+
+    const tbody = document.getElementById("tbody");
+    tbody.innerHTML = "";
+
+    for (const [canon, label] of Object.entries(NOMBRES)) {
+      const row = data.productos[canon] || {};
+      const precios = TIENDAS.map(t => row[t] ? row[t].precio : null);
+      const minPrecio = Math.min(...precios.filter(p => p !== null));
+
+      const tr = document.createElement("tr");
+      let html = `<td class="producto">${label}</td>`;
+      for (const t of TIENDAS) {
+        const info = row[t];
+        if (!info) {
+          html += `<td class="na">—</td>`;
+        } else {
+          const cls = info.precio === minPrecio ? "precio min" : "precio";
+          html += `<td class="${cls}">$${info.precio.toFixed(2)} <span class="unidad">/${info.unidad || "kg"}</span></td>`;
+        }
+      }
+      tr.innerHTML = html;
+      tbody.appendChild(tr);
+    }
+  } catch (e) {
+    document.querySelector(".wrap").innerHTML = `<h1>Precios Frutas y Verduras</h1><div class="err">Error cargando datos: ${e.message}</div>`;
+  }
+}
+main();
+</script>
+</body>
+</html>

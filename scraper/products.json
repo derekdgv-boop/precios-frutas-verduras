@@ -1,0 +1,14 @@
+{
+  "platano": "\\bplatano\\b",
+  "manzana": "\\bmanzana\\b",
+  "naranja": "\\bnaranja\\b",
+  "limon": "\\blimon\\b",
+  "jitomate_tomate": "\\b(jitomate|tomate saladet|tomate bola|tomate roma)\\b",
+  "cebolla": "\\bcebolla\\b",
+  "papa": "\\bpapa\\b",
+  "zanahoria": "\\bzanahoria\\b",
+  "aguacate": "\\baguacate\\b",
+  "pepino": "\\bpepino\\b",
+  "chile_serrano": "\\bchile serrano\\b",
+  "cilantro": "\\bcilantro\\b"
+}

@@ -1,0 +1,33 @@
+fecha,producto,tienda,precio,nombre_original,unidad
+2026-07-02,platano,Chedraui,29.8,Plátano Chiapas por Kg,kg
+2026-07-02,platano,HEB,14.95,Plátano,kg
+2026-07-02,platano,Comer,22.0,Platano Tabasco,kg
+2026-07-02,manzana,Chedraui,49.91,Manzana Roja Mediana por Kg,kg
+2026-07-02,manzana,HEB,57.0,Manzana Golden Nacional,kg
+2026-07-02,manzana,Comer,69.89,Manzana Royal Gala,kg
+2026-07-02,naranja,Chedraui,42.5,Naranja Paramount kg,kg
+2026-07-02,naranja,HEB,35.0,Naranja Suprema,kg
+2026-07-02,naranja,Comer,29.0,Naranja Valencia,kg
+2026-07-02,limon,Chedraui,18.0,Limón sin Semilla por Kg,kg
+2026-07-02,limon,HEB,42.95,Limón Agrio Supremo,kg
+2026-07-02,limon,Comer,34.89,Limon Sin Semilla,kg
+2026-07-02,jitomate_tomate,Chedraui,24.9,Tomate Saladet por kg,kg
+2026-07-02,jitomate_tomate,HEB,52.0,Tomate Bola Supremo 1 kg,kg
+2026-07-02,jitomate_tomate,Comer,26.89,Jitomate Saladet,kg
+2026-07-02,cebolla,Chedraui,37.8,Cebolla Blanca por kg,kg
+2026-07-02,cebolla,HEB,36.0,Cebolla Blanca Limpia,kg
+2026-07-02,papa,Chedraui,64.9,Papa Blanca por kg,kg
+2026-07-02,papa,HEB,66.9,Papa Blanca,kg
+2026-07-02,zanahoria,Chedraui,19.5,Zanahoria por kg,kg
+2026-07-02,zanahoria,HEB,19.0,Zanahoria,kg
+2026-07-02,aguacate,Chedraui,59.9,Aguacate Hass por Kg,kg
+2026-07-02,aguacate,HEB,103.0,Aguacate Supremo,kg
+2026-07-02,aguacate,Comer,79.0,Aguacate Hass,kg
+2026-07-02,pepino,Chedraui,20.9,Pepino Verde por Kg,kg
+2026-07-02,pepino,HEB,19.95,Pepino,kg
+2026-07-02,pepino,Comer,27.89,Pepino Americano,kg
+2026-07-02,chile_serrano,Chedraui,39.8,Chile Serrano por Kg,kg
+2026-07-02,chile_serrano,HEB,52.0,Chile Serrano,kg
+2026-07-02,chile_serrano,Comer,39.89,Chile Serrano,kg
+2026-07-02,cilantro,Chedraui,9.9,Cilantro Rollo,un
+2026-07-02,cilantro,HEB,14.0,HEB Fresco en Cilantro Manojo,un
