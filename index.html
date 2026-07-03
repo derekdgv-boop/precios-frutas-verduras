@@ -67,12 +67,31 @@
   }
   .search:focus { outline: none; border-color: var(--accent); }
   .catalogo-count { color: var(--muted); font-size: 0.8rem; margin-bottom: 8px; }
+  .cambios {
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 4px 16px; margin-bottom: 28px;
+  }
+  .cambios-vacio { color: var(--muted); font-size: 0.85rem; padding: 12px 0; }
+  .cambio-row {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 10px 0; border-bottom: 1px solid var(--border); gap: 12px; flex-wrap: wrap;
+  }
+  .cambio-row:last-child { border-bottom: none; }
+  .cambio-nombre { font-weight: 600; }
+  .cambio-tienda { color: var(--muted); font-size: 0.78rem; }
+  .cambio-precios { font-variant-numeric: tabular-nums; font-size: 0.9rem; white-space: nowrap; }
+  .cambio-pct { font-weight: 700; padding: 2px 8px; border-radius: 6px; font-size: 0.85rem; white-space: nowrap; }
+  .cambio-pct.sube { color: var(--red); background: rgba(255,107,107,0.12); }
+  .cambio-pct.baja { color: var(--green); background: rgba(62,207,142,0.12); }
 </style>
 </head>
 <body>
 <div class="wrap">
   <h1>Precios de Frutas y Verduras en Aguascalientes</h1>
   <div class="sub" id="fecha">Cargando...</div>
+
+  <h2 id="cambiosTitulo" style="margin-top:0;">Cambios de precio de hoy</h2>
+  <div class="cambios" id="cambios"></div>
 
   <input class="search" id="buscadorCanasta" type="text" placeholder="Buscar producto en la canasta...">
   <div class="catalogo-count" id="conteoCanasta"></div>
@@ -121,6 +140,30 @@ async function main() {
     const data = await res.json();
 
     document.getElementById("fecha").textContent = "Última actualización: " + data.fecha + " — " + Object.keys(data.productos).length + " productos";
+
+    // --- Notificación de cambios de precio vs. el último dato conocido ---
+    const cambiosEl = document.getElementById("cambios");
+    const cambiosTituloEl = document.getElementById("cambiosTitulo");
+    const cambios = data.cambios || [];
+    cambiosTituloEl.textContent = `Cambios de precio de hoy (${cambios.length})`;
+    if (cambios.length === 0) {
+      cambiosEl.innerHTML = `<div class="cambios-vacio">Sin cambios de precio respecto al último dato registrado.</div>`;
+    } else {
+      cambiosEl.innerHTML = cambios.map(c => {
+        const subio = c.diferencia > 0;
+        const flecha = subio ? "▲" : "▼";
+        const clase = subio ? "sube" : "baja";
+        return `
+          <div class="cambio-row">
+            <div>
+              <div class="cambio-nombre">${c.nombre_producto}</div>
+              <div class="cambio-tienda">${c.tienda} · desde ${c.fecha_anterior}</div>
+            </div>
+            <div class="cambio-precios">$${c.precio_anterior.toFixed(2)} → $${c.precio_nuevo.toFixed(2)}</div>
+            <div class="cambio-pct ${clase}">${flecha} ${Math.abs(c.porcentaje).toFixed(1)}%</div>
+          </div>`;
+      }).join("");
+    }
 
     const tbody = document.getElementById("tbody");
     const buscadorCanasta = document.getElementById("buscadorCanasta");

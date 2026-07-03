@@ -7,10 +7,10 @@ import json
 # (id, nombre para mostrar, [palabras clave requeridas])
 ITEMS = [
     ("acelga", "Acelga", ["acelga"]),
-    ("aguacate", "Aguacate Hass", ["aguacate"]),
+    ("aguacate", "Aguacate Hass", ["aguacate", "!hoja"]),
     ("ajo", "Ajo", ["ajo"]),
     ("alcachofa", "Alcachofa", ["alcachofa"]),
-    ("alfalfa", "Alfalfa", ["alfalfa"]),
+    ("alfalfa", "Alfalfa", ["alfalfa", "!germen", "!germinado", "!germimax", "!aderezo"]),
     ("apio", "Apio", ["apio"]),
     ("arugula", "Arúgula", ["arugul"]),
     ("berenjena", "Berenjena", ["berenjena"]),
@@ -52,11 +52,11 @@ ITEMS = [
     ("espinaca", "Espinaca", ["espinaca"]),
     ("frambuesa", "Frambuesa", ["frambuesa"]),
     ("fresa", "Fresa", ["fresa"]),
-    ("germen_soya", "Germen de Soya", ["germen"]),
+    ("germen_soya", "Germen de Soya", ["germen", "soya"]),
     ("guanabana", "Guanábana", ["guanabana"]),
     ("guayaba", "Guayaba", ["guayaba"]),
     ("hierbabuena", "Hierbabuena", ["hierbabuena"]),
-    ("jamaica", "Jamaica", ["jamaica"]),
+    ("jamaica", "Jamaica", ["jamaica", "!mezcla", "!hidrolizada"]),
     ("jengibre", "Jengibre", ["jengibre"]),
     ("jicama", "Jícama", ["jicama"]),
     ("jitomate_saladet", "Jitomate Saladet", ["jitomate|tomate", "saladet"]),
@@ -120,12 +120,17 @@ ITEMS = [
 
 
 def build_pattern(keywords):
-    parts = []
+    """Sufijo 's?' (no '\\w*'): solo permite plural, no cualquier palabra que
+    empiece igual (evita que "cana" matchee "canario", etc.).
+    Ancla con '^' porque son puros lookaheads de ancho cero: sin ancla,
+    re.search prueba posiciones posteriores y un '(?!...)' negativo puede
+    "esquivar" la palabra prohibida buscando después de que ya apareció."""
+    parts = ["^"]
     for kw in keywords:
         if kw.startswith("!"):
-            parts.append(f"(?!.*\\b({kw[1:]})\\w*\\b)")
+            parts.append(f"(?!.*\\b({kw[1:]})s?\\b)")
         else:
-            parts.append(f"(?=.*\\b({kw})\\w*\\b)")
+            parts.append(f"(?=.*\\b({kw})s?\\b)")
     return "".join(parts)
 
 
