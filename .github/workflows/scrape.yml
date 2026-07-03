@@ -1,8 +1,11 @@
 name: Actualizar precios diario
 
+# Sin trigger automatico "schedule": HEB y Comer bloquean las IPs de
+# GitHub Actions (anti-bot Incapsula/Cloudflare). La actualizacion diaria
+# real corre local via Task Scheduler (scripts/actualizar_precios.ps1),
+# que si tiene acceso. Este workflow queda solo para pruebas manuales
+# (siempre trae Chedraui bien; HEB/Comer saldran en 0 si corre desde aqui).
 on:
-  schedule:
-    - cron: "0 13 * * *"  # 07:00 hora Aguascalientes (UTC-6)
   workflow_dispatch: {}
 
 permissions:
