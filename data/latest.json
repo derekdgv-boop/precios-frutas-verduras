@@ -7,6 +7,11 @@
         "precio": 9.9,
         "nombre": "Acelgas Rollo",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 11.89,
+        "nombre": "Acelga",
+        "unidad": "pza"
       }
     },
     "aguacate": {
@@ -14,6 +19,11 @@
       "Chedraui": {
         "precio": 59.5,
         "nombre": "Aguacate Chiapas por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 98.49,
+        "nombre": "Aguacate Hass",
         "unidad": "kg"
       }
     },
@@ -23,6 +33,11 @@
         "precio": 89.9,
         "nombre": "Ajo por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 31.59,
+        "nombre": "Ajo Jumbo",
+        "unidad": "grs"
       }
     },
     "alcachofa": {
@@ -30,6 +45,11 @@
       "Chedraui": {
         "precio": 39.9,
         "nombre": "Alcachofa Microwave 59g",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 189.89,
+        "nombre": "Alcachofa",
         "unidad": "kg"
       }
     },
@@ -39,6 +59,11 @@
         "precio": 13.9,
         "nombre": "Alfalfa Fresca Kg",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 19.39,
+        "nombre": "Alfalfa Fresca",
+        "unidad": "pza"
       }
     },
     "apio": {
@@ -46,6 +71,11 @@
       "Chedraui": {
         "precio": 24.8,
         "nombre": "Apio por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 24.89,
+        "nombre": "Apio",
         "unidad": "kg"
       }
     },
@@ -58,6 +88,11 @@
         "precio": 64.9,
         "nombre": "Berenjena por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 69.89,
+        "nombre": "Berenjena",
+        "unidad": "kg"
       }
     },
     "betabel": {
@@ -65,6 +100,11 @@
       "Chedraui": {
         "precio": 19.9,
         "nombre": "Betabel por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 34.89,
+        "nombre": "Betabel",
         "unidad": "kg"
       }
     },
@@ -77,6 +117,11 @@
         "precio": 39.5,
         "nombre": "Brócoli por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 42.89,
+        "nombre": "Brocoli",
+        "unidad": "kg"
       }
     },
     "calabaza_italiana": {
@@ -88,16 +133,31 @@
         "precio": 58.0,
         "nombre": "Camote Morado por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 98.49,
+        "nombre": "Camote Naranja Importado",
+        "unidad": "kg"
       }
     },
     "cana_azucar": {
-      "nombre_producto": "Caña de Azúcar"
+      "nombre_producto": "Caña de Azúcar",
+      "Comer": {
+        "precio": 26.19,
+        "nombre": "Caña 4639 1",
+        "unidad": "kg"
+      }
     },
     "cebolla_blanca": {
       "nombre_producto": "Cebolla Blanca",
       "Chedraui": {
         "precio": 37.8,
         "nombre": "Cebolla Blanca por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 39.89,
+        "nombre": "Cebolla Blanca",
         "unidad": "kg"
       }
     },
@@ -107,6 +167,11 @@
         "precio": 10.8,
         "nombre": "Cebolla de Cambray por Manojo",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 10.89,
+        "nombre": "Cebolla Cambray",
+        "unidad": "pza"
       }
     },
     "cebolla_morada": {
@@ -114,6 +179,11 @@
       "Chedraui": {
         "precio": 29.9,
         "nombre": "Cebolla Morada por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 39.89,
+        "nombre": "Cebolla Morada",
         "unidad": "kg"
       }
     },
@@ -123,6 +193,11 @@
         "precio": 11.9,
         "nombre": "Cebollín por Pieza",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 29.89,
+        "nombre": "Cebollin",
+        "unidad": "grs"
       }
     },
     "cereza": {
@@ -130,6 +205,11 @@
       "Chedraui": {
         "precio": 125.0,
         "nombre": "Cereza Natural kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 197.99,
+        "nombre": "Cereza",
         "unidad": "kg"
       }
     },
@@ -142,6 +222,11 @@
         "precio": 29.8,
         "nombre": "Chayote sin Espinas por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 34.89,
+        "nombre": "Chayote Sin Espinas",
+        "unidad": "kg"
       }
     },
     "chicharo": {
@@ -150,19 +235,34 @@
         "precio": 89.0,
         "nombre": "Chícharo por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 189.99,
+        "nombre": "Brote De Chicharo",
+        "unidad": "grs"
       }
     },
     "chile_caribe": {
       "nombre_producto": "Chile Caribe"
     },
     "chile_chilaca": {
-      "nombre_producto": "Chile Chilaca"
+      "nombre_producto": "Chile Chilaca",
+      "Comer": {
+        "precio": 92.31,
+        "nombre": "Chilaca",
+        "unidad": "kg"
+      }
     },
     "chile_arbol": {
       "nombre_producto": "Chile de Árbol",
       "Chedraui": {
         "precio": 115.0,
         "nombre": "Chile de Árbol por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 196.89,
+        "nombre": "Chile Verde De Arbol",
         "unidad": "kg"
       }
     },
@@ -175,6 +275,11 @@
         "precio": 89.5,
         "nombre": "Chile Güero por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 79.89,
+        "nombre": "Chile Hungaro",
+        "unidad": "kg"
       }
     },
     "chile_habanero": {
@@ -182,6 +287,11 @@
       "Chedraui": {
         "precio": 150.0,
         "nombre": "Chile Habanero por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 189.89,
+        "nombre": "Chile Habanero",
         "unidad": "kg"
       }
     },
@@ -194,6 +304,11 @@
         "precio": 59.8,
         "nombre": "Chile Poblano por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 59.89,
+        "nombre": "Chile Poblano",
+        "unidad": "kg"
       }
     },
     "chile_serrano": {
@@ -201,6 +316,11 @@
       "Chedraui": {
         "precio": 39.8,
         "nombre": "Chile Serrano por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 39.89,
+        "nombre": "Chile Serrano",
         "unidad": "kg"
       }
     },
@@ -210,6 +330,11 @@
         "precio": 9.9,
         "nombre": "Cilantro Rollo",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 79.89,
+        "nombre": "Germen De Cilantro",
+        "unidad": "kg"
       }
     },
     "ciruela_moscatel": {
@@ -217,6 +342,11 @@
       "Chedraui": {
         "precio": 75.0,
         "nombre": "Ciruela Moscatel Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 90.79,
+        "nombre": "Ciruela Moscatel",
         "unidad": "kg"
       }
     },
@@ -226,6 +356,11 @@
         "precio": 68.0,
         "nombre": "Ciruela por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 98.49,
+        "nombre": "Ciruela Nubiana",
+        "unidad": "kg"
       }
     },
     "col_blanca": {
@@ -233,6 +368,11 @@
       "Chedraui": {
         "precio": 24.9,
         "nombre": "Col Blanca por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 32.89,
+        "nombre": "Col Blanca",
         "unidad": "kg"
       }
     },
@@ -242,6 +382,11 @@
         "precio": 33.5,
         "nombre": "Floretes de Coliflor Mr. Lucky 454g",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 39.89,
+        "nombre": "Coliflor",
+        "unidad": "pza"
       }
     },
     "durazno_amarillo": {
@@ -269,6 +414,11 @@
         "precio": 49.9,
         "nombre": "Ejote por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 49.89,
+        "nombre": "Ejote Verde",
+        "unidad": "kg"
       }
     },
     "elote": {
@@ -276,6 +426,11 @@
       "Chedraui": {
         "precio": 68.5,
         "nombre": "Grano de Elote por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 89.99,
+        "nombre": "Grano De Elote",
         "unidad": "kg"
       }
     },
@@ -285,6 +440,11 @@
         "precio": 14.0,
         "nombre": "Epazote Rollo",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 23.49,
+        "nombre": "Epazote",
+        "unidad": "pza"
       }
     },
     "esparrago": {
@@ -293,6 +453,11 @@
         "precio": 27.9,
         "nombre": "Esparrago Verde 454g",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 197.99,
+        "nombre": "Esparrago",
+        "unidad": "kg"
       }
     },
     "espinaca": {
@@ -301,6 +466,11 @@
         "precio": 11.9,
         "nombre": "Espinacas Rollo",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 11.89,
+        "nombre": "Espinaca",
+        "unidad": "pza"
       }
     },
     "frambuesa": {
@@ -317,6 +487,11 @@
         "precio": 60.0,
         "nombre": "Fresa Domo 454g",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 74.89,
+        "nombre": "Fresa",
+        "unidad": "pza"
       }
     },
     "germen_soya": {
@@ -325,16 +500,31 @@
         "precio": 64.9,
         "nombre": "Germen de Soya por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 55.39,
+        "nombre": "Germen De Soya",
+        "unidad": "kg"
       }
     },
     "guanabana": {
-      "nombre_producto": "Guanábana"
+      "nombre_producto": "Guanábana",
+      "Comer": {
+        "precio": 104.89,
+        "nombre": "Guanabana",
+        "unidad": "kg"
+      }
     },
     "guayaba": {
       "nombre_producto": "Guayaba",
       "Chedraui": {
         "precio": 52.0,
         "nombre": "Guayaba por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 56.89,
+        "nombre": "Guayaba",
         "unidad": "kg"
       }
     },
@@ -344,6 +534,11 @@
         "precio": 20.9,
         "nombre": "Hierbabuena Alfavid 30g",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 21.69,
+        "nombre": "Hierbabuena",
+        "unidad": "pza"
       }
     },
     "jamaica": {
@@ -360,6 +555,11 @@
         "precio": 134.5,
         "nombre": "Jengibre por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 197.99,
+        "nombre": "Jengibre",
+        "unidad": "kg"
       }
     },
     "jicama": {
@@ -367,6 +567,11 @@
       "Chedraui": {
         "precio": 29.5,
         "nombre": "Jícama por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 29.89,
+        "nombre": "Jicama",
         "unidad": "kg"
       }
     },
@@ -376,6 +581,11 @@
         "precio": 24.9,
         "nombre": "Tomate Saladet por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 26.89,
+        "nombre": "Jitomate Saladet",
+        "unidad": "kg"
       }
     },
     "jitomate_bola": {
@@ -384,6 +594,11 @@
         "precio": 59.9,
         "nombre": "Tomate Bola por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 59.89,
+        "nombre": "Jitomate Bola",
+        "unidad": "kg"
       }
     },
     "kiwi": {
@@ -391,6 +606,11 @@
       "Chedraui": {
         "precio": 76.0,
         "nombre": "Kiwi por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 124.99,
+        "nombre": "Kiwi",
         "unidad": "kg"
       }
     },
@@ -403,6 +623,11 @@
         "precio": 10.0,
         "nombre": "Lechuga Larga Pieza",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 25.89,
+        "nombre": "Lechuga Orejona",
+        "unidad": "pza"
       }
     },
     "lechuga_romana": {
@@ -411,6 +636,11 @@
         "precio": 25.8,
         "nombre": "Lechuga Romana Pieza",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 25.89,
+        "nombre": "Lechuga Romana",
+        "unidad": "pza"
       }
     },
     "lechuga_sangria": {
@@ -419,16 +649,31 @@
         "precio": 24.5,
         "nombre": "Lechuga Sangría Pieza",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 19.89,
+        "nombre": "Lechuga Sangria",
+        "unidad": "pza"
       }
     },
     "lichi": {
-      "nombre_producto": "Lichi"
+      "nombre_producto": "Lichi",
+      "Comer": {
+        "precio": 80.99,
+        "nombre": "Lichi",
+        "unidad": "grs"
+      }
     },
     "limon": {
       "nombre_producto": "Limón",
       "Chedraui": {
         "precio": 18.0,
         "nombre": "Limón sin Semilla por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 34.89,
+        "nombre": "Limon Sin Semilla",
         "unidad": "kg"
       }
     },
@@ -438,6 +683,11 @@
         "precio": 19.9,
         "nombre": "Mamey por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 43.89,
+        "nombre": "Mamey",
+        "unidad": "kg"
       }
     },
     "mandarina": {
@@ -446,6 +696,11 @@
         "precio": 46.9,
         "nombre": "Mandarina por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 89.89,
+        "nombre": "Mandarina Clementina Malla",
+        "unidad": "pza"
       }
     },
     "mango_ataulfo": {
@@ -453,6 +708,11 @@
       "Chedraui": {
         "precio": 34.0,
         "nombre": "Mango Ataulfo por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 46.89,
+        "nombre": "Mango Ataulfo",
         "unidad": "kg"
       }
     },
@@ -462,6 +722,11 @@
         "precio": 49.9,
         "nombre": "Mango Manila por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 69.89,
+        "nombre": "Mango Manila",
+        "unidad": "kg"
       }
     },
     "mango_paraiso": {
@@ -469,6 +734,11 @@
       "Chedraui": {
         "precio": 29.9,
         "nombre": "Mango Paraíso por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 37.89,
+        "nombre": "Mango Paraiso",
         "unidad": "kg"
       }
     },
@@ -486,6 +756,11 @@
         "precio": 44.5,
         "nombre": "Manzana Granny Smith por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 59.89,
+        "nombre": "Manzana Granny",
+        "unidad": "kg"
       }
     },
     "manzana_roja": {
@@ -502,10 +777,20 @@
         "precio": 38.0,
         "nombre": "Manzana Royal Gala en Bolsa por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 69.89,
+        "nombre": "Manzana Royal Gala",
+        "unidad": "kg"
       }
     },
     "mejorana": {
-      "nombre_producto": "Mejorana"
+      "nombre_producto": "Mejorana",
+      "Comer": {
+        "precio": 19.99,
+        "nombre": "Mejorana",
+        "unidad": "pza"
+      }
     },
     "melon_amarillo": {
       "nombre_producto": "Melón Amarillo",
@@ -521,6 +806,11 @@
         "precio": 39.8,
         "nombre": "Melón Chino por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 39.89,
+        "nombre": "Melon Chino",
+        "unidad": "kg"
       }
     },
     "naranja": {
@@ -528,6 +818,11 @@
       "Chedraui": {
         "precio": 41.0,
         "nombre": "Naranja Agria kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 38.89,
+        "nombre": "Naranja Valencia",
         "unidad": "kg"
       }
     },
@@ -537,16 +832,31 @@
         "precio": 44.5,
         "nombre": "Nopal por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 33.89,
+        "nombre": "Nopal",
+        "unidad": "kg"
       }
     },
     "nopal_picado": {
-      "nombre_producto": "Nopal Picado"
+      "nombre_producto": "Nopal Picado",
+      "Comer": {
+        "precio": 42.89,
+        "nombre": "Nopal Picado",
+        "unidad": "kg"
+      }
     },
     "papa_blanca": {
       "nombre_producto": "Papa Blanca",
       "Chedraui": {
         "precio": 64.9,
         "nombre": "Papa Blanca por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 69.89,
+        "nombre": "Papa Blanca",
         "unidad": "kg"
       }
     },
@@ -564,6 +874,11 @@
         "precio": 38.9,
         "nombre": "Papaya Maradol por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 41.89,
+        "nombre": "Papaya Maradol",
+        "unidad": "kg"
       }
     },
     "pepino": {
@@ -572,10 +887,20 @@
         "precio": 18.0,
         "nombre": "Pepino Verde por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 27.89,
+        "nombre": "Pepino Americano",
+        "unidad": "kg"
       }
     },
     "pera_danjou": {
-      "nombre_producto": "Pera D'Anjou"
+      "nombre_producto": "Pera D'Anjou",
+      "Comer": {
+        "precio": 69.89,
+        "nombre": "Pera De Anjou",
+        "unidad": "kg"
+      }
     },
     "pera_mantequilla": {
       "nombre_producto": "Pera Mantequilla",
@@ -591,6 +916,11 @@
         "precio": 9.9,
         "nombre": "Perejil Liso Rollo",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 11.89,
+        "nombre": "Perejil",
+        "unidad": "pza"
       }
     },
     "pimiento_amarillo": {
@@ -598,6 +928,11 @@
       "Chedraui": {
         "precio": 98.5,
         "nombre": "Pimiento Amarillo por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 98.49,
+        "nombre": "Pimiento Amarillo",
         "unidad": "kg"
       }
     },
@@ -607,6 +942,11 @@
         "precio": 98.5,
         "nombre": "Pimiento Naranja por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 98.49,
+        "nombre": "Pimiento Naranja",
+        "unidad": "kg"
       }
     },
     "pimiento_rojo": {
@@ -614,6 +954,11 @@
       "Chedraui": {
         "precio": 59.9,
         "nombre": "Pimiento Rojo por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 98.49,
+        "nombre": "Pimiento Rojo",
         "unidad": "kg"
       }
     },
@@ -623,6 +968,11 @@
         "precio": 82.0,
         "nombre": "Pimiento Verde por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 98.49,
+        "nombre": "Pimiento Verde",
+        "unidad": "kg"
       }
     },
     "pina": {
@@ -630,6 +980,11 @@
       "Chedraui": {
         "precio": 26.9,
         "nombre": "Piña Gota Miel por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 32.89,
+        "nombre": "Piña Miel",
         "unidad": "kg"
       }
     },
@@ -639,6 +994,11 @@
         "precio": 79.5,
         "nombre": "Pitahaya Granel kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 298.99,
+        "nombre": "Pitahaya",
+        "unidad": "kg"
       }
     },
     "platano_chiapas": {
@@ -646,6 +1006,11 @@
       "Chedraui": {
         "precio": 24.5,
         "nombre": "Plátano Macho por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 34.89,
+        "nombre": "Platano Tabasco",
         "unidad": "kg"
       }
     },
@@ -655,6 +1020,11 @@
         "precio": 24.5,
         "nombre": "Plátano Macho por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 46.89,
+        "nombre": "Platano Macho",
+        "unidad": "kg"
       }
     },
     "rabano": {
@@ -663,6 +1033,11 @@
         "precio": 17.9,
         "nombre": "Rábano Cambray Manojo",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 38.49,
+        "nombre": "Rabano Grande",
+        "unidad": "kg"
       }
     },
     "repollo": {
@@ -674,6 +1049,11 @@
         "precio": 14.5,
         "nombre": "Sandia Blanca Rayada por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 17.89,
+        "nombre": "Sandia Charleston",
+        "unidad": "kg"
       }
     },
     "te_limon": {
@@ -682,6 +1062,11 @@
         "precio": 14.9,
         "nombre": "Té de Limón Manojo por Pieza",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 18.49,
+        "nombre": "Te De Limon",
+        "unidad": "pza"
       }
     },
     "tomate_huaje": {
@@ -701,6 +1086,11 @@
         "precio": 39.5,
         "nombre": "Tomate Verde por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 26.89,
+        "nombre": "Tomate Verde Con Cascara 4639 1",
+        "unidad": "kg"
       }
     },
     "tomillo": {
@@ -709,6 +1099,11 @@
         "precio": 20.9,
         "nombre": "Tomillo Alfavid 30g",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 18.49,
+        "nombre": "Tomillo",
+        "unidad": "pza"
       }
     },
     "toronja": {
@@ -717,10 +1112,20 @@
         "precio": 28.9,
         "nombre": "Toronja por Kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 36.89,
+        "nombre": "Toronja Sangria",
+        "unidad": "kg"
       }
     },
     "uva_blanca": {
-      "nombre_producto": "Uva Blanca"
+      "nombre_producto": "Uva Blanca",
+      "Comer": {
+        "precio": 134.99,
+        "nombre": "Uva Blanca Sin Semilla",
+        "unidad": "kg"
+      }
     },
     "uva_globo": {
       "nombre_producto": "Uva Globo",
@@ -735,6 +1140,11 @@
       "Chedraui": {
         "precio": 74.5,
         "nombre": "Uva Roja sin Semilla por Kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 134.99,
+        "nombre": "Uva Roja Sin Semilla 4639 1",
         "unidad": "kg"
       }
     },
@@ -752,6 +1162,11 @@
         "precio": 27.9,
         "nombre": "Verdolaga por kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 24.89,
+        "nombre": "Verdolaga",
+        "unidad": "pza"
       }
     },
     "yaca": {
@@ -759,6 +1174,11 @@
       "Chedraui": {
         "precio": 49.9,
         "nombre": "Yaca Fruta kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 36.89,
+        "nombre": "Yaca",
         "unidad": "kg"
       }
     },
@@ -768,6 +1188,11 @@
         "precio": 41.0,
         "nombre": "Yuca Granel kg",
         "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 75.39,
+        "nombre": "Yuca",
+        "unidad": "kg"
       }
     },
     "zanahoria": {
@@ -775,6 +1200,11 @@
       "Chedraui": {
         "precio": 19.5,
         "nombre": "Zanahoria por kg",
+        "unidad": "kg"
+      },
+      "Comer": {
+        "precio": 24.89,
+        "nombre": "Zanahoria",
         "unidad": "kg"
       }
     },
@@ -784,6 +1214,11 @@
         "precio": 48.5,
         "nombre": "Zarzamora por Pieza",
         "unidad": "un"
+      },
+      "Comer": {
+        "precio": 59.89,
+        "nombre": "Zarzamora",
+        "unidad": "pza"
       }
     }
   },
@@ -2931,7 +3366,1753 @@
       }
     ],
     "HEB": [],
-    "Comer": []
+    "Comer": [
+      {
+        "nombre": "Acelga",
+        "precio": 11.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Acelga Arcoiris",
+        "precio": 24.59,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Achachairu 4639 1",
+        "precio": 82.81,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Aderezo Ranch Chipotle",
+        "precio": 99.89,
+        "unidad": "ml"
+      },
+      {
+        "nombre": "Aguacate Hass",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Aguacate Hass Especial",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ajenjo",
+        "precio": 18.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Ajo Japones",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Ajo Jumbo",
+        "precio": 31.59,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Ajo Negro",
+        "precio": 60.29,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Ajo Negro Sanajo 2 Cabezas/Bolsa",
+        "precio": 119.39,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Ajo Negro Sanajo 5 Cabezas/Bolsa",
+        "precio": 288.29,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Ajo Organico",
+        "precio": 45.59,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Albahaca",
+        "precio": 19.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Albahaca Verde",
+        "precio": 29.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Alcachofa",
+        "precio": 189.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Alfalfa Fresca",
+        "precio": 19.39,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Apio",
+        "precio": 24.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Apio Nabo",
+        "precio": 222.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Arnica",
+        "precio": 18.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Arugula Baby",
+        "precio": 121.09,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Azafran",
+        "precio": 73.79,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Berenjena",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Berro",
+        "precio": 19.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Berza",
+        "precio": 21.09,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Betabel",
+        "precio": 34.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Betabel Cambray",
+        "precio": 20.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Brocoli",
+        "precio": 42.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Brote De Amaranto",
+        "precio": 189.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Brote De Betabel",
+        "precio": 189.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Brote De Chicharo",
+        "precio": 189.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Brote De Cilantro",
+        "precio": 184.59,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Brote De Zanahoria",
+        "precio": 189.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cacahuate Enchilado",
+        "precio": 148.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cacahuate Español",
+        "precio": 148.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cacahuate Salado",
+        "precio": 148.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabacin",
+        "precio": 100.79,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Acorn",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Bellota Blanca",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Bellota Dorada",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Brujita",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Butternut",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Calavera",
+        "precio": 79.9,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Calabaza Carnival",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Casparita",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Criolla",
+        "precio": 50.79,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza De Castilla",
+        "precio": 32.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Fantasia",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Fiesta Halloween 4639 1",
+        "precio": 98.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Calabaza Hallowen",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Honeynut",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Hot Chocolate",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Italiana",
+        "precio": 39.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Kabocha",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Miniturbin",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Monstruo 4639 1",
+        "precio": 98.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Calabaza Pay 4639 1",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Spaguetti",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Tipo Bola De Fuego",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Tipo Bola De Nieve",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Zuchini Amarilla",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Calabaza Zuchini Verde",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Camote Naranja Importado",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Camote Rojo Importado",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Caña 4639 1",
+        "precio": 26.19,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Carambolo",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Cebada Para Agua",
+        "precio": 101.59,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Cebolla Blanca",
+        "precio": 39.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Cebolla Cambray",
+        "precio": 10.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Cebolla De Rabo",
+        "precio": 49.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Cebolla Morada",
+        "precio": 39.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Cebolla Morada Organica 14738 1",
+        "precio": 66.69,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cebolla Perla Blanca",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cebolla Perla Dorada",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cebollin",
+        "precio": 29.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cebollin Organico 14738 1",
+        "precio": 34.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cebollines",
+        "precio": 20.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Cereza",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Cereza",
+        "precio": 124.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Chalot",
+        "precio": 169.19,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chamoy Picosito 5326 1",
+        "precio": 19.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Champiñon",
+        "precio": 124.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Champiñones En Trozos En Salmuera",
+        "precio": 32.9,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Champiñones En Trozos En Salmuera",
+        "precio": 18.9,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Champiñones Enteros En Salmuera",
+        "precio": 42.9,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Champiñones Enteros En Salmuera",
+        "precio": 23.9,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Champiñones Rebanados En Salmuera",
+        "precio": 17.5,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Champiñones Rebanados En Salmuera",
+        "precio": 34.9,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Chayote Cambray",
+        "precio": 50.79,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chayote Sin Espinas",
+        "precio": 34.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chicozapote 4639 1",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chilaca",
+        "precio": 92.31,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chilacayote",
+        "precio": 76.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chile Anaheim",
+        "precio": 138.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chile Ancho Sin Cabo",
+        "precio": 42.23,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Chile Cristal",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chile De Arbol Sin Cabo",
+        "precio": 36.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Chile Habanero",
+        "precio": 189.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chile Hungaro",
+        "precio": 79.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chile Poblano",
+        "precio": 59.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chile Serrano",
+        "precio": 39.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chile Verde De Arbol",
+        "precio": 196.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Chilito En Polvo",
+        "precio": 33.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Cilantro",
+        "precio": 11.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Cilantro",
+        "precio": 29.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Ciruela Big Daddy",
+        "precio": 117.66,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ciruela Flavor Gator",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Ciruela Flavor Grenade",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ciruela Golden Treat",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ciruela Midnight Rose",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ciruela Moscatel",
+        "precio": 90.79,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ciruela Nubiana",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ciruela Plum King Kong",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ciruela Sierra Honey",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Ciruela Summer Punch",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Coco En Rebanadas Con Chamoy 23562 1",
+        "precio": 55.59,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Col Blanca",
+        "precio": 32.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Col China",
+        "precio": 115.39,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Col De Bruselas",
+        "precio": 92.59,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Col De Bruselas Organica",
+        "precio": 67.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Col Morada",
+        "precio": 50.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Cola Caballo",
+        "precio": 16.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Coliflor",
+        "precio": 39.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Coliflor De Color Morado",
+        "precio": 49.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Colinabo",
+        "precio": 99.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Corazon De Apio Organico",
+        "precio": 35.59,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Crotones Sabor Al Natural",
+        "precio": 73.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Crouton Sabor Mambo Italiano",
+        "precio": 73.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Croutones Poco Picante",
+        "precio": 73.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Curuba 4639 1",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Datil Medjool Organico",
+        "precio": 239.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Diente De Ajo Malla 200 Grs. 6117 1",
+        "precio": 42.09,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Duo Pack Berries",
+        "precio": 134.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Durazno Dona",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Durazno Melocoton",
+        "precio": 109.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Ejote Verde",
+        "precio": 49.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Elote Blanco",
+        "precio": 12.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Elote Blanco En Trozos",
+        "precio": 32.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Elote Blanco Entero Limpio",
+        "precio": 32.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Elote Cacahuazintle",
+        "precio": 53.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Elotillo",
+        "precio": 55.39,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Epazote",
+        "precio": 23.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Esparrago",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Esparrago Blanco",
+        "precio": 397.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Esparrago Morado",
+        "precio": 307.69,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Espinaca",
+        "precio": 11.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Espinaca Baby",
+        "precio": 41.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Eucalipto",
+        "precio": 13.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Feijoa 4639 1",
+        "precio": 148.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Finofio",
+        "precio": 146.59,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Flor De Calabaza",
+        "precio": 59.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Flores Comestibles",
+        "precio": 69.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Fresa",
+        "precio": 74.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Frijol De Soya Seco",
+        "precio": 41.5,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Garbanza",
+        "precio": 22.59,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Germen De Alfalfa",
+        "precio": 109.69,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Amaranto",
+        "precio": 79.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Betabel",
+        "precio": 79.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Cilantro",
+        "precio": 79.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Lenteja",
+        "precio": 61.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Linaza",
+        "precio": 79.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Rabano",
+        "precio": 79.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Soya",
+        "precio": 55.39,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Germen De Trigo",
+        "precio": 56.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Gordolobo",
+        "precio": 15.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Granada China",
+        "precio": 248.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Grano De Elote",
+        "precio": 89.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Guanabana",
+        "precio": 104.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Guayaba",
+        "precio": 56.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Hierba De Olor",
+        "precio": 15.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Hierbabuena",
+        "precio": 21.69,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Hierbabuena",
+        "precio": 29.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Hinojo",
+        "precio": 26.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Hoja De Aguacate",
+        "precio": 13.69,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Hoja De Lechuga Orejona Organica",
+        "precio": 54.59,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Hoja De Naranjo",
+        "precio": 13.69,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Hoja De Platano",
+        "precio": 84.59,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Hoja Para Tamal",
+        "precio": 65.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Hoja Santa",
+        "precio": 19.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Hongo Portobella 1 Kg",
+        "precio": 129.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Hongo Seta",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Huahuzontle",
+        "precio": 76.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Huitlacoche",
+        "precio": 104.59,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Jaboticabo",
+        "precio": 158.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Jengibre",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Jicama",
+        "precio": 29.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Jitomate Baby Tom",
+        "precio": 36.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Jitomate Bola",
+        "precio": 59.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Jitomate Cherry",
+        "precio": 60.29,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Jitomate Cherry Organico",
+        "precio": 52.39,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Jitomate Saladet",
+        "precio": 26.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Jitomate Uva",
+        "precio": 60.29,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Jitomate Uva Organico",
+        "precio": 53.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Kale Con Arugula Baby",
+        "precio": 121.09,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Kiwi",
+        "precio": 124.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Kiwi Rojo",
+        "precio": 110.79,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Laurel",
+        "precio": 18.79,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lechuga Escarola",
+        "precio": 24.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lechuga Francesa",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lechuga Hidropónica Sweet",
+        "precio": 57.09,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lechuga Italiana",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lechuga Orejona",
+        "precio": 25.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lechuga Romana",
+        "precio": 25.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lechuga Sangria",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Lichi",
+        "precio": 80.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Limon Agrio Con Semilla",
+        "precio": 53.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Limon Caviar 4639 1",
+        "precio": 159.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Limon Eureka",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Limón Eureka Malla",
+        "precio": 89.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Limon Real 4639 1",
+        "precio": 49.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Limon Sin Semilla",
+        "precio": 34.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Malanga / Taro 4639 1",
+        "precio": 75.39,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Mamey",
+        "precio": 43.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Mandarina Clementina Malla",
+        "precio": 89.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Mango Ataulfo",
+        "precio": 46.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Mango Manila",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Mango Paraiso",
+        "precio": 37.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Mangostan 4639 1",
+        "precio": 598.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Ambrosia",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Autumn Glory",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Cosmic Crisp",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Cripps Pink",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Delicious",
+        "precio": 89.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Fuji",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Gala Organica",
+        "precio": 110.79,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Manzana Granny",
+        "precio": 59.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Granny Smith",
+        "precio": 59.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Granny Smith Organicas",
+        "precio": 108.57,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Manzana Hunnyz",
+        "precio": 97.34,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Pink Lady",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Red Delicious",
+        "precio": 49.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Rockit",
+        "precio": 79.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Manzana Royal Gala",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Manzana Royal Gala Organica",
+        "precio": 98.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Manzanilla",
+        "precio": 19.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Maracuya",
+        "precio": 106.19,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Mejorana",
+        "precio": 19.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Melon Canary",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Melon Chino",
+        "precio": 39.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Melon Golden Hami",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Melon Valenciano",
+        "precio": 49.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Menta",
+        "precio": 17.69,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Menta Hortalizas Del Vólcan",
+        "precio": 29.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Mezcla De Jamaica Hidrolizada",
+        "precio": 93.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Mix De Berries 4639 1",
+        "precio": 158.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Nabo",
+        "precio": 69.19,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Nabo Cabu",
+        "precio": 105.09,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Napa",
+        "precio": 63.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Naranja Japonesa",
+        "precio": 38.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Naranja Pink Navel Malla 23896 1",
+        "precio": 69.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Naranja Selecta En Malla",
+        "precio": 54.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Naranja Valencia",
+        "precio": 38.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Naranja Valencia Importada",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Nectarina Dona",
+        "precio": 197.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Nopal",
+        "precio": 33.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Nopal Cambray",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Nopal Mediano",
+        "precio": 39.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Nopal Picado",
+        "precio": 42.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Nueces Y Frutos Rojos",
+        "precio": 148.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Pak Choy",
+        "precio": 73.39,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Palitos De Apio Organico",
+        "precio": 33.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Papa Amarilla Chica",
+        "precio": 59.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Papa Blanca",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Papa Blanca Malla",
+        "precio": 64.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Papa Red 1.5 Lb",
+        "precio": 104.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Papa Russet Imp.",
+        "precio": 39.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Papa Yellow 1.5 Lb",
+        "precio": 104.99,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Papalo",
+        "precio": 23.09,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Papaya Cubanita",
+        "precio": 41.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Papaya Maradol",
+        "precio": 41.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pepino Americano",
+        "precio": 27.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pepino Criollo",
+        "precio": 34.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pepino Europeo",
+        "precio": 36.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pepino Persa",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pera Bosc",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pera De Anjou",
+        "precio": 69.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pera Red De Anjou 4639 1",
+        "precio": 76.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Perejil",
+        "precio": 11.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Perejil",
+        "precio": 29.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Perejil Chino",
+        "precio": 21.09,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Persimon",
+        "precio": 115.39,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Picle 4639 1",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pimiento Amarillo",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pimiento Naranja",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pimiento Rojo",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pimiento Verde",
+        "precio": 98.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Piña Miel",
+        "precio": 32.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Pitahaya",
+        "precio": 298.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Platano Dominico",
+        "precio": 59.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Platano Macho",
+        "precio": 46.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Platano Manzano",
+        "precio": 73.79,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Platano Tabasco",
+        "precio": 34.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Plátano Tabasco Orgánico",
+        "precio": 36.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Poro",
+        "precio": 51.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Prosciutto,México,",
+        "precio": 1464.5,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Rabano Arcoiris 1 Pza",
+        "precio": 15.39,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Rabano Cambray",
+        "precio": 18.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Rabano Grande",
+        "precio": 38.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Rabano Negro",
+        "precio": 69.19,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Raiz Fuerte",
+        "precio": 793.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Rambutan",
+        "precio": 123.09,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Riobarbo",
+        "precio": 211.19,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Romeritos",
+        "precio": 19.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Romero Medicinal",
+        "precio": 18.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Ruda",
+        "precio": 20.31,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Salsifis",
+        "precio": 398.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Salvia",
+        "precio": 19.99,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sandia Baby",
+        "precio": 29.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Sandia Charleston",
+        "precio": 17.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Sandia Sin Semilla",
+        "precio": 29.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Sandia Yellow",
+        "precio": 32.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Sopa Arrocera",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sopa China",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sopa De Verduras",
+        "precio": 29.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sopa En Escabeche",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sopa Juliana",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sopa Poblana",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sopa Puchero",
+        "precio": 19.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Sopressata Granel",
+        "precio": 581.0,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Spring Mix",
+        "precio": 164.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Te De Limon",
+        "precio": 18.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Tejocote 4639 1",
+        "precio": 61.49,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Tomate Cocktail En Vaina",
+        "precio": 74.59,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Tomate De Arbol",
+        "precio": 138.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Tomate Heirloom 4639 1",
+        "precio": 19.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Tomate Heirloom Organico",
+        "precio": 122.19,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Tomate Mar Azul",
+        "precio": 150.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Tomate Verde Con Cascara 4639 1",
+        "precio": 26.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Tomate Verde Organico",
+        "precio": 48.41,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Tomate Verde Sin Cascara",
+        "precio": 41.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Tomatillo Milpero",
+        "precio": 92.31,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Tomillo",
+        "precio": 18.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Tomillo Organico 14738 1",
+        "precio": 34.89,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Toronja Sangria",
+        "precio": 36.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Toronja Selecta En Malla 4639 1",
+        "precio": 59.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Uva Bicolor",
+        "precio": 131.49,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Uva Blanca Sin Semilla",
+        "precio": 134.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Uva Negra Sin Semilla",
+        "precio": 157.39,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Uva Roja Sin Semilla 4639 1",
+        "precio": 134.99,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Vaina De Nabo",
+        "precio": 18.49,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Verdolaga",
+        "precio": 24.89,
+        "unidad": "pza"
+      },
+      {
+        "nombre": "Vinagreta Tamarindo Plant Based",
+        "precio": 85.71,
+        "unidad": "ml"
+      },
+      {
+        "nombre": "Yaca",
+        "precio": 36.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Yuca",
+        "precio": 75.39,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Zanahoria",
+        "precio": 24.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Zanahoria Baby",
+        "precio": 46.88,
+        "unidad": "grs"
+      },
+      {
+        "nombre": "Zanahoria Cambray",
+        "precio": 25.09,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Zapote Negro",
+        "precio": 79.89,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Zarzamora",
+        "precio": 59.89,
+        "unidad": "pza"
+      }
+    ]
   },
   "cambios": [
     {
@@ -2942,6 +5123,46 @@
       "precio_nuevo": 89.0,
       "diferencia": 78.1,
       "porcentaje": 716.5,
+      "fecha_anterior": "2026-07-02"
+    },
+    {
+      "producto": "mandarina",
+      "nombre_producto": "Mandarina",
+      "tienda": "Comer",
+      "precio_anterior": 40.0,
+      "precio_nuevo": 89.89,
+      "diferencia": 49.89,
+      "porcentaje": 124.7,
+      "fecha_anterior": "2026-07-02"
+    },
+    {
+      "producto": "platano_chiapas",
+      "nombre_producto": "Plátano",
+      "tienda": "Comer",
+      "precio_anterior": 22.0,
+      "precio_nuevo": 34.89,
+      "diferencia": 12.89,
+      "porcentaje": 58.6,
+      "fecha_anterior": "2026-07-02"
+    },
+    {
+      "producto": "guayaba",
+      "nombre_producto": "Guayaba",
+      "tienda": "Comer",
+      "precio_anterior": 39.9,
+      "precio_nuevo": 56.89,
+      "diferencia": 16.99,
+      "porcentaje": 42.6,
+      "fecha_anterior": "2026-07-02"
+    },
+    {
+      "producto": "pera_danjou",
+      "nombre_producto": "Pera D'Anjou",
+      "tienda": "Comer",
+      "precio_anterior": 49.0,
+      "precio_nuevo": 69.89,
+      "diferencia": 20.89,
+      "porcentaje": 42.6,
       "fecha_anterior": "2026-07-02"
     },
     {
@@ -2985,6 +5206,16 @@
       "fecha_anterior": "2026-07-02"
     },
     {
+      "producto": "naranja",
+      "nombre_producto": "Naranja",
+      "tienda": "Comer",
+      "precio_anterior": 29.0,
+      "precio_nuevo": 38.89,
+      "diferencia": 9.89,
+      "porcentaje": 34.1,
+      "fecha_anterior": "2026-07-02"
+    },
+    {
       "producto": "camote",
       "nombre_producto": "Camote",
       "tienda": "Chedraui",
@@ -3002,6 +5233,16 @@
       "precio_nuevo": 19.9,
       "diferencia": -6.6,
       "porcentaje": -24.9,
+      "fecha_anterior": "2026-07-02"
+    },
+    {
+      "producto": "aguacate",
+      "nombre_producto": "Aguacate Hass",
+      "tienda": "Comer",
+      "precio_anterior": 79.0,
+      "precio_nuevo": 98.49,
+      "diferencia": 19.49,
+      "porcentaje": 24.7,
       "fecha_anterior": "2026-07-02"
     },
     {

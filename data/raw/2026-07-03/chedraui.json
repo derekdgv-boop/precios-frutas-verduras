@@ -1435,6 +1435,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Cebolla Amarilla por kg",
+    "precio": 24.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Chicozapote por Kg",
     "precio": 69.9,
     "unidad": "kg"
@@ -1791,12 +1797,6 @@
     "tienda": "Chedraui",
     "nombre": "Cebolla de Rabo por kg",
     "precio": 56.5,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Cebolla Amarilla por kg",
-    "precio": 24.9,
     "unidad": "kg"
   },
   {
