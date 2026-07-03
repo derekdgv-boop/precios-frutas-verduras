@@ -1,39 +1,14 @@
 {
-  "fecha": "2026-07-02",
+  "fecha": "2026-07-03",
   "productos": {
     "acelga": {
-      "nombre_producto": "Acelga",
-      "Chedraui": {
-        "precio": 9.9,
-        "nombre": "Acelgas Rollo",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 15.0,
-        "nombre": "HEB Acelga Verde",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 11.89,
-        "nombre": "Acelga",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Acelga"
     },
     "aguacate": {
       "nombre_producto": "Aguacate Hass",
       "Chedraui": {
         "precio": 59.9,
         "nombre": "Aguacate Hass por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 103.0,
-        "nombre": "Aguacate Supremo",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 79.0,
-        "nombre": "Aguacate Hass",
         "unidad": "kg"
       }
     },
@@ -43,48 +18,13 @@
         "precio": 89.9,
         "nombre": "Ajo por Kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 169.0,
-        "nombre": "Ajo a Granel Supremo Mr Lucky 1 kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 31.59,
-        "nombre": "Ajo Jumbo",
-        "unidad": "grs"
       }
     },
     "alcachofa": {
-      "nombre_producto": "Alcachofa",
-      "Chedraui": {
-        "precio": 39.9,
-        "nombre": "Alcachofa Microwave 59g",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 189.89,
-        "nombre": "Alcachofa",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Alcachofa"
     },
     "alfalfa": {
-      "nombre_producto": "Alfalfa",
-      "Chedraui": {
-        "precio": 60.0,
-        "nombre": "Germinado de Alfalfa 240g",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 45.0,
-        "nombre": "HEB Germinado de Alfalfa 250 g",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 109.69,
-        "nombre": "Germen De Alfalfa",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Alfalfa"
     },
     "apio": {
       "nombre_producto": "Apio",
@@ -92,48 +32,13 @@
         "precio": 24.8,
         "nombre": "Apio por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 41.9,
-        "nombre": "Apio",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 24.89,
-        "nombre": "Apio",
-        "unidad": "kg"
       }
     },
     "arugula": {
-      "nombre_producto": "Arúgula",
-      "Chedraui": {
-        "precio": 64.5,
-        "nombre": "Arugula Baby Daily 120g",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 121.09,
-        "nombre": "Arugula Baby",
-        "unidad": "grs"
-      }
+      "nombre_producto": "Arúgula"
     },
     "berenjena": {
-      "nombre_producto": "Berenjena",
-      "Chedraui": {
-        "precio": 64.9,
-        "nombre": "Berenjena por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 94.0,
-        "nombre": "Berenjena",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 69.89,
-        "nombre": "Berenjena",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Berenjena"
     },
     "betabel": {
       "nombre_producto": "Betabel",
@@ -141,41 +46,16 @@
         "precio": 19.9,
         "nombre": "Betabel por Kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 47.0,
-        "nombre": "Betabel Rebotado",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 34.89,
-        "nombre": "Betabel",
-        "unidad": "kg"
       }
     },
     "blueberry": {
-      "nombre_producto": "Blueberry / Arándano",
-      "HEB": {
-        "precio": 52.0,
-        "nombre": "HEB Blueberry 170 g",
-        "unidad": "un"
-      }
+      "nombre_producto": "Blueberry / Arándano"
     },
     "brocoli": {
       "nombre_producto": "Brócoli",
       "Chedraui": {
         "precio": 39.5,
         "nombre": "Brócoli por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 68.0,
-        "nombre": "Mr Lucky Brócoli Coronas 1 kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 42.89,
-        "nombre": "Brocoli",
         "unidad": "kg"
       }
     },
@@ -185,43 +65,18 @@
         "precio": 36.5,
         "nombre": "Calabaza Italiana por Kg",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 19.9,
-        "nombre": "Calabaza Italiana",
-        "unidad": "kg"
       }
     },
     "camote": {
       "nombre_producto": "Camote",
       "Chedraui": {
-        "precio": 44.5,
+        "precio": 59.9,
         "nombre": "Camote Amarillo por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 39.95,
-        "nombre": "Camote Amarillo 1 kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 98.49,
-        "nombre": "Camote Naranja Importado",
         "unidad": "kg"
       }
     },
     "cana_azucar": {
-      "nombre_producto": "Caña de Azúcar",
-      "Chedraui": {
-        "precio": 49.9,
-        "nombre": "Melón Juan Canario Kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 69.89,
-        "nombre": "Melon Canary",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Caña de Azúcar"
     },
     "cebolla_blanca": {
       "nombre_producto": "Cebolla Blanca",
@@ -229,35 +84,10 @@
         "precio": 37.8,
         "nombre": "Cebolla Blanca por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 36.0,
-        "nombre": "Cebolla Blanca Limpia",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 39.89,
-        "nombre": "Cebolla Blanca",
-        "unidad": "kg"
       }
     },
     "cebolla_cambray": {
-      "nombre_producto": "Cebolla de Cambray",
-      "Chedraui": {
-        "precio": 10.8,
-        "nombre": "Cebolla de Cambray por Manojo",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 18.5,
-        "nombre": "Cebolla Cambray",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 10.89,
-        "nombre": "Cebolla Cambray",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Cebolla de Cambray"
     },
     "cebolla_morada": {
       "nombre_producto": "Cebolla Morada",
@@ -265,53 +95,13 @@
         "precio": 29.9,
         "nombre": "Cebolla Morada por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 41.0,
-        "nombre": "Cebolla Morada Limpia",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 39.89,
-        "nombre": "Cebolla Morada",
-        "unidad": "kg"
       }
     },
     "cebollin": {
-      "nombre_producto": "Cebollín",
-      "Chedraui": {
-        "precio": 11.9,
-        "nombre": "Cebollín por Pieza",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 24.0,
-        "nombre": "Cebollin 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 20.19,
-        "nombre": "Cebollines",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Cebollín"
     },
     "cereza": {
-      "nombre_producto": "Cereza",
-      "Chedraui": {
-        "precio": 125.0,
-        "nombre": "Cereza Natural kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 261.0,
-        "nombre": "HEB Cereza Importada",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 197.99,
-        "nombre": "Cereza",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Cereza"
     },
     "champinon": {
       "nombre_producto": "Champiñón",
@@ -319,16 +109,6 @@
         "precio": 33.9,
         "nombre": "Champiñón Monteblanco Selección 225g",
         "unidad": "un"
-      },
-      "HEB": {
-        "precio": 39.0,
-        "nombre": "Champiñón Blanco Entero",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 124.99,
-        "nombre": "Champiñon",
-        "unidad": "kg"
       }
     },
     "chayote": {
@@ -337,119 +117,34 @@
         "precio": 29.8,
         "nombre": "Chayote sin Espinas por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 37.0,
-        "nombre": "Chayote sin Espinas",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 34.89,
-        "nombre": "Chayote Sin Espinas",
-        "unidad": "kg"
       }
     },
     "chicharo": {
-      "nombre_producto": "Chícharo",
-      "Chedraui": {
-        "precio": 10.9,
-        "nombre": "Chícharo por kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 189.99,
-        "nombre": "Brote De Chicharo",
-        "unidad": "grs"
-      }
+      "nombre_producto": "Chícharo"
     },
     "chile_caribe": {
-      "nombre_producto": "Chile Caribe",
-      "HEB": {
-        "precio": 83.9,
-        "nombre": "Chile Caribe",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Chile Caribe"
     },
     "chile_chilaca": {
-      "nombre_producto": "Chile Chilaca",
-      "Chedraui": {
-        "precio": 39.9,
-        "nombre": "Chilacayote por Kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 76.89,
-        "nombre": "Chilacayote",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Chile Chilaca"
     },
     "chile_arbol": {
-      "nombre_producto": "Chile de Árbol",
-      "Chedraui": {
-        "precio": 115.0,
-        "nombre": "Chile de Árbol por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 45.0,
-        "nombre": "HEB Chile de Arbol 100 g",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 196.89,
-        "nombre": "Chile Verde De Arbol",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Chile de Árbol"
     },
     "chile_guajillo": {
-      "nombre_producto": "Chile Guajillo",
-      "HEB": {
-        "precio": 49.0,
-        "nombre": "Tajin Tajin Chile Guajillo 75 g",
-        "unidad": "un"
-      }
+      "nombre_producto": "Chile Guajillo"
     },
     "chile_guero": {
-      "nombre_producto": "Chile Güero / Húngaro",
-      "Chedraui": {
-        "precio": 89.5,
-        "nombre": "Chile Güero por Kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 79.89,
-        "nombre": "Chile Hungaro",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Chile Güero / Húngaro"
     },
     "chile_habanero": {
-      "nombre_producto": "Chile Habanero",
-      "Chedraui": {
-        "precio": 150.0,
-        "nombre": "Chile Habanero por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 156.0,
-        "nombre": "Chile Habanero Naranja",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 189.89,
-        "nombre": "Chile Habanero",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Chile Habanero"
     },
     "chile_jalapeno": {
       "nombre_producto": "Chile Jalapeño",
       "Chedraui": {
         "precio": 27.6,
         "nombre": "Chile Jalapeño por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 24.95,
-        "nombre": "Chile Jalapeño",
         "unidad": "kg"
       }
     },
@@ -459,16 +154,6 @@
         "precio": 59.8,
         "nombre": "Chile Poblano por Kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 52.0,
-        "nombre": "Chile Poblano",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 59.89,
-        "nombre": "Chile Poblano",
-        "unidad": "kg"
       }
     },
     "chile_serrano": {
@@ -476,16 +161,6 @@
       "Chedraui": {
         "precio": 39.8,
         "nombre": "Chile Serrano por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 52.0,
-        "nombre": "Chile Serrano",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 39.89,
-        "nombre": "Chile Serrano",
         "unidad": "kg"
       }
     },
@@ -495,53 +170,13 @@
         "precio": 9.9,
         "nombre": "Cilantro Rollo",
         "unidad": "un"
-      },
-      "HEB": {
-        "precio": 14.0,
-        "nombre": "HEB Fresco en Cilantro Manojo",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 11.89,
-        "nombre": "Cilantro",
-        "unidad": "pza"
       }
     },
     "ciruela_moscatel": {
-      "nombre_producto": "Ciruela Moscatel",
-      "Chedraui": {
-        "precio": 75.0,
-        "nombre": "Ciruela Moscatel Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 62.9,
-        "nombre": "Ciruela Moscatel",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 90.79,
-        "nombre": "Ciruela Moscatel",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Ciruela Moscatel"
     },
     "ciruela_roja": {
-      "nombre_producto": "Ciruela Roja",
-      "Chedraui": {
-        "precio": 79.0,
-        "nombre": "Ciruela por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 94.0,
-        "nombre": "Ciruela Negra Importada 1 Kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 98.49,
-        "nombre": "Ciruela Nubiana",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Ciruela Roja"
     },
     "col_blanca": {
       "nombre_producto": "Col Blanca",
@@ -549,59 +184,19 @@
         "precio": 24.9,
         "nombre": "Col Blanca por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 39.95,
-        "nombre": "HEB Coliflor Blanca",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 32.89,
-        "nombre": "Col Blanca",
-        "unidad": "kg"
       }
     },
     "coliflor": {
-      "nombre_producto": "Coliflor",
-      "Chedraui": {
-        "precio": 59.9,
-        "nombre": "Coliflor Pre Enfriada Pieza",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 39.95,
-        "nombre": "HEB Coliflor Blanca",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 39.89,
-        "nombre": "Coliflor",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Coliflor"
     },
     "durazno_amarillo": {
-      "nombre_producto": "Durazno Amarillo",
-      "Chedraui": {
-        "precio": 120.0,
-        "nombre": "Durazno Amarillo kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 105.0,
-        "nombre": "Durazno Amarillo Sup Michoacan",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Durazno Amarillo"
     },
     "durazno_prisco": {
       "nombre_producto": "Durazno Prisco"
     },
     "durazno_rojo": {
-      "nombre_producto": "Durazno Rojo",
-      "Chedraui": {
-        "precio": 99.0,
-        "nombre": "Durazno Rojo por Kg",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Durazno Rojo"
     },
     "ejote": {
       "nombre_producto": "Ejote",
@@ -609,102 +204,27 @@
         "precio": 49.9,
         "nombre": "Ejote por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 94.0,
-        "nombre": "Ejote Verde",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 49.89,
-        "nombre": "Ejote Verde",
-        "unidad": "kg"
       }
     },
     "elote": {
-      "nombre_producto": "Elote",
-      "Chedraui": {
-        "precio": 10.8,
-        "nombre": "Elote por Pieza",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 4.95,
-        "nombre": "Elote Blanco",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 12.89,
-        "nombre": "Elote Blanco",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Elote"
     },
     "epazote": {
-      "nombre_producto": "Epazote",
-      "Chedraui": {
-        "precio": 14.0,
-        "nombre": "Epazote Rollo",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 16.0,
-        "nombre": "Epazote Verde 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 23.49,
-        "nombre": "Epazote",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Epazote"
     },
     "esparrago": {
-      "nombre_producto": "Espárrago",
-      "Chedraui": {
-        "precio": 27.9,
-        "nombre": "Esparrago Verde 454g",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 79.95,
-        "nombre": "HEB Espárrago Verde",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 197.99,
-        "nombre": "Esparrago",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Espárrago"
     },
     "espinaca": {
       "nombre_producto": "Espinaca",
       "Chedraui": {
-        "precio": 10.91,
+        "precio": 11.9,
         "nombre": "Espinacas Rollo",
         "unidad": "un"
-      },
-      "HEB": {
-        "precio": 15.0,
-        "nombre": "HEB Espinaca Manojo",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 11.89,
-        "nombre": "Espinaca",
-        "unidad": "pza"
       }
     },
     "frambuesa": {
-      "nombre_producto": "Frambuesa",
-      "Chedraui": {
-        "precio": 58.5,
-        "nombre": "Frambuesa Domo 170g",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 52.0,
-        "nombre": "Frambuesa 170 g",
-        "unidad": "un"
-      }
+      "nombre_producto": "Frambuesa"
     },
     "fresa": {
       "nombre_producto": "Fresa",
@@ -712,121 +232,31 @@
         "precio": 71.4,
         "nombre": "Fresa Domo 454g",
         "unidad": "un"
-      },
-      "HEB": {
-        "precio": 79.0,
-        "nombre": "HEB Fresas 454 g",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 74.89,
-        "nombre": "Fresa",
-        "unidad": "pza"
       }
     },
     "germen_soya": {
-      "nombre_producto": "Germen de Soya",
-      "Chedraui": {
-        "precio": 64.9,
-        "nombre": "Germen de Soya por kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 55.39,
-        "nombre": "Germen De Soya",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Germen de Soya"
     },
     "guanabana": {
-      "nombre_producto": "Guanábana",
-      "Comer": {
-        "precio": 104.89,
-        "nombre": "Guanabana",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Guanábana"
     },
     "guayaba": {
-      "nombre_producto": "Guayaba",
-      "Chedraui": {
-        "precio": 52.0,
-        "nombre": "Guayaba por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 54.95,
-        "nombre": "Guayaba Suprema",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 39.9,
-        "nombre": "Guayaba",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Guayaba"
     },
     "hierbabuena": {
-      "nombre_producto": "Hierbabuena",
-      "Chedraui": {
-        "precio": 20.9,
-        "nombre": "Hierbabuena Alfavid 30g",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 31.0,
-        "nombre": "Hierbabuena en Manojo 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 21.69,
-        "nombre": "Hierbabuena",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Hierbabuena"
     },
     "jamaica": {
-      "nombre_producto": "Jamaica",
-      "Chedraui": {
-        "precio": 159.0,
-        "nombre": "Jamaica por kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 93.89,
-        "nombre": "Mezcla De Jamaica Hidrolizada",
-        "unidad": "grs"
-      }
+      "nombre_producto": "Jamaica"
     },
     "jengibre": {
-      "nombre_producto": "Jengibre",
-      "Chedraui": {
-        "precio": 134.5,
-        "nombre": "Jengibre por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 209.0,
-        "nombre": "Jengibre",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 197.99,
-        "nombre": "Jengibre",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Jengibre"
     },
     "jicama": {
       "nombre_producto": "Jícama",
       "Chedraui": {
         "precio": 29.5,
         "nombre": "Jícama por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 19.95,
-        "nombre": "Jícama Grande",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 29.89,
-        "nombre": "Jicama",
         "unidad": "kg"
       }
     },
@@ -836,11 +266,6 @@
         "precio": 24.9,
         "nombre": "Tomate Saladet por kg",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 26.89,
-        "nombre": "Jitomate Saladet",
-        "unidad": "kg"
       }
     },
     "jitomate_bola": {
@@ -849,35 +274,10 @@
         "precio": 59.9,
         "nombre": "Tomate Bola por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 52.0,
-        "nombre": "Tomate Bola Supremo 1 kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 59.89,
-        "nombre": "Jitomate Bola",
-        "unidad": "kg"
       }
     },
     "kiwi": {
-      "nombre_producto": "Kiwi",
-      "Chedraui": {
-        "precio": 76.0,
-        "nombre": "Kiwi por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 146.0,
-        "nombre": "Kiwi",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 124.99,
-        "nombre": "Kiwi",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Kiwi"
     },
     "lechuga_italiana": {
       "nombre_producto": "Lechuga Italiana",
@@ -885,35 +285,10 @@
         "precio": 39.1,
         "nombre": "Lechuga Eva Italiana Viva 1 Pieza",
         "unidad": "un"
-      },
-      "HEB": {
-        "precio": 45.0,
-        "nombre": "HEB Lechuga Italiana Hidropónica",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 19.89,
-        "nombre": "Lechuga Italiana",
-        "unidad": "pza"
       }
     },
     "lechuga_orejona": {
-      "nombre_producto": "Lechuga Orejona / Larga / Lisa",
-      "Chedraui": {
-        "precio": 10.0,
-        "nombre": "Lechuga Larga Pieza",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 28.0,
-        "nombre": "Lechuga Orejona",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 25.89,
-        "nombre": "Lechuga Orejona",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Lechuga Orejona / Larga / Lisa"
     },
     "lechuga_romana": {
       "nombre_producto": "Lechuga Romana",
@@ -921,43 +296,13 @@
         "precio": 25.8,
         "nombre": "Lechuga Romana Pieza",
         "unidad": "un"
-      },
-      "HEB": {
-        "precio": 26.0,
-        "nombre": "Lechuga Romana 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 25.89,
-        "nombre": "Lechuga Romana",
-        "unidad": "pza"
       }
     },
     "lechuga_sangria": {
-      "nombre_producto": "Lechuga Sangría",
-      "Chedraui": {
-        "precio": 24.5,
-        "nombre": "Lechuga Sangría Pieza",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 20.5,
-        "nombre": "Lechuga Morada (Sangria) Nal 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 19.89,
-        "nombre": "Lechuga Sangria",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Lechuga Sangría"
     },
     "lichi": {
-      "nombre_producto": "Lichi",
-      "Comer": {
-        "precio": 80.99,
-        "nombre": "Lichi",
-        "unidad": "grs"
-      }
+      "nombre_producto": "Lichi"
     },
     "limon": {
       "nombre_producto": "Limón",
@@ -965,191 +310,66 @@
         "precio": 18.0,
         "nombre": "Limón sin Semilla por Kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 42.95,
-        "nombre": "Limón Agrio Supremo",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 34.89,
-        "nombre": "Limon Sin Semilla",
-        "unidad": "kg"
       }
     },
     "mamey": {
-      "nombre_producto": "Mamey",
-      "Chedraui": {
-        "precio": 26.5,
-        "nombre": "Mamey por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 73.0,
-        "nombre": "Mamey Gde",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 43.89,
-        "nombre": "Mamey",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Mamey"
     },
     "mandarina": {
-      "nombre_producto": "Mandarina",
-      "Chedraui": {
-        "precio": 68.9,
-        "nombre": "Mandarina Chumis 674g",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 49.95,
-        "nombre": "Mandarina Primosole 1 kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 40.0,
-        "nombre": "Mandarina Clementina Malla",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Mandarina"
     },
     "mango_ataulfo": {
       "nombre_producto": "Mango Ataulfo",
       "Chedraui": {
-        "precio": 34.0,
+        "precio": 47.3,
         "nombre": "Mango Ataulfo por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 62.9,
-        "nombre": "Mango Ataulfo Supremo",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 46.89,
-        "nombre": "Mango Ataulfo",
         "unidad": "kg"
       }
     },
     "mango_manila": {
-      "nombre_producto": "Mango Manila",
-      "Chedraui": {
-        "precio": 49.9,
-        "nombre": "Mango Manila por Kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 69.89,
-        "nombre": "Mango Manila",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Mango Manila"
     },
     "mango_paraiso": {
       "nombre_producto": "Mango Paraíso",
       "Chedraui": {
-        "precio": 21.8,
+        "precio": 30.1,
         "nombre": "Mango Paraíso por Kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 37.89,
-        "nombre": "Mango Paraiso",
         "unidad": "kg"
       }
     },
     "manzana_golden": {
       "nombre_producto": "Manzana Golden",
       "Chedraui": {
-        "precio": 69.8,
-        "nombre": "Manzana Golden Chica en Bolsa por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 57.0,
-        "nombre": "Manzana Golden Nacional",
+        "precio": 54.5,
+        "nombre": "Manzana Golden Mediana por Kg",
         "unidad": "kg"
       }
     },
     "manzana_granny": {
-      "nombre_producto": "Manzana Granny Smith",
-      "Chedraui": {
-        "precio": 44.5,
-        "nombre": "Manzana Granny Smith por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 39.95,
-        "nombre": "Manzana Granny Smith Gde Importada",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 59.89,
-        "nombre": "Manzana Granny",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Manzana Granny Smith"
     },
     "manzana_roja": {
       "nombre_producto": "Manzana Roja",
       "Chedraui": {
-        "precio": 49.91,
+        "precio": 49.8,
         "nombre": "Manzana Roja Mediana por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 28.0,
-        "nombre": "Manzana Roja Mexicana Mt 1 Kg",
         "unidad": "kg"
       }
     },
     "manzana_royal_gala": {
-      "nombre_producto": "Manzana Royal Gala",
-      "Chedraui": {
-        "precio": 40.0,
-        "nombre": "Manzana Royal Gala por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 82.0,
-        "nombre": "Manzana Gala Importada",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 69.89,
-        "nombre": "Manzana Royal Gala",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Manzana Royal Gala"
     },
     "mejorana": {
-      "nombre_producto": "Mejorana",
-      "Comer": {
-        "precio": 19.99,
-        "nombre": "Mejorana",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Mejorana"
     },
     "melon_amarillo": {
-      "nombre_producto": "Melón Amarillo",
-      "Chedraui": {
-        "precio": 34.9,
-        "nombre": "Melón Amarillo por Kg",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Melón Amarillo"
     },
     "melon_chino": {
       "nombre_producto": "Melón Chino",
       "Chedraui": {
         "precio": 39.8,
         "nombre": "Melón Chino por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 31.0,
-        "nombre": "Melon Chino Supremo",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 39.89,
-        "nombre": "Melon Chino",
         "unidad": "kg"
       }
     },
@@ -1159,43 +379,18 @@
         "precio": 42.5,
         "nombre": "Naranja Paramount kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 35.0,
-        "nombre": "Naranja Suprema",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 29.0,
-        "nombre": "Naranja Valencia",
-        "unidad": "kg"
       }
     },
     "nopal_entero": {
       "nombre_producto": "Nopal Entero",
       "Chedraui": {
-        "precio": 32.91,
+        "precio": 44.5,
         "nombre": "Nopal por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 47.0,
-        "nombre": "Nopal Penca en Bolsa",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 33.89,
-        "nombre": "Nopal",
         "unidad": "kg"
       }
     },
     "nopal_picado": {
-      "nombre_producto": "Nopal Picado",
-      "Comer": {
-        "precio": 42.89,
-        "nombre": "Nopal Picado",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Nopal Picado"
     },
     "papa_blanca": {
       "nombre_producto": "Papa Blanca",
@@ -1203,25 +398,10 @@
         "precio": 64.9,
         "nombre": "Papa Blanca por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 66.9,
-        "nombre": "Papa Blanca",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 69.89,
-        "nombre": "Papa Blanca",
-        "unidad": "kg"
       }
     },
     "papa_cambray": {
-      "nombre_producto": "Papa Cambray",
-      "Chedraui": {
-        "precio": 49.9,
-        "nombre": "Papa Cambray por kg",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Papa Cambray"
     },
     "papaya": {
       "nombre_producto": "Papaya Maradol",
@@ -1229,48 +409,18 @@
         "precio": 38.9,
         "nombre": "Papaya Maradol por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 39.0,
-        "nombre": "Papaya Maradol",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 41.89,
-        "nombre": "Papaya Maradol",
-        "unidad": "kg"
       }
     },
     "pepino": {
       "nombre_producto": "Pepino",
       "Chedraui": {
-        "precio": 20.9,
+        "precio": 19.9,
         "nombre": "Pepino Verde por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 19.95,
-        "nombre": "Pepino",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 27.89,
-        "nombre": "Pepino Americano",
         "unidad": "kg"
       }
     },
     "pera_danjou": {
-      "nombre_producto": "Pera D'Anjou",
-      "HEB": {
-        "precio": 62.9,
-        "nombre": "Pera D'Anjou",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 49.0,
-        "nombre": "Pera De Anjou",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Pera D'Anjou"
     },
     "pera_mantequilla": {
       "nombre_producto": "Pera Mantequilla",
@@ -1281,58 +431,13 @@
       }
     },
     "perejil": {
-      "nombre_producto": "Perejil",
-      "Chedraui": {
-        "precio": 9.9,
-        "nombre": "Perejil Liso Rollo",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 15.0,
-        "nombre": "Perejil Liso 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 11.89,
-        "nombre": "Perejil",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Perejil"
     },
     "pimiento_amarillo": {
-      "nombre_producto": "Pimiento Amarillo",
-      "Chedraui": {
-        "precio": 98.5,
-        "nombre": "Pimiento Amarillo por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 105.0,
-        "nombre": "Pimiento Amarillo",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 98.49,
-        "nombre": "Pimiento Amarillo",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Pimiento Amarillo"
     },
     "pimiento_naranja": {
-      "nombre_producto": "Pimiento Naranja",
-      "Chedraui": {
-        "precio": 99.0,
-        "nombre": "Pimiento Naranja por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 105.0,
-        "nombre": "Pimiento Naranja",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 98.49,
-        "nombre": "Pimiento Naranja",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Pimiento Naranja"
     },
     "pimiento_rojo": {
       "nombre_producto": "Pimiento Rojo",
@@ -1340,33 +445,13 @@
         "precio": 99.0,
         "nombre": "Pimiento Rojo por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 105.0,
-        "nombre": "Pimiento Rojo",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 98.49,
-        "nombre": "Pimiento Rojo",
-        "unidad": "kg"
       }
     },
     "pimiento_verde": {
       "nombre_producto": "Pimiento Verde",
       "Chedraui": {
-        "precio": 67.9,
+        "precio": 99.0,
         "nombre": "Pimiento Verde por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 105.0,
-        "nombre": "Pimiento Verde",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 98.49,
-        "nombre": "Pimiento Verde",
         "unidad": "kg"
       }
     },
@@ -1376,35 +461,10 @@
         "precio": 26.9,
         "nombre": "Piña Gota Miel por Kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 21.95,
-        "nombre": "Piña Miel Suprema 1 kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 32.89,
-        "nombre": "Piña Miel",
-        "unidad": "kg"
       }
     },
     "pitahaya": {
-      "nombre_producto": "Pitahaya",
-      "Chedraui": {
-        "precio": 79.5,
-        "nombre": "Pitahaya Granel kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 172.0,
-        "nombre": "Pitahaya Nal 1 Kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 298.99,
-        "nombre": "Pitahaya",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Pitahaya"
     },
     "platano_chiapas": {
       "nombre_producto": "Plátano",
@@ -1412,113 +472,33 @@
         "precio": 29.8,
         "nombre": "Plátano Chiapas por Kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 14.95,
-        "nombre": "Plátano",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 22.0,
-        "nombre": "Platano Tabasco",
-        "unidad": "kg"
       }
     },
     "platano_macho": {
       "nombre_producto": "Plátano Macho",
       "Chedraui": {
-        "precio": 19.9,
+        "precio": 24.5,
         "nombre": "Plátano Macho por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 37.0,
-        "nombre": "Plátano Macho Grande",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 46.89,
-        "nombre": "Platano Macho",
         "unidad": "kg"
       }
     },
     "rabano": {
-      "nombre_producto": "Rábano",
-      "Chedraui": {
-        "precio": 17.9,
-        "nombre": "Rábano Cambray Manojo",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 18.89,
-        "nombre": "Rabano Cambray",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Rábano"
     },
     "repollo": {
-      "nombre_producto": "Repollo (Col Blanca)",
-      "HEB": {
-        "precio": 31.0,
-        "nombre": "Repollo Verde",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Repollo (Col Blanca)"
     },
     "sandia": {
-      "nombre_producto": "Sandía",
-      "Chedraui": {
-        "precio": 14.5,
-        "nombre": "Sandia Blanca Rayada por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 10.0,
-        "nombre": "Sandía Sangría",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 17.89,
-        "nombre": "Sandia Charleston",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Sandía"
     },
     "te_limon": {
-      "nombre_producto": "Té Limón",
-      "Chedraui": {
-        "precio": 14.9,
-        "nombre": "Té de Limón Manojo por Pieza",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 28.0,
-        "nombre": "Hoja Te de Limon 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 18.49,
-        "nombre": "Te De Limon",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Té Limón"
     },
     "tomate_huaje": {
-      "nombre_producto": "Tomate Huaje",
-      "HEB": {
-        "precio": 28.0,
-        "nombre": "Tomate Huaje Supremo",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Tomate Huaje"
     },
     "tomate_cherry": {
-      "nombre_producto": "Tomate Cherry",
-      "Chedraui": {
-        "precio": 45.52,
-        "nombre": "Tomates Cherry NatureSweet Glorys 283g",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 47.0,
-        "nombre": "Tomate Cherry 284 g",
-        "unidad": "un"
-      }
+      "nombre_producto": "Tomate Cherry"
     },
     "tomate_verde": {
       "nombre_producto": "Tomate Verde",
@@ -1526,69 +506,19 @@
         "precio": 39.5,
         "nombre": "Tomate Verde por kg",
         "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 41.89,
-        "nombre": "Tomate Verde Sin Cascara",
-        "unidad": "kg"
       }
     },
     "tomillo": {
-      "nombre_producto": "Tomillo",
-      "Chedraui": {
-        "precio": 43.5,
-        "nombre": "Tomillo Fresco Tiempo de Cosecha 50g",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 28.0,
-        "nombre": "Tomillo 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 18.49,
-        "nombre": "Tomillo",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Tomillo"
     },
     "toronja": {
-      "nombre_producto": "Toronja",
-      "Chedraui": {
-        "precio": 28.9,
-        "nombre": "Toronja por Kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 45.0,
-        "nombre": "Toronja Sangria Suprema",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 36.89,
-        "nombre": "Toronja Sangria",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Toronja"
     },
     "uva_blanca": {
-      "nombre_producto": "Uva Blanca",
-      "HEB": {
-        "precio": 105.0,
-        "nombre": "HEB Uvas Blancas Supremas sin Semilla",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 134.99,
-        "nombre": "Uva Blanca Sin Semilla",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Uva Blanca"
     },
     "uva_globo": {
-      "nombre_producto": "Uva Globo",
-      "Chedraui": {
-        "precio": 94.5,
-        "nombre": "Uva Globo Emperador por kg",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Uva Globo"
     },
     "uva_roja": {
       "nombre_producto": "Uva Roja",
@@ -1596,69 +526,19 @@
         "precio": 74.5,
         "nombre": "Uva Roja sin Semilla por Kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 105.0,
-        "nombre": "Uva Roja Suprema Sin Semilla",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 134.99,
-        "nombre": "Uva Roja Sin Semilla 4639 1",
-        "unidad": "kg"
       }
     },
     "uva_verde": {
-      "nombre_producto": "Uva Verde",
-      "Chedraui": {
-        "precio": 99.9,
-        "nombre": "Uva Verde por kg",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Uva Verde"
     },
     "verdolaga": {
-      "nombre_producto": "Verdolaga",
-      "Chedraui": {
-        "precio": 27.9,
-        "nombre": "Verdolaga por kg",
-        "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 27.0,
-        "nombre": "Verdolaga 1 pz",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 24.89,
-        "nombre": "Verdolaga",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Verdolaga"
     },
     "yaca": {
-      "nombre_producto": "Yaca",
-      "Chedraui": {
-        "precio": 49.9,
-        "nombre": "Yaca Fruta kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 36.89,
-        "nombre": "Yaca",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Yaca"
     },
     "yuca": {
-      "nombre_producto": "Yuca",
-      "Chedraui": {
-        "precio": 34.5,
-        "nombre": "Yuca Granel kg",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 75.39,
-        "nombre": "Yuca",
-        "unidad": "kg"
-      }
+      "nombre_producto": "Yuca"
     },
     "zanahoria": {
       "nombre_producto": "Zanahoria",
@@ -1666,67 +546,17 @@
         "precio": 19.5,
         "nombre": "Zanahoria por kg",
         "unidad": "kg"
-      },
-      "HEB": {
-        "precio": 19.0,
-        "nombre": "Zanahoria",
-        "unidad": "kg"
-      },
-      "Comer": {
-        "precio": 24.89,
-        "nombre": "Zanahoria",
-        "unidad": "kg"
       }
     },
     "zarzamora": {
-      "nombre_producto": "Zarzamora",
-      "Chedraui": {
-        "precio": 48.5,
-        "nombre": "Zarzamora por Pieza",
-        "unidad": "un"
-      },
-      "HEB": {
-        "precio": 52.0,
-        "nombre": "HEB Zarzamora 170 g",
-        "unidad": "un"
-      },
-      "Comer": {
-        "precio": 59.89,
-        "nombre": "Zarzamora",
-        "unidad": "pza"
-      }
+      "nombre_producto": "Zarzamora"
     }
   },
   "catalogos": {
     "Chedraui": [
       {
-        "nombre": "Acelgas Rollo",
-        "precio": 9.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Achicoria kg",
-        "precio": 48.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Aguacate Campo Vivo Orgánico 450 g",
-        "precio": 89.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Aguacate Chiapas por Kg",
-        "precio": 59.5,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Aguacate Hass Enmallado Pieza",
         "precio": 34.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Aguacate Hass Extra Malla 3 Piezas",
-        "precio": 74.9,
         "unidad": "un"
       },
       {
@@ -1735,128 +565,13 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Aguacate Hass Rancho Tierra Generosa en Paquete de 600g",
-        "precio": 39.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo Campo Vivo Orgánico 1 Pieza",
-        "precio": 43.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo Enmallado por pieza",
-        "precio": 44.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo Japonés Malla 150g",
-        "precio": 98.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo Pelado Mr. Lucky 280g",
-        "precio": 88.0,
-        "unidad": "un"
-      },
-      {
         "nombre": "Ajo por Kg",
         "precio": 89.9,
         "unidad": "kg"
       },
       {
-        "nombre": "Ajo Shallot Pieza Malla 200g",
-        "precio": 65.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Albahaca Alfavid 30g",
-        "precio": 20.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Albahaca Rollo",
-        "precio": 11.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Albahaca Verde Fresca Tiempo de Cosecha 50g",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Alcachofa 4 Piezas",
-        "precio": 135.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Alcachofa Microondas Nutribits Bolsa 2 Piezas",
-        "precio": 99.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Alcachofa Microwave 59g",
-        "precio": 39.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Alfalfa Fresca Kg",
-        "precio": 13.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Alfalfa Fresca Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
         "nombre": "Apio por kg",
         "precio": 24.8,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Arugula Baby Daily 120g",
-        "precio": 64.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Arugula EarthBound Organica 284g",
-        "precio": 159.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Arúgula Fresca Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Baby Bella Monteblanco Selección 350g",
-        "precio": 54.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Berenjena por Kg",
-        "precio": 64.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Berros Rollo",
-        "precio": 11.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Berzas Pieza",
-        "precio": 22.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Betabel Cambray con Rabo",
-        "precio": 24.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Betabel con Rabo",
-        "precio": 38.9,
         "unidad": "kg"
       },
       {
@@ -1865,48 +580,8 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Blue Berry Domo 170g",
-        "precio": 58.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Blue Berry Tamaño Jumbo 278g",
-        "precio": 129.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Bouquet Garni Frescas Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Bouquet Hierbas Finas Frescas Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Bouquet Provence Fresco Tiempo de Cosecha 50g",
-        "precio": 43.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Brócoli en Floretes Fresh Garden 454g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
         "nombre": "Brócoli por Kg",
         "precio": 39.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Bulbo de Hinojo por Kg",
-        "precio": 212.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Criolla por Kg",
-        "precio": 42.5,
         "unidad": "kg"
       },
       {
@@ -1915,29 +590,9 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Calabaza Local Granel kg",
-        "precio": 34.5,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Camote Amarillo por kg",
-        "precio": 44.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Camote Morado por kg",
-        "precio": 58.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Amarilla por kg",
-        "precio": 24.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Blanca Campo Vivo Orgánica 700g",
         "precio": 59.9,
-        "unidad": "un"
+        "unidad": "kg"
       },
       {
         "nombre": "Cebolla Blanca por kg",
@@ -1945,94 +600,9 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Cebolla de Cambray por Manojo",
-        "precio": 10.8,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cebolla de Rabo por kg",
-        "precio": 34.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Morada Organica Bolsa 700g",
-        "precio": 22.5,
-        "unidad": "un"
-      },
-      {
         "nombre": "Cebolla Morada por kg",
         "precio": 29.9,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Cebollín Fresco Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cebollín por Pieza",
-        "precio": 11.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cereza Amarilla domo 250g",
-        "precio": 99.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cereza Natural Clam Top Sell 1Lb",
-        "precio": 150.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cereza Natural kg",
-        "precio": 125.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chalot Granel Kg",
-        "precio": 142.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Champiñón Baby Bella Relleno Monteblanco 250g",
-        "precio": 59.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñón Baby Bella Relleno Tocino 250g",
-        "precio": 59.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñón Cremini Fresco Entero Monteblanco 450g",
-        "precio": 65.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñón Fresco Entero Monteblanco 450g",
-        "precio": 64.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñón Fresco Rebanado Monteblanco 450g",
-        "precio": 65.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñón Monteblanco 225g",
-        "precio": 34.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñón Monteblanco Baby 250g",
-        "precio": 37.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñón Monteblanco Jumbo 500g",
-        "precio": 71.9,
-        "unidad": "un"
       },
       {
         "nombre": "Champiñón Monteblanco Selección 225g",
@@ -2045,53 +615,8 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Chayote Cambray por kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Chayote sin Espinas por kg",
         "precio": 29.8,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chícharo por kg",
-        "precio": 10.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chicozapote por Kg",
-        "precio": 69.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chilacayote por Kg",
-        "precio": 39.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Cera por Kg",
-        "precio": 149.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile de Árbol por Kg",
-        "precio": 115.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Güero por Kg",
-        "precio": 89.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Habanero Naranja por kg",
-        "precio": 165.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Habanero por Kg",
-        "precio": 150.0,
         "unidad": "kg"
       },
       {
@@ -2110,38 +635,8 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Chile Xcatic por Kg",
-        "precio": 165.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cilantro Fresco Tiempo de Cosecha 50g",
-        "precio": 42.0,
-        "unidad": "un"
-      },
-      {
         "nombre": "Cilantro Rollo",
         "precio": 9.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ciruela Moscatel Kg",
-        "precio": 75.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela por kg",
-        "precio": 79.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Coco Diamante A de Coco 1 Pieza",
-        "precio": 24.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Coco por Pieza",
-        "precio": 44.9,
         "unidad": "un"
       },
       {
@@ -2150,273 +645,13 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Col Bruselas por kg",
-        "precio": 99.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Col de Bruselas Campo Vivo Orgánico 400g",
-        "precio": 79.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Col de Bruselas Mr Lucky 40g",
-        "precio": 105.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Col Morada por kg",
-        "precio": 36.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Coles de Bruselas Eat Smart Bolsa 340g",
-        "precio": 99.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Coliflor Morada 750g",
-        "precio": 41.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Coliflor Naranja 750g",
-        "precio": 41.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Coliflor Pre Enfriada Pieza",
-        "precio": 59.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Coliflor Verde 750g",
-        "precio": 41.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Combo Monteblanco Champiñón y Cremini 500g",
-        "precio": 72.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Corazón Apio Mr. Lucky Orgánico 454g",
-        "precio": 32.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Corazón de Lechuga Orejona Selecto 2 piezas",
-        "precio": 33.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Corazones de Lechuga Daily Orejona 3 Piezas",
-        "precio": 54.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Corazones de Lechuga Mr. Lucky 3 Piezas",
-        "precio": 54.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Corazones de Lechuga Romana Campo Vivo 450g",
-        "precio": 40.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Corazones Mr. Lucky Mediterráneos 750g",
-        "precio": 57.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cremini Monteblanco Rebanado 225g",
-        "precio": 33.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cremini Monteblanco Selección 225g",
-        "precio": 33.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Durazno Amarillo kg",
-        "precio": 120.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Durazno Rojo por Kg",
-        "precio": 99.0,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Ejote por kg",
         "precio": 49.9,
         "unidad": "kg"
       },
       {
-        "nombre": "Elote Amarillo 4 pzas",
-        "precio": 99.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Elote Cocido Los Aztecas 2 Pieza",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Elote Mr. Lucky Charola 3 Piezas",
-        "precio": 75.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Elote por Pieza",
-        "precio": 10.8,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Endivias FARMS California 3 Piezas",
-        "precio": 99.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Epazote Alfavid 30g",
-        "precio": 20.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Epazote Fresco Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Epazote Rollo",
-        "precio": 14.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Esparrago Verde 454g",
-        "precio": 27.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Baby Hidropónica Eva 200g",
-        "precio": 49.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Baby Mr. Lucky Popeye 180g",
-        "precio": 65.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Baby Mr. Lucky Popeye 227g",
-        "precio": 59.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Baby Selecto 125g",
-        "precio": 30.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Baby Selecto 250g",
-        "precio": 39.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Baby Vegetalistos 250g",
-        "precio": 61.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Daily 300g",
-        "precio": 49.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca EarthBound Baby Organica 284g",
-        "precio": 159.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Freshly 200g",
-        "precio": 36.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Hidroponica Hidrocool 300 g",
-        "precio": 32.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Mr Lucky Arugula 200g",
-        "precio": 86.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Mr Lucky Popeye 170g",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca Mr Lucky SpringMix 200g",
-        "precio": 79.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Espinaca MrLucky' Popeye 284g",
-        "precio": 59.0,
-        "unidad": "un"
-      },
-      {
         "nombre": "Espinacas Rollo",
-        "precio": 10.91,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Esquites Cocidos Los Aztecas 500g",
-        "precio": 69.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Estragón Fresco Tiempo de Cosecha 50g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Flor de Calabaza por kg",
-        "precio": 99.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Flor de Jamaica Chedraui en Bolsa 250g",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Floretes de Brócoli Mr. Lucky 454g",
-        "precio": 37.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Floretes de Coliflor Fresh Garden 500g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Floretes de Coliflor Mr. Lucky 454g",
-        "precio": 33.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Frambuesa Campo Vivo Orgánica 170g",
-        "precio": 89.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Frambuesa Domo 170g",
-        "precio": 58.5,
+        "precio": 11.9,
         "unidad": "un"
       },
       {
@@ -2425,388 +660,13 @@
         "unidad": "un"
       },
       {
-        "nombre": "Garbanzo Fresco por Pieza",
-        "precio": 24.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germen Combinado Germimax de Alfalfa y Zanahoria 200g",
-        "precio": 42.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germen Cultivos Naturales San Francisco Alfalfa 200g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germen de Alfalfa Germimax con Aderezo Chile y Limón 80g",
-        "precio": 39.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germen de Alfalfa Germimax con Aderezo Mil Islas 80g",
-        "precio": 37.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germen de Alfalfa Germimax Natural 200g",
-        "precio": 47.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germen de Lenteja por kg",
-        "precio": 15.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen de Soya Germimax 250g",
-        "precio": 35.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germen de Soya por kg",
-        "precio": 64.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen de Trigo por kg",
-        "precio": 16.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germinado Cultivos Naturales San Francisco Alfalfa con Brócoli 200g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germinado de Alfalfa 240g",
-        "precio": 60.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germinado de Alfalfa con brócoli Clamsh",
-        "precio": 60.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germinado de Alfalfa Limón y Chile Clam",
-        "precio": 60.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germinado de soya 300g",
-        "precio": 60.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germinados Alfavid Alfalfa y Brócoli Pieza",
-        "precio": 34.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germinados Alfavid Clásica 200g",
-        "precio": 42.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Germinados Alfavid Smartpack Alfalfa Chico",
-        "precio": 26.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Gordolobo Pieza",
-        "precio": 11.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Grano de Elote por kg",
-        "precio": 68.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Guayaba Clamshell kg",
-        "precio": 69.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Guayaba por Kg",
-        "precio": 52.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Habas por kg",
-        "precio": 69.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Hierba Buena Rollo",
-        "precio": 12.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hierbabuena Alfavid 30g",
-        "precio": 20.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hierbas de Olor por Pieza",
-        "precio": 12.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Higo Mr Lucky 454 g",
-        "precio": 88.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Higo Pieza",
-        "precio": 89.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hinojo Fresco Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hinojo Pieza",
-        "precio": 39.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hoja de Aguacate por Pieza",
-        "precio": 22.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hoja de Chaya por kg",
-        "precio": 80.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Hoja de Plátano Pieza",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hoja Santa Rollo",
-        "precio": 22.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hojas de Lechuga MrLucky' Orejona Orgánica 250g",
-        "precio": 57.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hongo Eryngii Monteblanco 160g",
-        "precio": 62.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hongo Portobello por Kg",
-        "precio": 149.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Huaje por kg",
-        "precio": 45.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Huazontle Rollo",
-        "precio": 19.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Huitlacoche Monteblanco 250g",
-        "precio": 21.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Huitlacoche Natural por kg",
-        "precio": 149.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jamaica por kg",
-        "precio": 159.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jengibre por kg",
-        "precio": 134.5,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Jícama por Kg",
         "precio": 29.5,
         "unidad": "kg"
       },
       {
-        "nombre": "Jícama Vegetalistos 454g",
-        "precio": 44.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Jitomate Baby Tom Campo Vivo Orgánico 180g",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Jitomate Cherry Campo Vivo Orgánico 280g",
-        "precio": 48.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Jitomate Cherry Hidrocool 380g",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Jitomate Saladet Campo Vivo Orgánico 450g",
-        "precio": 49.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Jitomate Uva Campo Vivo Orgánico 280g",
-        "precio": 51.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Kale Arugula Daily Orgánica 150g",
-        "precio": 61.2,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Kale Vegetalistos 150g",
-        "precio": 55.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Kiwi Chumis 450g",
-        "precio": 74.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Kiwi por Kg",
-        "precio": 76.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Laurel por Pieza",
-        "precio": 24.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Baby Escarlata Fresh Garden 4 Piezas",
-        "precio": 53.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Escarola Baby por kg",
-        "precio": 32.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Escarola Pieza",
-        "precio": 17.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Eva Corazones Rústicos 4 Piezas",
-        "precio": 76.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Eva Francesa Viva 1 Pieza",
-        "precio": 38.9,
-        "unidad": "un"
-      },
-      {
         "nombre": "Lechuga Eva Italiana Viva 1 Pieza",
         "precio": 39.1,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Eva Mini Romana 4 Piezas",
-        "precio": 78.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Eva Trio Viva 1 Pieza",
-        "precio": 47.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Francesa Corazón de Eva 2 Piezas",
-        "precio": 44.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Francesa Pieza",
-        "precio": 19.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Fresh Garden Baby 6 Piezas 400g",
-        "precio": 65.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Fresh Garden Sucrine 2 Piezas 270g",
-        "precio": 43.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Fresh Garden Sucrine 3 Piezas 500g",
-        "precio": 17.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Hidropónica Francesa 220g",
-        "precio": 29.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Hidropónica Fresh Garden Francesa 1 Pieza",
-        "precio": 38.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Hidropónica Fresh Garden Italiana 1 Pieza",
-        "precio": 38.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Italiana Pieza",
-        "precio": 19.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Larga Pieza",
-        "precio": 10.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Mini Romana 2 Piezas",
-        "precio": 51.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Mr Lucky Orejona Organica 2 Piezas",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Mr. Lucky Rallada 284g",
-        "precio": 35.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Nutribits Corazón de Lechuga 3 Piezas",
-        "precio": 49.9,
         "unidad": "un"
       },
       {
@@ -2815,29 +675,9 @@
         "unidad": "un"
       },
       {
-        "nombre": "Lechuga Sangría Pieza",
-        "precio": 24.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Sweet Crunchy Eva 2 Piezas",
-        "precio": 53.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechugas Baby Mr. Lucky 4 Piezas",
-        "precio": 72.8,
-        "unidad": "un"
-      },
-      {
         "nombre": "Limón Colima por Kg",
         "precio": 34.9,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Limón Eureka Fresh Garden 908g",
-        "precio": 79.9,
-        "unidad": "un"
       },
       {
         "nombre": "Limón Eureka Paramount kg",
@@ -2850,99 +690,14 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Limón sin Semilla Rancho Tierra Generosa 1000g",
-        "precio": 19.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Málaga Pieza",
-        "precio": 20.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mamey por Kg",
-        "precio": 26.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mandarina Chumis 674g",
-        "precio": 68.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mandarina Nova kg",
-        "precio": 69.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mandarina por Kg",
-        "precio": 46.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mandarina Rancho Tierra Generosa 800g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
         "nombre": "Mango Ataulfo por Kg",
-        "precio": 34.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Manila por Kg",
-        "precio": 49.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Oro por Kg",
-        "precio": 34.5,
+        "precio": 47.3,
         "unidad": "kg"
       },
       {
         "nombre": "Mango Paraíso por Kg",
-        "precio": 21.8,
+        "precio": 30.1,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Ambrosia kg",
-        "precio": 15.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Autumn Glory kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Beaburn por kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Fuji kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Gala Chumis 613g",
-        "precio": 52.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Gala Orgánica Fresh Garden 907g",
-        "precio": 91.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Golden Chica en Bolsa por Kg",
-        "precio": 69.8,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Golden Chumis 552g",
-        "precio": 49.5,
-        "unidad": "un"
       },
       {
         "nombre": "Manzana Golden Mediana por Kg",
@@ -2950,98 +705,8 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Manzana Golden Rancho Tierra Generosa 600g (4 unidades)",
-        "precio": 54.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Granny Chumis 552g",
-        "precio": 56.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Granny Smith en Bolsa por kg",
-        "precio": 58.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Granny Smith por Kg",
-        "precio": 44.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Grany Rancho Tierra Generosa 600g (4 unidades)",
-        "precio": 54.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Honeycrisp por kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Jonagold kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Pink Lady por kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Puré Harvest Golden 600g",
-        "precio": 29.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Roja Chica en Bolsa por Kg",
-        "precio": 45.0,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Manzana Roja Mediana por Kg",
-        "precio": 49.91,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Roja Rancho Tierra Generosa 600g (4 unidades)",
-        "precio": 32.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Royal Gala en Bolsa por kg",
-        "precio": 38.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Royal Gala por Kg",
-        "precio": 40.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Royal Rancho Tierra Generosa 600g (4 unidades)",
-        "precio": 54.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Sugar Bee por kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzanilla Rollo",
-        "precio": 11.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Maracuyá kg",
-        "precio": 98.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melón Amarillo por Kg",
-        "precio": 34.9,
+        "precio": 49.8,
         "unidad": "kg"
       },
       {
@@ -3050,199 +715,14 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Melón Hami",
-        "precio": 54.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melón Juan Canario Kg",
-        "precio": 49.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Menta Alfavid Empaque 30g",
-        "precio": 20.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Menta Fresca Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mezcla de Berries 227g",
-        "precio": 129.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Chile Morrón Orgánico 350g",
-        "precio": 59.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Flakes Mr. Lucky Brócoli Coliflor y Zanahoria 454ml",
-        "precio": 42.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Flakes Mr. Lucky de Brócoli 454g",
-        "precio": 42.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Flakes Mr. Lucky de Brócoli Coliflor 454g",
-        "precio": 42.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Flakes Mr. Lucky de Coliflor 454g",
-        "precio": 42.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Florete Mr. Lucky Brócoli 225g",
-        "precio": 28.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Pepino Mr. Lucky 500g",
-        "precio": 49.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mini Pepino Persa Campo Vivo Orgánico 400g",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mix de Floretes de Coliflor y Brócoli Fresh Garden 500g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mix de Frutas Rancho Tierra Generosa 650g (4 unidades)",
-        "precio": 59.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mix de Manzanas Rancho Tierra Generosa 650g (4 unidades)",
-        "precio": 54.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mora Azul Campo Vivo Orgánica 170g",
-        "precio": 88.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "MoraAzul Selecto Brand 400g",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Naranja Agria kg",
-        "precio": 41.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja Blood Orange en Malla Fresh Garden 908g",
-        "precio": 89.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Naranja Cara Cara en Malla Fresh Garden 908g",
-        "precio": 79.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Naranja en Arpilla 5kg",
-        "precio": 125.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Naranja Nave 1kg",
-        "precio": 60.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja Navel en Malla Fresh Garden 908g",
-        "precio": 74.5,
-        "unidad": "un"
-      },
-      {
         "nombre": "Naranja Paramount kg",
         "precio": 42.5,
         "unidad": "kg"
       },
       {
-        "nombre": "Naranja Valenciana Rancho Tierra Generosa 800g (4 unidades)",
-        "precio": 57.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Nectarina por Kg",
-        "precio": 99.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Cambray por kg",
-        "precio": 74.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Flor Azteca Baby Nopal 500g",
-        "precio": 39.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Nopal Flor Azteca Cambray en Salmuera 1kg",
-        "precio": 74.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Nopal Flor Azteca en tira en Salmuera 1kg",
-        "precio": 59.9,
-        "unidad": "un"
-      },
-      {
         "nombre": "Nopal por kg",
-        "precio": 32.91,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Orégano Fresco Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pakchoy kg",
-        "precio": 78.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Palitos de Apio Mr. Lucky 8 Piezas de 100gr",
-        "precio": 63.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Palitos de Apio Orgánico 4 Piezas de 100gr",
         "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Papa Baby Amarilla 680g",
-        "precio": 98.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Papa Baby Roja The Little Potato Co 680g",
-        "precio": 98.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Papa Baby Trio The Little Potato Co 680g",
-        "precio": 98.5,
-        "unidad": "un"
+        "unidad": "kg"
       },
       {
         "nombre": "Papa Blanca por kg",
@@ -3250,139 +730,19 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Papa Cambray por kg",
-        "precio": 49.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Cambray Rosada por kg",
-        "precio": 78.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Morena kg",
-        "precio": 9.8,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Russet Bolsa 5 Libras",
-        "precio": 56.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Papa Russet en Bolsa 1.3kg",
-        "precio": 54.9,
-        "unidad": "un"
-      },
-      {
         "nombre": "Papaya Maradol por kg",
         "precio": 38.9,
         "unidad": "kg"
       },
       {
-        "nombre": "Pepinillo Pinkle kg",
-        "precio": 78.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Blanco kg",
-        "precio": 57.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Campo Vivo Orgánico 2 Piezas",
-        "precio": 36.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pepino Criollo kg",
-        "precio": 19.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Europeo por Kg",
-        "precio": 19.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Persa Alfavid 600g",
-        "precio": 65.0,
-        "unidad": "un"
-      },
-      {
         "nombre": "Pepino Verde por Kg",
-        "precio": 20.9,
+        "precio": 19.9,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Asiática por Kg",
-        "precio": 59.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Bartlett kg",
-        "precio": 49.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Bosc por Kg",
-        "precio": 54.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Chumis 680g",
-        "precio": 53.9,
-        "unidad": "un"
       },
       {
         "nombre": "Pera Mantequilla por Kg",
         "precio": 47.9,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Rancho Tierra Generosa 700g (4 unidades)",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Perejil Chino Rollo",
-        "precio": 13.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Perejil Fresco Tiempo de Cosecha 50g",
-        "precio": 42.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Perejil Liso Rollo",
-        "precio": 9.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pimiento Amarillo por kg",
-        "precio": 98.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Guernika Rancho San Agustín 24 Piezas",
-        "precio": 99.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pimiento Mr Lucky Mini Organico 300g",
-        "precio": 47.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pimiento Naranja por kg",
-        "precio": 99.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Nature Sweet Mini 454 g",
-        "precio": 9.9,
-        "unidad": "un"
       },
       {
         "nombre": "Pimiento Rojo por kg",
@@ -3396,7 +756,7 @@
       },
       {
         "nombre": "Pimiento Verde por kg",
-        "precio": 67.9,
+        "precio": 99.0,
         "unidad": "kg"
       },
       {
@@ -3405,184 +765,14 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Pitahaya Granel kg",
-        "precio": 79.5,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Plátano Chiapas por Kg",
         "precio": 29.8,
         "unidad": "kg"
       },
       {
-        "nombre": "Plátano Dominico por Kg",
-        "precio": 44.5,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Plátano Macho por Kg",
-        "precio": 19.9,
+        "precio": 24.5,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Plátano Orgánico por Penca",
-        "precio": 35.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Poro Pieza",
-        "precio": 5.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Portabella Monteblanco Selección 250g",
-        "precio": 39.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Portabella Monteblanco Selección 500g",
-        "precio": 77.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Quinoa Naturalika Vita Semilla 100g",
-        "precio": 49.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Quinoa Reventada Naturalika Vita 50g",
-        "precio": 63.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Rábano Cambray Manojo",
-        "precio": 17.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Rábano Largo Rollo",
-        "precio": 18.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Rábano Negro Pieza",
-        "precio": 54.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Raíz de Azafrán por kg",
-        "precio": 63.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Rambután kg",
-        "precio": 89.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Recado por kg",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Romero Alfavid 30g",
-        "precio": 20.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Romero Fresco Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Romero por Pieza",
-        "precio": 11.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ruda Fresca Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ruda Pieza",
-        "precio": 12.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Sábila Pieza",
-        "precio": 9.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Salvia Fresca Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Sandia Amarilla Kg",
-        "precio": 28.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandia Blanca Rayada por Kg",
-        "precio": 14.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandía Personal kg",
-        "precio": 22.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandia sin Semilla por Kg",
-        "precio": 19.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Santa María Pieza",
-        "precio": 10.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Semilla de Chía Naturalika Vita 120g",
-        "precio": 45.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Seta kg",
-        "precio": 79.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Seta Monteblanco Selección 250g",
-        "precio": 33.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Shiitake Monteblanco Selección 160g",
-        "precio": 49.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tamarindo Chedraui 500g",
-        "precio": 88.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tamarindo por Kg",
-        "precio": 139.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Té de Limón fresco Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Té de Limón Manojo por Pieza",
-        "precio": 14.9,
-        "unidad": "un"
       },
       {
         "nombre": "Tomate Bola por kg",
@@ -3590,49 +780,9 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Tomate Cherry Orgánico 284g",
-        "precio": 54.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Cherry Uva NatureSweet 113g",
-        "precio": 19.92,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Mr Lucky Orgánico 454 g",
-        "precio": 74.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate MrLucky' Heirloom 900g",
-        "precio": 104.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Nature Sweet Cocktail 454 g",
-        "precio": 69.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Orgánicos Grape 284g",
-        "precio": 54.5,
-        "unidad": "un"
-      },
-      {
         "nombre": "Tomate Saladet por kg",
         "precio": 24.9,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Saladet Rancho Tierra Generosa 1000g",
-        "precio": 29.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Verde Orgánico Bolsa 450g",
-        "precio": 43.5,
-        "unidad": "un"
       },
       {
         "nombre": "Tomate Verde por kg",
@@ -3640,3364 +790,17 @@
         "unidad": "kg"
       },
       {
-        "nombre": "Tomate Verde Rancho Tierra Generosa 1000g",
-        "precio": 29.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Cherry Amarillos NatureSweet Comets 283g",
-        "precio": 45.52,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Cherry NatureSweet Glorys 283g",
-        "precio": 45.52,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Cherry NatureSweet Glorys 467g",
-        "precio": 75.92,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Uva NatureSweet Cherubs 283g",
-        "precio": 47.92,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Uva NatureSweet Cherubs 467g",
-        "precio": 75.92,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Uva NatureSweet Cherubs to Go tjn71g",
-        "precio": 15.92,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Uva y Cherry NatureSweet Constellation 467g",
-        "precio": 75.92,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomates Uva y Cherry NatureSweet Constellation to Go 71g",
-        "precio": 16.8,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomatillo por kg",
-        "precio": 29.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomillo Alfavid 30g",
-        "precio": 20.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomillo Fresco Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Toronja por Kg",
-        "precio": 28.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tuna por kg",
-        "precio": 39.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Cotton Candy kg",
-        "precio": 125.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Globo Domo 908g",
-        "precio": 114.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Uva Globo Emperador por kg",
-        "precio": 94.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Negra sin Semilla kg",
-        "precio": 89.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Roja Domo 908g",
-        "precio": 64.5,
-        "unidad": "un"
-      },
-      {
         "nombre": "Uva Roja sin Semilla por Kg",
         "precio": 74.5,
         "unidad": "kg"
       },
       {
-        "nombre": "Uva Verde Domo Pz",
-        "precio": 110.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Uva Verde por kg",
-        "precio": 99.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Verde sin semilla Chumis 454g",
-        "precio": 89.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Veggie Snack Mr Lucky 560g",
-        "precio": 67.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Verdolaga por kg",
-        "precio": 27.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Yaca Fruta kg",
-        "precio": 49.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Yerbabuena Fresca Tiempo de Cosecha 50g",
-        "precio": 43.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Yuca Granel kg",
-        "precio": 34.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Zanahoria Baby Bolthouse 340g",
-        "precio": 44.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zanahoria Baby Mr. Lucky 454g",
-        "precio": 59.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zanahoria Baby Vegetalistos 150g",
-        "precio": 22.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zanahoria Baby Vegetalistos 340g",
-        "precio": 39.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zanahoria Cambray por kg",
-        "precio": 24.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Zanahoria Campo Vivo Orgánica Bolsa 450g",
-        "precio": 37.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zanahoria Mr Lucky Baby 100g",
-        "precio": 53.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zanahoria Noodles Nutribits Clam 150g",
-        "precio": 54.5,
-        "unidad": "un"
-      },
-      {
         "nombre": "Zanahoria por kg",
         "precio": 19.5,
         "unidad": "kg"
-      },
-      {
-        "nombre": "Zanahoria rallada Vegetalistos 340g",
-        "precio": 32.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zarzamora Campo Vivo Orgánica 170g",
-        "precio": 73.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zarzamora por Pieza",
-        "precio": 48.5,
-        "unidad": "un"
       }
     ],
-    "HEB": [
-      {
-        "nombre": "Aguacate en Malla Season Select",
-        "precio": 51.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Aguacate Extra",
-        "precio": 98.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Aguacate MT",
-        "precio": 66.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Aguacate Primera",
-        "precio": 93.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Aguacate Supremo",
-        "precio": 103.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Aguacatito en Malla",
-        "precio": 31.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo a Granel",
-        "precio": 149.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ajo a Granel Supremo Mr Lucky 1 kg",
-        "precio": 169.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ajo Desgranado 200 g",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo Pelado Mr Lucky 280 g",
-        "precio": 83.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo Seasons Select Ajo 4 pz",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Ajo Shallot Mr Lucky 200 g",
-        "precio": 62.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Albahaca Verde 1 pz",
-        "precio": 31.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Apio",
-        "precio": 41.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Berenjena",
-        "precio": 94.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Berries Tripack 227 g",
-        "precio": 83.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Berros 1 pz",
-        "precio": 24.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Betabel Manojo 1 pz",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Betabel Rebotado",
-        "precio": 47.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Blueberries 510 g",
-        "precio": 198.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Blueberries Clam 311 g",
-        "precio": 135.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Blueberry Jumbo 278 Gr",
-        "precio": 135.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Bok Choy  1 Kg",
-        "precio": 29.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabacita a Granel",
-        "precio": 37.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabacita MT",
-        "precio": 20.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Butternut 1 kg",
-        "precio": 79.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Criolla",
-        "precio": 49.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Camote Amarillo 1 kg",
-        "precio": 39.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Camote Morado",
-        "precio": 73.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Camote Morado Stokes 1 kg",
-        "precio": 125.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Camote Rojo Dulce 1 kg",
-        "precio": 62.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Amarilla",
-        "precio": 26.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Blanca con Cáscara",
-        "precio": 26.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Blanca Limpia",
-        "precio": 36.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Cambray",
-        "precio": 18.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cebolla de Rabo 1 pz",
-        "precio": 16.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cebolla Morada con Cascara",
-        "precio": 46.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Morada Limpia",
-        "precio": 41.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebollin 1 pz",
-        "precio": 24.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champinon Blanco a Granel",
-        "precio": 126.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Champiñón Blanco Entero",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñon Blanco Entero 225 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñon Blanco Entero de 450 g",
-        "precio": 73.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñon Blanco Rebanado de 225 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñon Cremini de 225 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñon Cremini de 450 g",
-        "precio": 77.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñon Cremini Rebanado de 225 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Champiñon Jumbo de 500 g",
-        "precio": 83.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Chayote sin Espinas",
-        "precio": 37.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Anaheim",
-        "precio": 83.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Caribe",
-        "precio": 83.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile de Árbol Fresco",
-        "precio": 146.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Habanero Hidropónico Clam 1 Pz",
-        "precio": 29.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Chile Habanero Naranja",
-        "precio": 156.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Habanero Verde",
-        "precio": 156.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Jalapeño",
-        "precio": 24.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Jalapeño de Malla 500 g",
-        "precio": 19.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Chile Jalapeño Mt",
-        "precio": 29.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Jalapeño Rojo",
-        "precio": 83.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Piquín Fresco 100 g",
-        "precio": 105.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Chile Poblano",
-        "precio": 52.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Serrano",
-        "precio": 52.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Serrano de Malla Seasons Select 350 g",
-        "precio": 16.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Chile Serrano Mt",
-        "precio": 64.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Serrano Rojo",
-        "precio": 52.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Moscatel",
-        "precio": 62.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Negra Importada 1 Kg",
-        "precio": 94.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Col Morada",
-        "precio": 52.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Coliflor Morada 1 Pz",
-        "precio": 47.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Corazón de Apio Mr Lucky con 2 pz",
-        "precio": 31.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Cúrcuma",
-        "precio": 94.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Durazno Amarillo",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Durazno Amarillo Sup Michoacan",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Durazno Blanco",
-        "precio": 167.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Durazno Importado",
-        "precio": 89.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ejote Verde",
-        "precio": 94.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Elote Blanco",
-        "precio": 4.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Eneldo/Hinojo Granel 1 pz",
-        "precio": 26.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Epazote Verde 1 pz",
-        "precio": 16.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Esparrago",
-        "precio": 94.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Frambuesa 170 g",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Fresa 2 Lb 908 g",
-        "precio": 125.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Guayaba",
-        "precio": 66.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Guayaba Suprema",
-        "precio": 54.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "HEB Acelga Verde",
-        "precio": 15.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Ajo con 4 pz",
-        "precio": 47.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Albahaca Empacada 50 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Alfalfa con Aderezo Italiano 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Berry Duo Pack 340 g",
-        "precio": 135.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Blueberry 170 g",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Cebollin Empacada 50 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Cereza Importada",
-        "precio": 261.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "HEB Champinon Blanco de 225 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Chile Ancho 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Chile Cascabel 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Chile Chipotle 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Chile de Arbol 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Chile Morita 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Chile Pasilla 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Cilantro Empacada 50 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Coliflor Blanca",
-        "precio": 39.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Elote Dulce Charola con 3 pz",
-        "precio": 62.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Epazote Empacada 50 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Espárrago Verde",
-        "precio": 79.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Espinaca Manojo",
-        "precio": 15.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Fresas 454 g",
-        "precio": 79.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Fresas 454 g",
-        "precio": 73.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Fresco en Cilantro Manojo",
-        "precio": 14.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Fresh Pepino Cortado 500 g",
-        "precio": 73.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Germinado de Alfalfa 250 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Germinado de Brocoli 114 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Germinado de Brocoli Y Alfalfa 114 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Germinado de Soya 250 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Lechuga Italiana Hidropónica",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Menta Empacada 50 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Papa Russet 1 kg",
-        "precio": 21.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "HEB Pera D Anjou en Bolsa 1.36 1.36 g",
-        "precio": 59.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Perejil Empacada 50 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Romero Empacada 50 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Tomate Rojo Mini Cupid 680 g",
-        "precio": 100.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Uvas Blancas Supremas sin Semilla",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "HEB Zanahoria Rallada 500 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "HEB Zarzamora 170 g",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hidropónica Mini Francesa  1 Cmt",
-        "precio": 56.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hierbabuena en Manojo 1 pz",
-        "precio": 31.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Higo Charola Mr Lucky 454 g",
-        "precio": 83.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hoja Te de Limon 1 pz",
-        "precio": 28.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hongo Portabella de 225 g",
-        "precio": 47.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Hongo Portabellini de 225 g",
-        "precio": 39.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Huitlacoche Desgranado",
-        "precio": 35.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Jengibre",
-        "precio": 209.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jengibre",
-        "precio": 188.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jícama Grande",
-        "precio": 19.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Kiwi",
-        "precio": 146.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Kiwi Gold 3 pz",
-        "precio": 94.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Kiwi Sungold Zespri Vita",
-        "precio": 156.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Lechuga Francesa Hidropónica  1 Cmt",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Gourmet Hidropónica  1 Cmt",
-        "precio": 49.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Hidroponica Mini Romaine 2pz 1 Pz",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Italiana",
-        "precio": 20.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Morada (Sangria) Nal 1 pz",
-        "precio": 20.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Orejona",
-        "precio": 28.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Romana 1 pz",
-        "precio": 26.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Limón Agrio",
-        "precio": 41.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Limon Agrio Mta",
-        "precio": 54.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Limón Agrio Supremo",
-        "precio": 42.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Limón Amarillo Eureka",
-        "precio": 72.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Limon Amarillo Imp Bsa 2lbs 1 pz",
-        "precio": 69.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Limon Malla Mt .800 1 Pz",
-        "precio": 28.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Limón sin Semilla",
-        "precio": 31.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Malanga Macal",
-        "precio": 68.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mamey Gde",
-        "precio": 73.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mandarina Bella en Bolsa 1.36 1.36 kg",
-        "precio": 105.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mandarina Malla 3lbs 1 Pz",
-        "precio": 114.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Mandarina Primosole 1 kg",
-        "precio": 49.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mandarina Primosole 1 Kg",
-        "precio": 49.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Ataulfo",
-        "precio": 73.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Ataulfo Mt",
-        "precio": 47.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Ataulfo Supremo",
-        "precio": 62.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Tommy 1 Kg",
-        "precio": 24.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Ambrosia",
-        "precio": 39.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Cosmic Crisp",
-        "precio": 93.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Crisp Pink",
-        "precio": 39.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Envi",
-        "precio": 77.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Fuji en Bolsa 3lb 1 Pz",
-        "precio": 82.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Gala Importada",
-        "precio": 82.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Gala Importada en Bolsa 1.36 kg",
-        "precio": 82.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Gala Nacional Charola 1 Kg",
-        "precio": 62.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Gala Nacional en Bolsa 600 g",
-        "precio": 36.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Golden en Bolsa",
-        "precio": 41.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Golden Importada en Bolsa 1.36 kg",
-        "precio": 82.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Golden Importada Suprema",
-        "precio": 82.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Golden Nacional",
-        "precio": 57.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Golden Nacional Bolsa 1.36 kg",
-        "precio": 72.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Golden Saltillo Bin",
-        "precio": 51.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Granny Smith Gde Importada",
-        "precio": 39.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Granny Smith Imp en Bolsa 1.36 kg",
-        "precio": 82.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Honey Crisp 1 kg",
-        "precio": 93.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Opal 1 Kg",
-        "precio": 77.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Red Delicious Imp 1 Kg",
-        "precio": 57.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Red Delicious Importada en Bolsa 1.36 kg",
-        "precio": 82.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Red Delicious Importada Suprema",
-        "precio": 62.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Rockit 907 g",
-        "precio": 54.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Manzana Roja Mexicana Mt 1 Kg",
-        "precio": 28.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Roja Nacional",
-        "precio": 46.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Sugarbee",
-        "precio": 39.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzanilla",
-        "precio": 28.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Melon Chino",
-        "precio": 31.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melón Chino Mi Tienda",
-        "precio": 16.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melon Chino Mitad",
-        "precio": 36.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melon Chino Supremo",
-        "precio": 31.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melón Valenciano",
-        "precio": 41.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mr Lucky Brócoli Coronas 1 kg",
-        "precio": 68.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja C",
-        "precio": 14.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja Navel Sin Semilla",
-        "precio": 49.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja Suprema",
-        "precio": 35.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja Valencia",
-        "precio": 35.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nectarina",
-        "precio": 89.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Cubos en Bolsa",
-        "precio": 47.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Limpio",
-        "precio": 47.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Penca en Bolsa",
-        "precio": 47.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Bca Suprema 1 kg",
-        "precio": 70.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Blanca",
-        "precio": 66.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Blanca",
-        "precio": 29.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Blanca Chica",
-        "precio": 62.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Galeana",
-        "precio": 62.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Morena a Granel",
-        "precio": 26.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Russet Potatoes 2.27 kg",
-        "precio": 21.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papaya Maradol",
-        "precio": 39.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papaya Maradol Cd",
-        "precio": 51.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papaya Maradol Mitad",
-        "precio": 51.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pasta de Ajo Mr Lucky 100 g",
-        "precio": 45.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pepino",
-        "precio": 19.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Criollo",
-        "precio": 28.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Persa en Bolsa 1 pz",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pera Asiática Golden",
-        "precio": 94.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Bartlet",
-        "precio": 83.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Bosc 1 Kg",
-        "precio": 83.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Bosc en Bolsa 1.36 Kg 1 Pz",
-        "precio": 59.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pera D'Anjou",
-        "precio": 62.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Red D'Anjou",
-        "precio": 62.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Snow  1 Kg",
-        "precio": 94.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Ya",
-        "precio": 54.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Perejil Liso 1 pz",
-        "precio": 15.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pimiento Amarillo",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Arcoíris 1 pz",
-        "precio": 83.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pimiento Naranja",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Rojo",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Rojo Choice",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Semáforo 1 pz",
-        "precio": 73.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Pimiento Verde",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Verde Mt",
-        "precio": 77.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimientos Mini 1 Lb 1 pz",
-        "precio": 73.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Piña Miel 1 kg",
-        "precio": 24.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Piña Miel Gold 1 kg",
-        "precio": 21.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Piña Miel Suprema 1 kg",
-        "precio": 21.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pitahaya Nal 1 Kg",
-        "precio": 172.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Plátano",
-        "precio": 14.95,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Plátano Dominico",
-        "precio": 71.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Plátano Macho Grande",
-        "precio": 37.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Poro Granel",
-        "precio": 82.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Portobella Entero 500 g",
-        "precio": 94.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Rabanitos en Manojo 1 pz",
-        "precio": 25.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Repollo Verde",
-        "precio": 31.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Romero Macho 1 pz",
-        "precio": 28.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "S S Limon Agrio en Malla 1.5 Kg",
-        "precio": 51.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Sandía Bambino",
-        "precio": 31.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandía Roja sin Semilla",
-        "precio": 24.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandia Roja Sin Semilla Mitad",
-        "precio": 26.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandía Sangría",
-        "precio": 10.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandia Sangria Mitad",
-        "precio": 20.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Seasons Select Naranja Malla 2 kg",
-        "precio": 58.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Seta Seleccionada 250 g",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Shitake Seleccionado 1 Pz",
-        "precio": 52.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tajin Tajin Chile Ancho 100 g",
-        "precio": 49.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tajin Tajin Chile Guajillo 75 g",
-        "precio": 49.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Bola Mediano 1 kg",
-        "precio": 41.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Bola Supremo 1 kg",
-        "precio": 52.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Cherry 284 g",
-        "precio": 47.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Cocktail en Vaina  1 Pz",
-        "precio": 60.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Fresadilla",
-        "precio": 28.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Huaje",
-        "precio": 38.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Huaje",
-        "precio": 36.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Huaje",
-        "precio": 20.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Huaje Supremo",
-        "precio": 28.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Mixto Mini Rainbow 1 pz",
-        "precio": 41.9,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Naturesweet Glorys 680gr 680 Gr",
-        "precio": 105.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomate Rojo Mini Cupid 1 pz",
-        "precio": 37.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomatillo Limpio",
-        "precio": 35.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomatillo Limpio Seasons Select en Malla",
-        "precio": 35.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomatito Salsero en Malla Mi Tienda 900gr 1 Pz",
-        "precio": 16.95,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Tomillo 1 pz",
-        "precio": 28.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Toronja en Malla 2.5 Kg",
-        "precio": 102.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Toronja Sangría",
-        "precio": 45.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Toronja Sangria Suprema",
-        "precio": 45.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tuna Blanca O Verde",
-        "precio": 58.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Blanca Cotton Candy Sin Semilla",
-        "precio": 177.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Blanca sin Semilla",
-        "precio": 167.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Blanca sin Semilla 1 kg",
-        "precio": 83.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Negra Sin Semilla",
-        "precio": 135.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Roja Sin Semilla",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Roja Suprema Sin Semilla",
-        "precio": 105.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Verdolaga 1 pz",
-        "precio": 27.0,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Zanahoria",
-        "precio": 19.0,
-        "unidad": "kg"
-      }
-    ],
-    "Comer": [
-      {
-        "nombre": "Acelga",
-        "precio": 11.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Acelga Arcoiris",
-        "precio": 24.59,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Achachairu 4639 1",
-        "precio": 82.81,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Aderezo Ranch Chipotle",
-        "precio": 99.89,
-        "unidad": "ml"
-      },
-      {
-        "nombre": "Aguacate Hass",
-        "precio": 79.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Aguacate Hass Especial",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ajenjo",
-        "precio": 18.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Ajo Japones",
-        "precio": 98.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Ajo Jumbo",
-        "precio": 31.59,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Ajo Negro",
-        "precio": 60.29,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Ajo Negro Sanajo 2 Cabezas/Bolsa",
-        "precio": 119.39,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Ajo Negro Sanajo 5 Cabezas/Bolsa",
-        "precio": 288.29,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Ajo Organico",
-        "precio": 45.59,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Albahaca",
-        "precio": 19.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Albahaca Verde",
-        "precio": 29.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Alcachofa",
-        "precio": 189.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Alfalfa Fresca",
-        "precio": 19.39,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Apio",
-        "precio": 24.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Apio Nabo",
-        "precio": 222.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Arnica",
-        "precio": 18.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Arugula Baby",
-        "precio": 121.09,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Azafran",
-        "precio": 73.79,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Berenjena",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Berro",
-        "precio": 19.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Berza",
-        "precio": 21.09,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Betabel",
-        "precio": 34.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Betabel Cambray",
-        "precio": 20.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Brocoli",
-        "precio": 42.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Brote De Amaranto",
-        "precio": 189.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Brote De Betabel",
-        "precio": 189.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Brote De Chicharo",
-        "precio": 189.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Brote De Cilantro",
-        "precio": 184.59,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Brote De Zanahoria",
-        "precio": 189.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cacahuate Enchilado",
-        "precio": 148.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cacahuate Español",
-        "precio": 148.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cacahuate Salado",
-        "precio": 148.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabacin",
-        "precio": 100.79,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Acorn",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Bellota Blanca",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Bellota Dorada",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Brujita",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Butternut",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Calavera",
-        "precio": 79.9,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Calabaza Carnival",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Casparita",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Criolla",
-        "precio": 50.79,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza De Castilla",
-        "precio": 32.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Fantasia",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Fiesta Halloween 4639 1",
-        "precio": 98.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Calabaza Hallowen",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Honeynut",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Hot Chocolate",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Italiana",
-        "precio": 19.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Kabocha",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Miniturbin",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Monstruo 4639 1",
-        "precio": 98.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Calabaza Pay 4639 1",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Spaguetti",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Tipo Bola De Fuego",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Tipo Bola De Nieve",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Zuchini Amarilla",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Calabaza Zuchini Verde",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Camote Naranja Importado",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Camote Rojo Importado",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Caña 4639 1",
-        "precio": 26.19,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Carambolo",
-        "precio": 39.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebada Para Agua",
-        "precio": 101.59,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Blanca",
-        "precio": 39.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Cambray",
-        "precio": 10.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Cebolla De Rabo",
-        "precio": 49.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Morada",
-        "precio": 39.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cebolla Morada Organica 14738 1",
-        "precio": 66.69,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cebolla Perla Blanca",
-        "precio": 98.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cebolla Perla Dorada",
-        "precio": 98.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cebollin",
-        "precio": 29.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cebollines",
-        "precio": 20.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Cereza",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cereza",
-        "precio": 124.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Chalot",
-        "precio": 169.19,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chamoy Picosito 5326 1",
-        "precio": 19.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Champiñon",
-        "precio": 124.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Champiñones En Trozos En Salmuera",
-        "precio": 32.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Champiñones En Trozos En Salmuera",
-        "precio": 18.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Champiñones Enteros En Salmuera",
-        "precio": 42.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Champiñones Enteros En Salmuera",
-        "precio": 23.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Champiñones Rebanados En Salmuera",
-        "precio": 17.5,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Champiñones Rebanados En Salmuera",
-        "precio": 34.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Chayote Cambray",
-        "precio": 50.79,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chayote Sin Espinas",
-        "precio": 34.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chicozapote 4639 1",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chilaca",
-        "precio": 92.31,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chilacayote",
-        "precio": 76.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Anaheim",
-        "precio": 138.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Ancho Sin Cabo",
-        "precio": 42.23,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Chile Cristal",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile De Arbol Sin Cabo",
-        "precio": 36.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Chile Habanero",
-        "precio": 189.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Hungaro",
-        "precio": 79.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Poblano",
-        "precio": 59.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Serrano",
-        "precio": 39.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chile Verde De Arbol",
-        "precio": 196.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Chilito En Polvo",
-        "precio": 33.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Cilantro",
-        "precio": 11.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Cilantro",
-        "precio": 29.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Ciruela Big Daddy",
-        "precio": 117.66,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Flavor Gator",
-        "precio": 98.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Ciruela Flavor Grenade",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Golden Treat",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Midnight Rose",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Moscatel",
-        "precio": 90.79,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Nubiana",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Plum King Kong",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ciruela Sierra Honey",
-        "precio": 98.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Ciruela Summer Punch",
-        "precio": 98.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Coco En Rebanadas Con Chamoy 23562 1",
-        "precio": 55.59,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Col Blanca",
-        "precio": 32.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Col China",
-        "precio": 115.39,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Col De Bruselas",
-        "precio": 92.59,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Col De Bruselas Organica",
-        "precio": 67.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Col Morada",
-        "precio": 50.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Cola Caballo",
-        "precio": 16.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Coliflor",
-        "precio": 39.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Coliflor De Color Morado",
-        "precio": 49.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Colinabo",
-        "precio": 99.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Corazon De Apio Organico",
-        "precio": 35.59,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Crotones Sabor Al Natural",
-        "precio": 73.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Crouton Sabor Mambo Italiano",
-        "precio": 73.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Croutones Poco Picante",
-        "precio": 73.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Curuba 4639 1",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Datil Medjool Organico",
-        "precio": 239.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Diente De Ajo Malla 200 Grs. 6117 1",
-        "precio": 42.09,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Duo Pack Berries",
-        "precio": 79.9,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Durazno Dona",
-        "precio": 69.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Durazno Melocoton",
-        "precio": 79.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Ejote Verde",
-        "precio": 49.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Elote Blanco",
-        "precio": 12.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Elote Blanco En Trozos",
-        "precio": 32.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Elote Blanco Entero Limpio",
-        "precio": 32.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Elote Cacahuazintle",
-        "precio": 53.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Elotillo",
-        "precio": 55.39,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Epazote",
-        "precio": 23.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Esparrago",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Esparrago Blanco",
-        "precio": 397.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Esparrago Morado",
-        "precio": 307.69,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Espinaca",
-        "precio": 11.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Espinaca Baby",
-        "precio": 41.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Eucalipto",
-        "precio": 13.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Feijoa 4639 1",
-        "precio": 148.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Finofio",
-        "precio": 146.59,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Flor De Calabaza",
-        "precio": 59.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Flores Comestibles",
-        "precio": 69.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Fresa",
-        "precio": 74.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Frijol De Soya Seco",
-        "precio": 41.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Garbanza",
-        "precio": 22.59,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Germen De Alfalfa",
-        "precio": 109.69,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Amaranto",
-        "precio": 79.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Betabel",
-        "precio": 79.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Cilantro",
-        "precio": 79.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Lenteja",
-        "precio": 61.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Linaza",
-        "precio": 79.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Rabano",
-        "precio": 79.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Soya",
-        "precio": 55.39,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Germen De Trigo",
-        "precio": 56.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Gordolobo",
-        "precio": 15.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Granada China",
-        "precio": 248.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Grano De Elote",
-        "precio": 89.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Guanabana",
-        "precio": 104.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Guayaba",
-        "precio": 39.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Hierba De Olor",
-        "precio": 15.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Hierbabuena",
-        "precio": 21.69,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Hierbabuena",
-        "precio": 29.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Hinojo",
-        "precio": 26.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Hoja De Aguacate",
-        "precio": 13.69,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Hoja De Lechuga Orejona Organica",
-        "precio": 54.59,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Hoja De Naranjo",
-        "precio": 13.69,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Hoja De Platano",
-        "precio": 84.59,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Hoja Para Tamal",
-        "precio": 65.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Hoja Santa",
-        "precio": 19.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Hongo Portobella 1 Kg",
-        "precio": 129.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Hongo Seta",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Huahuzontle",
-        "precio": 76.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Huitlacoche",
-        "precio": 104.59,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jaboticabo",
-        "precio": 158.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jengibre",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jicama",
-        "precio": 29.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jitomate Baby Tom",
-        "precio": 36.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Jitomate Bola",
-        "precio": 59.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jitomate Cherry",
-        "precio": 60.29,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Jitomate Cherry Organico",
-        "precio": 52.39,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Jitomate Saladet",
-        "precio": 26.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Jitomate Uva",
-        "precio": 60.29,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Jitomate Uva Organico",
-        "precio": 53.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Kale Con Arugula Baby",
-        "precio": 121.09,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Kiwi",
-        "precio": 124.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Kiwi Rojo",
-        "precio": 110.79,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Laurel",
-        "precio": 18.79,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lechuga Escarola",
-        "precio": 24.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lechuga Francesa",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lechuga Hidropónica Sweet",
-        "precio": 57.09,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lechuga Italiana",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lechuga Orejona",
-        "precio": 25.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lechuga Romana",
-        "precio": 25.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lechuga Sangria",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Lichi",
-        "precio": 80.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Limon Agrio Con Semilla",
-        "precio": 53.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Limon Caviar 4639 1",
-        "precio": 159.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Limon Eureka",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Limón Eureka Malla",
-        "precio": 89.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Limon Real 4639 1",
-        "precio": 49.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Limon Sin Semilla",
-        "precio": 34.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Malanga / Taro 4639 1",
-        "precio": 75.39,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mamey",
-        "precio": 43.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mandarina Clementina Malla",
-        "precio": 40.0,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Mango Ataulfo",
-        "precio": 46.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Manila",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mango Paraiso",
-        "precio": 37.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mangostan 4639 1",
-        "precio": 598.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Ambrosia",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Autumn Glory",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Cosmic Crisp",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Cripps Pink",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Delicious",
-        "precio": 89.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Fuji",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Gala Organica",
-        "precio": 110.79,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Manzana Granny",
-        "precio": 59.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Granny Smith",
-        "precio": 59.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Granny Smith Organicas",
-        "precio": 108.57,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Manzana Hunnyz",
-        "precio": 97.34,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Pink Lady",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Red Delicious",
-        "precio": 49.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Rockit",
-        "precio": 79.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Manzana Royal Gala",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Manzana Royal Gala Organica",
-        "precio": 98.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Manzanilla",
-        "precio": 19.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Maracuya",
-        "precio": 106.19,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Mejorana",
-        "precio": 19.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Melon Canary",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melon Chino",
-        "precio": 39.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melon Golden Hami",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Melon Valenciano",
-        "precio": 49.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Menta",
-        "precio": 17.69,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Menta Hortalizas Del Vólcan",
-        "precio": 29.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Mezcla De Jamaica Hidrolizada",
-        "precio": 93.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Mix De Berries 4639 1",
-        "precio": 158.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Nabo",
-        "precio": 69.19,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nabo Cabu",
-        "precio": 105.09,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Napa",
-        "precio": 63.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja Japonesa",
-        "precio": 38.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Naranja Pink Navel Malla 23896 1",
-        "precio": 69.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Naranja Selecta En Malla",
-        "precio": 54.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Naranja Valencia",
-        "precio": 29.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Naranja Valencia Importada",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nectarina Dona",
-        "precio": 197.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal",
-        "precio": 33.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Cambray",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Mediano",
-        "precio": 39.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nopal Picado",
-        "precio": 42.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nueces Y Frutos Rojos",
-        "precio": 148.99,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Pak Choy",
-        "precio": 73.39,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Palitos De Apio Organico",
-        "precio": 33.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Papa Amarilla Chica",
-        "precio": 59.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Blanca",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Blanca Malla",
-        "precio": 64.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Papa Red 1.5 Lb",
-        "precio": 24.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Papa Russet Imp.",
-        "precio": 19.9,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papa Yellow 1.5 Lb",
-        "precio": 24.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Papalo",
-        "precio": 23.09,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Papaya Cubanita",
-        "precio": 41.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Papaya Maradol",
-        "precio": 41.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Americano",
-        "precio": 27.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Criollo",
-        "precio": 34.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Europeo",
-        "precio": 36.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pepino Persa",
-        "precio": 69.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Bosc",
-        "precio": 49.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera De Anjou",
-        "precio": 49.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pera Red De Anjou 4639 1",
-        "precio": 76.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Perejil",
-        "precio": 11.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Perejil",
-        "precio": 29.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Perejil Chino",
-        "precio": 21.09,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Persimon",
-        "precio": 115.39,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Picle 4639 1",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Amarillo",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Naranja",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Rojo",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pimiento Verde",
-        "precio": 98.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Piña Miel",
-        "precio": 32.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Pitahaya",
-        "precio": 298.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Platano Dominico",
-        "precio": 59.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Platano Macho",
-        "precio": 46.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Platano Manzano",
-        "precio": 73.79,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Platano Tabasco",
-        "precio": 22.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Plátano Tabasco Orgánico",
-        "precio": 36.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Poro",
-        "precio": 51.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Prosciutto,México,",
-        "precio": 1464.5,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Rabano Arcoiris 1 Pza",
-        "precio": 15.39,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Rabano Cambray",
-        "precio": 18.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Rabano Grande",
-        "precio": 38.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Rabano Negro",
-        "precio": 69.19,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Raiz Fuerte",
-        "precio": 793.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Rambutan",
-        "precio": 123.09,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Riobarbo",
-        "precio": 211.19,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Romeritos",
-        "precio": 19.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Romero Medicinal",
-        "precio": 18.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Ruda",
-        "precio": 20.31,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Salsifis",
-        "precio": 398.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Salvia",
-        "precio": 19.99,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sandia Baby",
-        "precio": 29.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandia Charleston",
-        "precio": 17.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandia Sin Semilla",
-        "precio": 29.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sandia Yellow",
-        "precio": 32.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Sopa Arrocera",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sopa China",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sopa De Verduras",
-        "precio": 29.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sopa En Escabeche",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sopa Juliana",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sopa Poblana",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sopa Puchero",
-        "precio": 19.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Sopressata Granel",
-        "precio": 581.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Spring Mix",
-        "precio": 164.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Te De Limon",
-        "precio": 18.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Tejocote 4639 1",
-        "precio": 61.49,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Cocktail En Vaina",
-        "precio": 74.59,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Tomate De Arbol",
-        "precio": 138.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Heirloom 4639 1",
-        "precio": 19.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Heirloom Organico",
-        "precio": 122.19,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Tomate Mar Azul",
-        "precio": 150.89,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Tomate Verde Con Cascara 4639 1",
-        "precio": 26.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomate Verde Organico",
-        "precio": 19.9,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Tomate Verde Sin Cascara",
-        "precio": 41.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomatillo Milpero",
-        "precio": 92.31,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Tomillo",
-        "precio": 18.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Toronja Sangria",
-        "precio": 36.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Toronja Selecta En Malla 4639 1",
-        "precio": 59.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Uva Bicolor",
-        "precio": 131.49,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Uva Blanca Sin Semilla",
-        "precio": 134.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Negra Sin Semilla",
-        "precio": 157.39,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Uva Roja Sin Semilla 4639 1",
-        "precio": 134.99,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Vaina De Nabo",
-        "precio": 18.49,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Verdolaga",
-        "precio": 24.89,
-        "unidad": "pza"
-      },
-      {
-        "nombre": "Vinagreta Tamarindo Plant Based",
-        "precio": 85.71,
-        "unidad": "ml"
-      },
-      {
-        "nombre": "Yaca",
-        "precio": 36.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Yuca",
-        "precio": 75.39,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Zanahoria",
-        "precio": 24.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Zanahoria Baby",
-        "precio": 46.88,
-        "unidad": "grs"
-      },
-      {
-        "nombre": "Zanahoria Cambray",
-        "precio": 25.09,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Zapote Negro",
-        "precio": 79.89,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Zarzamora",
-        "precio": 59.89,
-        "unidad": "pza"
-      }
-    ]
+    "HEB": [],
+    "Comer": []
   }
 }

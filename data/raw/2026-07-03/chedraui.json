@@ -1,0 +1,296 @@
+[
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Saladet por kg",
+    "precio": 24.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Plátano Chiapas por Kg",
+    "precio": 29.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria por kg",
+    "precio": 19.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Verde por Kg",
+    "precio": 19.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Calabaza Italiana por Kg",
+    "precio": 36.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Blanca por kg",
+    "precio": 64.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla Blanca por kg",
+    "precio": 37.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Hass por Kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón sin Semilla por Kg",
+    "precio": 18.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Hass Enmallado Pieza",
+    "precio": 34.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Serrano por Kg",
+    "precio": 39.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chayote sin Espinas por kg",
+    "precio": 29.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Verde por kg",
+    "precio": 39.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Piña Gota Miel por Kg",
+    "precio": 26.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papaya Maradol por kg",
+    "precio": 38.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Roja Mediana por Kg",
+    "precio": 49.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón Colima por Kg",
+    "precio": 34.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinacas Rollo",
+    "precio": 11.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cilantro Rollo",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Nopal por kg",
+    "precio": 44.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ajo por Kg",
+    "precio": 89.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Brócoli por Kg",
+    "precio": 39.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla Morada por kg",
+    "precio": 29.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Melón Chino por Kg",
+    "precio": 39.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Plátano Macho por Kg",
+    "precio": 24.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mango Paraíso por Kg",
+    "precio": 30.1,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mango Ataulfo por Kg",
+    "precio": 47.3,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Roja sin Semilla por Kg",
+    "precio": 74.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Golden Mediana por Kg",
+    "precio": 54.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pera Mantequilla por Kg",
+    "precio": 47.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Romana Pieza",
+    "precio": 25.8,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Fresa Domo 454g",
+    "precio": 71.4,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jícama por Kg",
+    "precio": 29.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Monteblanco Selección 225g",
+    "precio": 33.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Paramount kg",
+    "precio": 42.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Sweet Peppers 3 Piezas",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Eva Italiana Viva 1 Pieza",
+    "precio": 39.1,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón Eureka Paramount kg",
+    "precio": 59.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Camote Amarillo por kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Rojo por kg",
+    "precio": 99.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Verde por kg",
+    "precio": 99.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Poblano por Kg",
+    "precio": 59.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Jalapeño por Kg",
+    "precio": 27.6,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón por kg",
+    "precio": 110.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Apio por kg",
+    "precio": 24.8,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Col Blanca por kg",
+    "precio": 24.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Betabel por Kg",
+    "precio": 19.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ejote por kg",
+    "precio": 49.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Bola por kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  }
+]
