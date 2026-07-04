@@ -1,0 +1,2570 @@
+[
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Saladet por kg",
+    "precio": 24.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Plátano Chiapas por Kg",
+    "precio": 24.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria por kg",
+    "precio": 17.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Calabaza Italiana por Kg",
+    "precio": 32.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Blanca por kg",
+    "precio": 62.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla Blanca por kg",
+    "precio": 34.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Hass por Kg",
+    "precio": 64.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón sin Semilla por Kg",
+    "precio": 26.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Hass Enmallado Pieza",
+    "precio": 34.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Verde por Kg",
+    "precio": 18.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chayote sin Espinas por kg",
+    "precio": 29.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Verde por kg",
+    "precio": 36.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Piña Gota Miel por Kg",
+    "precio": 24.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papaya Maradol por kg",
+    "precio": 36.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón Colima por Kg",
+    "precio": 32.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cilantro Rollo",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Nopal por kg",
+    "precio": 39.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Serrano por Kg",
+    "precio": 34.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ajo por Kg",
+    "precio": 89.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Brócoli por Kg",
+    "precio": 39.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla Morada por kg",
+    "precio": 29.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Melón Chino por Kg",
+    "precio": 36.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Plátano Macho por Kg",
+    "precio": 24.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mango Paraíso por Kg",
+    "precio": 24.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mango Ataulfo por Kg",
+    "precio": 34.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Roja sin Semilla por Kg",
+    "precio": 74.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Roja Mediana por Kg",
+    "precio": 49.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Golden Mediana por Kg",
+    "precio": 54.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pera Mantequilla por Kg",
+    "precio": 49.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Romana Pieza",
+    "precio": 24.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinacas Rollo",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Fresa Domo 454g",
+    "precio": 69.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jícama por Kg",
+    "precio": 29.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Monteblanco Selección 225g",
+    "precio": 33.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Paramount kg",
+    "precio": 42.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Sweet Peppers 3 Piezas",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Eva Italiana Viva 1 Pieza",
+    "precio": 39.1,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón Eureka Paramount kg",
+    "precio": 59.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Camote Amarillo por kg",
+    "precio": 44.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Rojo por kg",
+    "precio": 99.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Verde por kg",
+    "precio": 82.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Poblano por Kg",
+    "precio": 54.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Jalapeño por Kg",
+    "precio": 24.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón por kg",
+    "precio": 98.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Apio por kg",
+    "precio": 24.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Col Blanca por kg",
+    "precio": 16.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Betabel por Kg",
+    "precio": 19.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ejote por kg",
+    "precio": 49.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Bola por kg",
+    "precio": 36.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Cambray por kg",
+    "precio": 49.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Sandia Blanca Rayada por Kg",
+    "precio": 14.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Guayaba por Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Verde por kg",
+    "precio": 99.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Golden Chica en Bolsa por Kg",
+    "precio": 54.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Granny Smith por Kg",
+    "precio": 44.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Kiwi por Kg",
+    "precio": 76.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Toronja por Kg",
+    "precio": 27.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ajo Enmallado por pieza",
+    "precio": 44.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Perejil Liso Rollo",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Elote por Pieza",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla de Cambray por Manojo",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mandarina Chumis 674g",
+    "precio": 68.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Fresh Garden Sucrine 2 Piezas 270g",
+    "precio": 43.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Plátano Orgánico por Penca",
+    "precio": 35.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Baby Vegetalistos 340g",
+    "precio": 39.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Cherry NatureSweet Glorys 283g",
+    "precio": 45.52,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Europeo por Kg",
+    "precio": 19.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Corazón Apio Mr. Lucky Orgánico 454g",
+    "precio": 32.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Floretes de Brócoli Mr. Lucky 454g",
+    "precio": 37.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Baby Vegetalistos 250g",
+    "precio": 61.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Amarillo por kg",
+    "precio": 98.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Habanero por Kg",
+    "precio": 125.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Sandía Personal kg",
+    "precio": 22.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jamaica por kg",
+    "precio": 159.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mamey por Kg",
+    "precio": 19.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Plátano Dominico por Kg",
+    "precio": 44.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Roja Chica en Bolsa por Kg",
+    "precio": 45.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Royal Gala por Kg",
+    "precio": 54.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Durazno Rojo por Kg",
+    "precio": 69.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ciruela por kg",
+    "precio": 68.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mandarina por Kg",
+    "precio": 46.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Flor de Jamaica Chedraui en Bolsa 250g",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Fresh Garden Sucrine 3 Piezas 500g",
+    "precio": 61.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Italiana Pieza",
+    "precio": 19.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Epazote Rollo",
+    "precio": 14.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Coliflor Pre Enfriada Pieza",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Acelgas Rollo",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Blue Berry Domo 170g",
+    "precio": 58.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Frambuesa Domo 170g",
+    "precio": 58.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zarzamora por Pieza",
+    "precio": 48.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jengibre por kg",
+    "precio": 134.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Camote Morado por kg",
+    "precio": 58.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Royal Gala en Bolsa por kg",
+    "precio": 38.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Hass Rancho Tierra Generosa en Paquete de 600g",
+    "precio": 39.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Verde sin semilla Chumis 454g",
+    "precio": 89.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Brócoli en Floretes Fresh Garden 454g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Cherry Uva NatureSweet 113g",
+    "precio": 19.92,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Gala Chumis 613g",
+    "precio": 52.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Esparrago Verde 454g",
+    "precio": 59.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Palitos de Apio Orgánico 4 Piezas de 100gr",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Baby Mr. Lucky Popeye 227g",
+    "precio": 59.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Pink Lady por kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Larga Pieza",
+    "precio": 10.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Eva Francesa Viva 1 Pieza",
+    "precio": 38.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Naranja por kg",
+    "precio": 98.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca MrLucky' Popeye 284g",
+    "precio": 59.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Berenjena por Kg",
+    "precio": 64.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tuna por kg",
+    "precio": 38.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mango Manila por Kg",
+    "precio": 49.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cereza Natural kg",
+    "precio": 125.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pera Bosc por Kg",
+    "precio": 54.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Albahaca Rollo",
+    "precio": 11.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hierba Buena Rollo",
+    "precio": 12.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Rábano Cambray Manojo",
+    "precio": 17.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Poro Pieza",
+    "precio": 24.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Col Morada por kg",
+    "precio": 36.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Nopal Cambray por kg",
+    "precio": 74.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Hass Extra Malla 3 Piezas",
+    "precio": 74.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Corazón de Lechuga Orejona Selecto 2 piezas",
+    "precio": 33.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Baby Selecto 250g",
+    "precio": 39.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Blue Berry Tamaño Jumbo 278g",
+    "precio": 129.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Cherry NatureSweet Glorys 467g",
+    "precio": 75.92,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Hidropónica Fresh Garden Italiana 1 Pieza",
+    "precio": 38.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Ambrosia kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Verde Domo Pz",
+    "precio": 110.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Granny Chumis 552g",
+    "precio": 56.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Golden Chumis 552g",
+    "precio": 49.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Kiwi Chumis 450g",
+    "precio": 74.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Eva Corazones Rústicos 4 Piezas",
+    "precio": 76.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Uva y Cherry NatureSweet Constellation 467g",
+    "precio": 75.92,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Menta Fresca Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria rallada Vegetalistos 340g",
+    "precio": 32.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Cotton Candy kg",
+    "precio": 125.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Baby Bolthouse 340g",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Calabaza Local Granel kg",
+    "precio": 55.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Francesa Corazón de Eva 2 Piezas",
+    "precio": 44.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile de Árbol por Kg",
+    "precio": 115.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Romero por Pieza",
+    "precio": 11.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Nutribits Corazón de Lechuga 3 Piezas",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chícharo por kg",
+    "precio": 89.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Calabaza Criolla por Kg",
+    "precio": 42.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Melón Amarillo por Kg",
+    "precio": 34.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Negra sin Semilla kg",
+    "precio": 89.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Nectarina por Kg",
+    "precio": 99.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Agria kg",
+    "precio": 41.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebollín por Pieza",
+    "precio": 11.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Fresh Garden Baby 6 Piezas 400g",
+    "precio": 65.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Francesa Pieza",
+    "precio": 19.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mandarina Rancho Tierra Generosa 800g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Mr Lucky Popeye 170g",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Mr Lucky Mini Organico 300g",
+    "precio": 47.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Floretes de Coliflor Fresh Garden 500g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mezcla de Berries 227g",
+    "precio": 129.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Fresco Entero Monteblanco 450g",
+    "precio": 64.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Sweet Crunchy Eva 2 Piezas",
+    "precio": 53.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Huitlacoche Monteblanco 250g",
+    "precio": 21.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Monteblanco 225g",
+    "precio": 34.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Habanero Naranja por kg",
+    "precio": 165.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Granny Smith en Bolsa por kg",
+    "precio": 58.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Florete Mr. Lucky Brócoli 225g",
+    "precio": 28.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Sugar Bee por kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Albahaca Verde Fresca Tiempo de Cosecha 50g",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Campo Vivo Orgánico 2 Piezas",
+    "precio": 36.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Pepino Persa Campo Vivo Orgánico 400g",
+    "precio": 52.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ajo Campo Vivo Orgánico 1 Pieza",
+    "precio": 43.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Puré Harvest Golden 600g",
+    "precio": 29.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jícama Vegetalistos 454g",
+    "precio": 44.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Kale Vegetalistos 150g",
+    "precio": 55.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Monteblanco Jumbo 500g",
+    "precio": 71.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cremini Monteblanco Selección 225g",
+    "precio": 33.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Uva NatureSweet Cherubs 283g",
+    "precio": 47.92,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Maracuyá kg",
+    "precio": 98.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Elote Mr. Lucky Charola 3 Piezas",
+    "precio": 75.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Baby Mr. Lucky 454g",
+    "precio": 59.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Cherry Orgánico 284g",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Baby Mr. Lucky Popeye 180g",
+    "precio": 65.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Floretes de Coliflor Mr. Lucky 454g",
+    "precio": 33.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Betabel Cambray con Rabo",
+    "precio": 30.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Eva Mini Romana 4 Piezas",
+    "precio": 78.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jitomate Cherry Campo Vivo Orgánico 280g",
+    "precio": 48.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jitomate Baby Tom Campo Vivo Orgánico 180g",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Mini Romana 2 Piezas",
+    "precio": 51.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Arugula Baby Daily 120g",
+    "precio": 64.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jitomate Cherry Hidrocool 380g",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Beaburn por kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Güero por Kg",
+    "precio": 89.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pitahaya Granel kg",
+    "precio": 79.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Corazones de Lechuga Mr. Lucky 3 Piezas",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Soya por kg",
+    "precio": 64.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Criollo kg",
+    "precio": 19.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomatillo por kg",
+    "precio": 29.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Globo Emperador por kg",
+    "precio": 94.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Fuji kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pera Asiática por Kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Monteblanco Baby 250g",
+    "precio": 37.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Escarola Pieza",
+    "precio": 17.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Sangría Pieza",
+    "precio": 24.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Berros Rollo",
+    "precio": 11.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Higo Pieza",
+    "precio": 89.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Verdolaga por kg",
+    "precio": 27.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Flor de Calabaza por kg",
+    "precio": 99.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Col Bruselas por kg",
+    "precio": 99.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Saladet Rancho Tierra Generosa 1000g",
+    "precio": 29.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Roja Rancho Tierra Generosa 600g (4 unidades)",
+    "precio": 32.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón sin Semilla Rancho Tierra Generosa 1000g",
+    "precio": 19.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca EarthBound Baby Organica 284g",
+    "precio": 159.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Baby Vegetalistos 150g",
+    "precio": 22.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Guayaba Clamshell kg",
+    "precio": 69.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Limón Eureka Fresh Garden 908g",
+    "precio": 79.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mix de Floretes de Coliflor y Brócoli Fresh Garden 500g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Gala Orgánica Fresh Garden 907g",
+    "precio": 91.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Baby Trio The Little Potato Co 680g",
+    "precio": 98.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Baby Amarilla 680g",
+    "precio": 98.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Hidropónica Fresh Garden Francesa 1 Pieza",
+    "precio": 38.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla Morada Organica Bolsa 700g",
+    "precio": 22.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Autumn Glory kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Hidroponica Hidrocool 300 g",
+    "precio": 32.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomillo Fresco Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Col de Bruselas Campo Vivo Orgánico 400g",
+    "precio": 79.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla Blanca Campo Vivo Orgánica 700g",
+    "precio": 59.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinado de Alfalfa 240g",
+    "precio": 60.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Cambray Rosada por kg",
+    "precio": 78.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Campo Vivo Orgánico 450 g",
+    "precio": 89.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Honeycrisp por kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hojas de Lechuga MrLucky' Orejona Orgánica 250g",
+    "precio": 57.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Palitos de Apio Mr. Lucky 8 Piezas de 100gr",
+    "precio": 63.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen Combinado Germimax de Alfalfa y Zanahoria 200g",
+    "precio": 42.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Eva Trio Viva 1 Pieza",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Orgánicos Grape 284g",
+    "precio": 24.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Nopal Flor Azteca Baby Nopal 500g",
+    "precio": 39.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Nopal Flor Azteca en tira en Salmuera 1kg",
+    "precio": 59.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hongo Portobello por Kg",
+    "precio": 149.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Alcachofa Microwave 59g",
+    "precio": 39.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla de Rabo por kg",
+    "precio": 56.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebolla Amarilla por kg",
+    "precio": 24.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chicozapote por Kg",
+    "precio": 69.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Sandia sin Semilla por Kg",
+    "precio": 23.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mango Oro por Kg",
+    "precio": 34.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tamarindo por Kg",
+    "precio": 117.42,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pera Bartlett kg",
+    "precio": 49.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Seta Monteblanco Selección 250g",
+    "precio": 33.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Portabella Monteblanco Selección 500g",
+    "precio": 77.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tamarindo Chedraui 500g",
+    "precio": 88.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hoja de Plátano Pieza",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hierbas de Olor por Pieza",
+    "precio": 12.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Perejil Chino Rollo",
+    "precio": 13.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzanilla Rollo",
+    "precio": 11.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Coco por Pieza",
+    "precio": 44.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja en Arpilla 5kg",
+    "precio": 125.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chalot Granel Kg",
+    "precio": 142.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Yuca Granel kg",
+    "precio": 41.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Raíz de Azafrán por kg",
+    "precio": 63.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pera Rancho Tierra Generosa 700g (4 unidades)",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Valenciana Rancho Tierra Generosa 800g (4 unidades)",
+    "precio": 57.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Grany Rancho Tierra Generosa 600g (4 unidades)",
+    "precio": 54.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Golden Rancho Tierra Generosa 600g (4 unidades)",
+    "precio": 54.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Mr Lucky Orejona Organica 2 Piezas",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Arugula EarthBound Organica 284g",
+    "precio": 159.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Pepino Mr. Lucky 500g",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Baby Selecto 125g",
+    "precio": 30.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Chile Morrón Orgánico 350g",
+    "precio": 59.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Endivias FARMS California 3 Piezas",
+    "precio": 99.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Baby Escarlata Fresh Garden 4 Piezas",
+    "precio": 53.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Navel en Malla Fresh Garden 908g",
+    "precio": 74.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Fresco Rebanado Monteblanco 450g",
+    "precio": 65.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Uva y Cherry NatureSweet Constellation to Go 71g",
+    "precio": 16.8,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Uva NatureSweet Cherubs to Go tjn71g",
+    "precio": 15.92,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Russet Bolsa 5 Libras",
+    "precio": 56.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Russet en Bolsa 1.3kg",
+    "precio": 54.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Uva NatureSweet Cherubs 467g",
+    "precio": 75.92,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Roja Domo 908g",
+    "precio": 79.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Campo Vivo Orgánica Bolsa 450g",
+    "precio": 37.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomates Cherry Amarillos NatureSweet Comets 283g",
+    "precio": 45.52,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Mr. Lucky Rallada 284g",
+    "precio": 35.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Romero Fresco Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Epazote Fresco Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cilantro Fresco Tiempo de Cosecha 50g",
+    "precio": 42.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cebollín Fresco Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hoja de Chaya por kg",
+    "precio": 80.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Portabella Monteblanco Selección 250g",
+    "precio": 39.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Combo Monteblanco Champiñón y Cremini 500g",
+    "precio": 72.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Shiitake Monteblanco Selección 160g",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Coliflor Morada 750g",
+    "precio": 41.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Cambray por kg",
+    "precio": 24.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Laurel por Pieza",
+    "precio": 24.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Garbanzo Fresco por Pieza",
+    "precio": 24.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Alfalfa Germimax Natural 200g",
+    "precio": 47.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Alfalfa Germimax con Aderezo Mil Islas 80g",
+    "precio": 37.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jitomate Uva Campo Vivo Orgánico 280g",
+    "precio": 51.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Seta kg",
+    "precio": 79.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ruda Pieza",
+    "precio": 12.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Berzas Pieza",
+    "precio": 22.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Chiapas por Kg",
+    "precio": 59.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Rambután kg",
+    "precio": 89.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Morena kg",
+    "precio": 23.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ajo Pelado Mr. Lucky 280g",
+    "precio": 88.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chayote Cambray por kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Habas por kg",
+    "precio": 69.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Durazno Amarillo kg",
+    "precio": 120.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ciruela Moscatel Kg",
+    "precio": 75.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cremini Monteblanco Rebanado 225g",
+    "precio": 33.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Té de Limón Manojo por Pieza",
+    "precio": 14.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Huazontle Rollo",
+    "precio": 19.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen Cultivos Naturales San Francisco Alfalfa 200g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinado Cultivos Naturales San Francisco Alfalfa con Brócoli 200g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Blanco kg",
+    "precio": 57.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Sandia Amarilla Kg",
+    "precio": 28.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Verde Rancho Tierra Generosa 1000g",
+    "precio": 29.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Mr Lucky Arugula 200g",
+    "precio": 86.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Veggie Snack Mr Lucky 560g",
+    "precio": 67.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "MoraAzul Selecto Brand 400g",
+    "precio": 65.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Papa Baby Roja The Little Potato Co 680g",
+    "precio": 98.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Baby Hidropónica Eva 200g",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ajo Shallot Pieza Malla 200g",
+    "precio": 65.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Uva Globo Domo 908g",
+    "precio": 114.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Kale Arugula Daily Orgánica 150g",
+    "precio": 61.2,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Freshly 200g",
+    "precio": 36.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Yerbabuena Fresca Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Salvia Fresca Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Sábila Pieza",
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Menta Alfavid Empaque 30g",
+    "precio": 20.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinado de soya 300g",
+    "precio": 60.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinado de Alfalfa Limón y Chile Clam",
+    "precio": 60.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Recado por kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Jitomate Saladet Campo Vivo Orgánico 450g",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Bulbo de Hinojo por Kg",
+    "precio": 212.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Rábano Negro Pieza",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Huitlacoche Natural por kg",
+    "precio": 149.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hinojo Pieza",
+    "precio": 39.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Betabel con Rabo",
+    "precio": 38.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Alfalfa Fresca Kg",
+    "precio": 13.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Semilla de Chía Naturalika Vita 120g",
+    "precio": 45.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Alfalfa Germimax con Aderezo Chile y Limón 80g",
+    "precio": 39.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Coliflor Verde 750g",
+    "precio": 41.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Coliflor Naranja 750g",
+    "precio": 41.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Jonagold kg",
+    "precio": 59.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Elote Cocido Los Aztecas 2 Pieza",
+    "precio": 44.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Esquites Cocidos Los Aztecas 500g",
+    "precio": 69.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chilacayote por Kg",
+    "precio": 39.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Corazones de Lechuga Daily Orejona 3 Piezas",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Baby Bella Monteblanco Selección 350g",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hoja Santa Rollo",
+    "precio": 22.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Mr Lucky Baby 100g",
+    "precio": 53.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Mr Lucky SpringMix 200g",
+    "precio": 79.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Col de Bruselas Mr Lucky 40g",
+    "precio": 105.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hongo Eryngii Monteblanco 160g",
+    "precio": 62.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Cremini Fresco Entero Monteblanco 450g",
+    "precio": 65.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Coco Diamante A de Coco 1 Pieza",
+    "precio": 74.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Verde Orgánico Bolsa 450g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mora Azul Campo Vivo Orgánica 170g",
+    "precio": 88.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Flakes Mr. Lucky de Coliflor 454g",
+    "precio": 42.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hinojo Fresco Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Estragón Fresco Tiempo de Cosecha 50g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Corazones Mr. Lucky Mediterráneos 750g",
+    "precio": 57.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Epazote Alfavid 30g",
+    "precio": 20.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Grano de Elote por kg",
+    "precio": 68.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Guernika Rancho San Agustín 24 Piezas",
+    "precio": 99.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Xcatic por Kg",
+    "precio": 165.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Cera por Kg",
+    "precio": 149.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Espinaca Daily 300g",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Rábano Largo Rollo",
+    "precio": 18.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Nopal Flor Azteca Cambray en Salmuera 1kg",
+    "precio": 74.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Elote Amarillo 4 pzas",
+    "precio": 99.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mix de Manzanas Rancho Tierra Generosa 650g (4 unidades)",
+    "precio": 54.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mix de Frutas Rancho Tierra Generosa 650g (4 unidades)",
+    "precio": 59.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Manzana Royal Rancho Tierra Generosa 600g (4 unidades)",
+    "precio": 54.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Nature Sweet Cocktail 454 g",
+    "precio": 69.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pimiento Nature Sweet Mini 454 g",
+    "precio": 74.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Higo Mr Lucky 454 g",
+    "precio": 88.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate Mr Lucky Orgánico 454 g",
+    "precio": 74.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cereza Natural Clam Top Sell 1Lb",
+    "precio": 150.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Alcachofa 4 Piezas",
+    "precio": 135.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pera Chumis 680g",
+    "precio": 53.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Baby Bella Relleno Tocino 250g",
+    "precio": 59.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Melón Hami",
+    "precio": 54.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Cara Cara en Malla Fresh Garden 908g",
+    "precio": 79.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Blood Orange en Malla Fresh Garden 908g",
+    "precio": 89.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Cereza Amarilla domo 250g",
+    "precio": 99.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Champiñón Baby Bella Relleno Monteblanco 250g",
+    "precio": 59.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Hidropónica Francesa 220g",
+    "precio": 29.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Naranja Nave 1kg",
+    "precio": 60.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mandarina Nova kg",
+    "precio": 69.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Noodles Nutribits Clam 150g",
+    "precio": 54.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Alcachofa Microondas Nutribits Bolsa 2 Piezas",
+    "precio": 99.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Melón Juan Canario Kg",
+    "precio": 49.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Frambuesa Campo Vivo Orgánica 170g",
+    "precio": 89.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Persa Alfavid 600g",
+    "precio": 65.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Yaca Fruta kg",
+    "precio": 49.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Flakes Mr. Lucky Brócoli Coliflor y Zanahoria 454ml",
+    "precio": 42.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Flakes Mr. Lucky de Brócoli Coliflor 454g",
+    "precio": 42.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Mini Flakes Mr. Lucky de Brócoli 454g",
+    "precio": 42.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomate MrLucky' Heirloom 900g",
+    "precio": 104.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Bouquet Provence Fresco Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Bouquet Hierbas Finas Frescas Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Bouquet Garni Frescas Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Té de Limón fresco Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ruda Fresca Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Perejil Fresco Tiempo de Cosecha 50g",
+    "precio": 42.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Orégano Fresco Tiempo de Cosecha 50g",
+    "precio": 43.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Arúgula Fresca Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Alfalfa Fresca Tiempo de Cosecha 50g",
+    "precio": 43.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zarzamora Campo Vivo Orgánica 170g",
+    "precio": 73.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechugas Baby Mr. Lucky 4 Piezas",
+    "precio": 72.8,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepinillo Pinkle kg",
+    "precio": 78.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Quinoa Reventada Naturalika Vita 50g",
+    "precio": 63.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinado de Alfalfa con brócoli Clamsh",
+    "precio": 60.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ajo Japonés Malla 150g",
+    "precio": 98.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Corazones de Lechuga Romana Campo Vivo 450g",
+    "precio": 40.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hierbabuena Alfavid 30g",
+    "precio": 20.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Albahaca Alfavid 30g",
+    "precio": 20.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Tomillo Alfavid 30g",
+    "precio": 20.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Romero Alfavid 30g",
+    "precio": 20.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinados Alfavid Smartpack Alfalfa Chico",
+    "precio": 26.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinados Alfavid Clásica 200g",
+    "precio": 42.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germinados Alfavid Alfalfa y Brócoli Pieza",
+    "precio": 34.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Quinoa Naturalika Vita Semilla 100g",
+    "precio": 49.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Coles de Bruselas Eat Smart Bolsa 340g",
+    "precio": 99.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Soya Germimax 250g",
+    "precio": 35.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Málaga Pieza",
+    "precio": 20.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pakchoy kg",
+    "precio": 78.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Santa María Pieza",
+    "precio": 10.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hoja de Aguacate por Pieza",
+    "precio": 22.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Gordolobo Pieza",
+    "precio": 11.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Huaje por kg",
+    "precio": 45.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Lenteja por kg",
+    "precio": 15.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Trigo por kg",
+    "precio": 16.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Lechuga Escarola Baby por kg",
+    "precio": 32.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Germen de Alfalfa Germimax Chiki Germi con Aderezo Chile y Limón 40g",
+    "precio": 34.9,
+    "unidad": "un"
+  }
+]

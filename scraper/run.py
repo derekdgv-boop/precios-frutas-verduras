@@ -10,6 +10,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import vtex_store
+import heb
 import comer
 
 ROOT = Path(__file__).parent.parent
@@ -71,9 +72,7 @@ def main():
     print(f"  {len(stores['Chedraui'])} productos")
 
     print("- HEB...")
-    stores["HEB"] = vtex_store.fetch_products(
-        "https://www.heb.com.mx", "frutas-y-verduras", "HEB"
-    )
+    stores["HEB"] = heb.fetch_products("HEB")
     print(f"  {len(stores['HEB'])} productos")
 
     print("- Comer...")
