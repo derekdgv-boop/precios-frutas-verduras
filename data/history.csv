@@ -966,3 +966,266 @@ fecha,producto,tienda,precio,nombre_original,unidad
 2026-07-10,zarzamora,Chedraui,48.5,Zarzamora por Pieza,un
 2026-07-10,zarzamora,HEB,62.9,HEB Zarzamora 170 g,un
 2026-07-10,zarzamora,Comer,66.9,Zarzamora,pza
+2026-07-21,acelga,Chedraui,9.9,Acelgas Rollo,un
+2026-07-21,acelga,HEB,15.0,HEB Acelga Verde,un
+2026-07-21,acelga,Comer,11.9,Acelga,pza
+2026-07-21,aguacate,Chedraui,39.5,Aguacate Hass por Kg,kg
+2026-07-21,aguacate,HEB,98.0,Aguacate Supremo,kg
+2026-07-21,aguacate,Comer,89.9,Aguacate Hass,kg
+2026-07-21,ajo,Chedraui,89.9,Ajo por Kg,kg
+2026-07-21,ajo,HEB,209.0,Ajo a Granel Supremo Mr Lucky 1 kg,kg
+2026-07-21,ajo,Comer,31.6,Ajo Jumbo,grs
+2026-07-21,alcachofa,Chedraui,179.0,Alcachofa Microwave 59g,kg
+2026-07-21,alcachofa,HEB,59.95,Alcachofa Suprema 1 Pz,un
+2026-07-21,alcachofa,Comer,185.0,Alcachofa,kg
+2026-07-21,alfalfa,Chedraui,13.9,Alfalfa Fresca Kg,un
+2026-07-21,alfalfa,HEB,18.5,Alfalfa Manojo 1 Pz,un
+2026-07-21,alfalfa,Comer,19.4,Alfalfa Fresca,pza
+2026-07-21,apio,Chedraui,28.5,Apio por kg,kg
+2026-07-21,apio,HEB,41.9,Apio  1 Kg,kg
+2026-07-21,apio,Comer,28.9,Apio,kg
+2026-07-21,berenjena,Chedraui,64.9,Berenjena por Kg,kg
+2026-07-21,berenjena,HEB,94.0,Berenjena  1 Kg,kg
+2026-07-21,berenjena,Comer,89.9,Berenjena,kg
+2026-07-21,betabel,Chedraui,19.9,Betabel por Kg,kg
+2026-07-21,betabel,HEB,47.0,Betabel Rebotado 1 Kg,kg
+2026-07-21,betabel,Comer,36.9,Betabel,kg
+2026-07-21,blueberry,HEB,62.9,HEB Blueberry 170 g,un
+2026-07-21,brocoli,Chedraui,39.9,Brócoli por Kg,kg
+2026-07-21,brocoli,HEB,68.0,Mr Lucky Brócoli Coronas 1 kg,kg
+2026-07-21,brocoli,Comer,39.9,Brocoli,kg
+2026-07-21,camote,Chedraui,44.5,Camote Amarillo por kg,kg
+2026-07-21,camote,HEB,39.95,Camote Amarillo 1 kg,kg
+2026-07-21,camote,Comer,98.5,Camote Naranja Importado,kg
+2026-07-21,cana_azucar,HEB,31.0,Caña de Azucar 1 Kg,kg
+2026-07-21,cana_azucar,Comer,26.2,Caña,kg
+2026-07-21,cebolla_blanca,Chedraui,32.9,Cebolla Blanca por kg,kg
+2026-07-21,cebolla_blanca,HEB,19.95,Cebolla Blanca con Cáscara 1 Kg,kg
+2026-07-21,cebolla_blanca,Comer,16.9,Cebolla Blanca,kg
+2026-07-21,cebolla_cambray,Chedraui,10.8,Cebolla de Cambray por Manojo,un
+2026-07-21,cebolla_cambray,HEB,18.5,Cebolla Cambray,un
+2026-07-21,cebolla_cambray,Comer,11.9,Cebolla Cambray,pza
+2026-07-21,cebolla_morada,Chedraui,24.5,Cebolla Morada por kg,kg
+2026-07-21,cebolla_morada,HEB,41.0,Cebolla Morada Limpia 1 Kg,kg
+2026-07-21,cebolla_morada,Comer,36.9,Cebolla Morada,kg
+2026-07-21,cebollin,Chedraui,13.0,Cebollín por Pieza,un
+2026-07-21,cebollin,HEB,24.0,Cebollin 1 pz Cebollin  1 Pz,un
+2026-07-21,cebollin,Comer,29.9,Cebollin,grs
+2026-07-21,cereza,Chedraui,125.0,Cereza Natural kg,kg
+2026-07-21,cereza,HEB,149.0,HEB Cereza Importada,kg
+2026-07-21,cereza,Comer,89.9,Cereza,kg
+2026-07-21,chayote,Chedraui,28.5,Chayote sin Espinas por kg,kg
+2026-07-21,chayote,HEB,26.0,Chayote con Espinas,kg
+2026-07-21,chayote,Comer,21.9,Chayote Sin Espinas,kg
+2026-07-21,chicharo,Chedraui,89.0,Chícharo por kg,kg
+2026-07-21,chicharo,HEB,47.0,Chicharo Japones 1 Kg,kg
+2026-07-21,chicharo,Comer,190.0,Brote De Chicharo,grs
+2026-07-21,chile_caribe,HEB,83.9,Chile Caribe 1 Kg,kg
+2026-07-21,chile_chilaca,HEB,52.0,Chile Chilaca 1 Kg,kg
+2026-07-21,chile_chilaca,Comer,92.3,Chilaca,kg
+2026-07-21,chile_arbol,HEB,146.0,Chile de Árbol Fresco 1 Kg,kg
+2026-07-21,chile_arbol,Comer,196.9,Chile Verde De Arbol,kg
+2026-07-21,chile_guajillo,HEB,49.0,Tajin Tajin Chile Guajillo 75 g,un
+2026-07-21,chile_guero,Chedraui,89.5,Chile Güero por Kg,kg
+2026-07-21,chile_guero,HEB,105.0,Chile Hungaro 1 Kg,kg
+2026-07-21,chile_guero,Comer,79.9,Chile Hungaro,kg
+2026-07-21,chile_habanero,Chedraui,130.0,Chile Habanero por Kg,kg
+2026-07-21,chile_habanero,HEB,156.0,Chile Habanero Naranja 1 Kg,kg
+2026-07-21,chile_habanero,Comer,189.9,Chile Habanero,kg
+2026-07-21,chile_poblano,Chedraui,49.9,Chile Poblano por Kg,kg
+2026-07-21,chile_poblano,HEB,39.95,Chile Poblano 1 Kg,kg
+2026-07-21,chile_poblano,Comer,53.9,Chile Poblano,kg
+2026-07-21,chile_serrano,Chedraui,44.9,Chile Serrano por Kg,kg
+2026-07-21,chile_serrano,HEB,29.95,Chile Serrano 1 Kg,kg
+2026-07-21,chile_serrano,Comer,49.9,Chile Serrano,kg
+2026-07-21,cilantro,Chedraui,9.9,Cilantro Rollo,un
+2026-07-21,cilantro,HEB,14.0,HEB Fresco en Cilantro Manojo,un
+2026-07-21,cilantro,Comer,79.9,Germen De Cilantro,kg
+2026-07-21,ciruela_moscatel,Chedraui,75.0,Ciruela Moscatel Kg,kg
+2026-07-21,ciruela_moscatel,HEB,62.9,Ciruela Moscatel,kg
+2026-07-21,ciruela_moscatel,Comer,79.9,Ciruela Moscatel,kg
+2026-07-21,ciruela_roja,Chedraui,51.96,Ciruela por kg,kg
+2026-07-21,ciruela_roja,HEB,94.0,Ciruela Negra Importada 1 Kg,kg
+2026-07-21,ciruela_roja,Comer,98.5,Ciruela Nubiana,kg
+2026-07-21,col_blanca,Chedraui,14.5,Col Blanca por kg,kg
+2026-07-21,col_blanca,Comer,32.9,Col Blanca,kg
+2026-07-21,coliflor,Chedraui,33.5,Floretes de Coliflor Mr. Lucky 454g,un
+2026-07-21,coliflor,HEB,39.95,HEB Coliflor Blanca,un
+2026-07-21,coliflor,Comer,39.9,Coliflor,pza
+2026-07-21,durazno_amarillo,Chedraui,120.0,Durazno Amarillo kg,kg
+2026-07-21,durazno_amarillo,HEB,105.0,Durazno Amarillo Sup Michoacan 1 Kg,kg
+2026-07-21,durazno_rojo,Chedraui,70.0,Durazno Rojo por Kg,kg
+2026-07-21,ejote,Chedraui,39.9,Ejote por kg,kg
+2026-07-21,ejote,HEB,83.9,Ejote Verde,kg
+2026-07-21,ejote,Comer,54.9,Ejote Verde,kg
+2026-07-21,elote,Chedraui,68.5,Grano de Elote por kg,kg
+2026-07-21,elote,HEB,14.0,Elote Blanco,un
+2026-07-21,elote,Comer,90.0,Grano De Elote,kg
+2026-07-21,epazote,Chedraui,14.0,Epazote Rollo,un
+2026-07-21,epazote,HEB,41.9,HEB Epazote Empacada 50 g,un
+2026-07-21,epazote,Comer,23.5,Epazote,pza
+2026-07-21,esparrago,Chedraui,149.0,Esparrago Verde 454g,un
+2026-07-21,esparrago,HEB,94.0,Esparrago,un
+2026-07-21,esparrago,Comer,269.0,Esparrago,kg
+2026-07-21,espinaca,Chedraui,9.9,Espinacas Rollo,un
+2026-07-21,espinaca,HEB,15.0,HEB Espinaca Manojo,un
+2026-07-21,espinaca,Comer,12.9,Espinaca,pza
+2026-07-21,frambuesa,Chedraui,58.5,Frambuesa Domo 170g,un
+2026-07-21,frambuesa,HEB,62.9,Frambuesa 170 g,un
+2026-07-21,fresa,Chedraui,59.0,Fresa Domo 454g,un
+2026-07-21,fresa,HEB,79.0,HEB Fresas 454 g,un
+2026-07-21,fresa,Comer,59.9,Fresa,pza
+2026-07-21,germen_soya,Chedraui,64.9,Germen de Soya por kg,kg
+2026-07-21,germen_soya,Comer,55.4,Germen De Soya,kg
+2026-07-21,guanabana,HEB,81.0,Guanábana Grande,kg
+2026-07-21,guanabana,Comer,104.9,Guanabana,kg
+2026-07-21,guayaba,Chedraui,56.0,Guayaba por Kg,kg
+2026-07-21,guayaba,HEB,54.95,Guayaba Suprema 1 Kg,kg
+2026-07-21,guayaba,Comer,42.0,Guayaba,kg
+2026-07-21,hierbabuena,Chedraui,20.9,Hierbabuena Alfavid 30g,un
+2026-07-21,hierbabuena,HEB,31.0,Hierbabuena en Manojo 1 Pz,un
+2026-07-21,hierbabuena,Comer,21.7,Hierbabuena,pza
+2026-07-21,jamaica,Chedraui,159.0,Jamaica por kg,kg
+2026-07-21,jengibre,Chedraui,99.0,Jengibre por kg,kg
+2026-07-21,jengibre,HEB,209.0,Jengibre,kg
+2026-07-21,jengibre,Comer,198.0,Jengibre,kg
+2026-07-21,jicama,Chedraui,29.5,Jícama por Kg,kg
+2026-07-21,jicama,HEB,24.95,Jícama Grande,kg
+2026-07-21,jicama,Comer,29.0,Jicama,kg
+2026-07-21,jitomate_saladet,Chedraui,24.0,Tomate Saladet por kg,kg
+2026-07-21,jitomate_saladet,Comer,16.9,Jitomate Saladet,kg
+2026-07-21,jitomate_bola,Chedraui,26.0,Tomate Bola por kg,kg
+2026-07-21,jitomate_bola,HEB,62.9,Tomate Bola Supremo 1 kg,kg
+2026-07-21,jitomate_bola,Comer,69.9,Jitomate Bola,kg
+2026-07-21,kiwi,Chedraui,76.0,Kiwi por Kg,kg
+2026-07-21,kiwi,HEB,146.0,Kiwi  1 Kg,kg
+2026-07-21,kiwi,Comer,126.9,Kiwi,kg
+2026-07-21,lechuga_orejona,Chedraui,9.9,Hojas de Lechuga MrLucky' Orejona Orgánica 250g,un
+2026-07-21,lechuga_orejona,HEB,28.0,Lechuga Orejona,un
+2026-07-21,lechuga_orejona,Comer,24.9,Lechuga Orejona,pza
+2026-07-21,lechuga_romana,Chedraui,22.5,Lechuga Romana Pieza,un
+2026-07-21,lechuga_romana,HEB,26.0,Lechuga Romana 1 Pz,un
+2026-07-21,lechuga_romana,Comer,25.9,Lechuga Romana,pza
+2026-07-21,lechuga_sangria,Chedraui,24.5,Lechuga Sangría Pieza,un
+2026-07-21,lechuga_sangria,HEB,20.5,Lechuga Morada (Sangria) Nal 1 Pz,un
+2026-07-21,lechuga_sangria,Comer,22.9,Lechuga Sangria,pza
+2026-07-21,lichi,Comer,89.9,Lichi,grs
+2026-07-21,limon,Chedraui,19.5,Limón sin Semilla por Kg,kg
+2026-07-21,limon,HEB,28.0,Limón sin Semilla,kg
+2026-07-21,limon,Comer,23.9,Limon Sin Semilla,kg
+2026-07-21,mamey,Chedraui,19.9,Mamey por Kg,kg
+2026-07-21,mamey,Comer,39.9,Mamey,kg
+2026-07-21,mandarina,Chedraui,59.0,Mandarina por Kg,kg
+2026-07-21,mandarina,HEB,49.95,Mandarina Primosole 1 Kg,kg
+2026-07-21,mandarina,Comer,89.9,Mandarina Clementina Malla,pza
+2026-07-21,mango_ataulfo,Chedraui,42.0,Mango Ataulfo por Kg,kg
+2026-07-21,mango_ataulfo,HEB,68.0,Mango Ataulfo Supremo,kg
+2026-07-21,mango_ataulfo,Comer,29.9,Mango Ataulfo,kg
+2026-07-21,mango_manila,Chedraui,42.0,Mango Manila por Kg,kg
+2026-07-21,mango_manila,Comer,69.9,Mango Manila,kg
+2026-07-21,mango_paraiso,Chedraui,29.9,Mango Paraíso por Kg,kg
+2026-07-21,mango_paraiso,Comer,36.9,Mango Paraiso,kg
+2026-07-21,manzana_golden,Chedraui,29.9,Manzana Golden Chica en Bolsa por Kg,kg
+2026-07-21,manzana_golden,HEB,57.0,Manzana Golden Nacional,kg
+2026-07-21,manzana_granny,Chedraui,44.5,Manzana Granny Smith por Kg,kg
+2026-07-21,manzana_granny,HEB,39.95,Manzana Granny Smith Gde Importada,kg
+2026-07-21,manzana_granny,Comer,49.9,Manzana Granny,kg
+2026-07-21,manzana_roja,Chedraui,29.9,Manzana Roja Chica en Bolsa por Kg,kg
+2026-07-21,manzana_roja,HEB,28.0,Manzana Roja Mexicana Mt 1 Kg,kg
+2026-07-21,manzana_royal_gala,Chedraui,44.0,Manzana Royal Gala en Bolsa por kg,kg
+2026-07-21,manzana_royal_gala,HEB,62.0,Manzana Gala Nacional Charola 1 Kg,kg
+2026-07-21,manzana_royal_gala,Comer,39.9,Manzana Royal Gala,kg
+2026-07-21,mejorana,HEB,41.9,HEB Mejorana Empacada 50 g,un
+2026-07-21,mejorana,Comer,20.0,Mejorana,pza
+2026-07-21,melon_amarillo,Chedraui,34.9,Melón Amarillo por Kg,kg
+2026-07-21,melon_chino,Chedraui,36.0,Melón Chino por Kg,kg
+2026-07-21,melon_chino,HEB,24.95,Melon Chino Supremo 1 Kg,kg
+2026-07-21,melon_chino,Comer,32.9,Melon Chino,kg
+2026-07-21,naranja,Chedraui,25.9,Naranja Paramount kg,kg
+2026-07-21,naranja,HEB,37.0,Naranja Suprema,kg
+2026-07-21,naranja,Comer,33.9,Naranja Valencia,kg
+2026-07-21,nopal_entero,Chedraui,39.0,Nopal por kg,kg
+2026-07-21,nopal_entero,HEB,47.0,Nopal Penca en Bolsa 1 Kg,kg
+2026-07-21,nopal_entero,Comer,35.9,Nopal,kg
+2026-07-21,nopal_picado,Comer,42.9,Nopal Picado,kg
+2026-07-21,papa_blanca,Chedraui,64.0,Papa Blanca por kg,kg
+2026-07-21,papa_blanca,HEB,62.0,Papa Blanca Chica 1 Kg,kg
+2026-07-21,papa_blanca,Comer,69.9,Papa Blanca,kg
+2026-07-21,papa_cambray,Chedraui,49.9,Papa Cambray por kg,kg
+2026-07-21,papaya,Chedraui,39.0,Papaya Maradol por kg,kg
+2026-07-21,papaya,HEB,39.0,Papaya Maradol 1 Kg,kg
+2026-07-21,papaya,Comer,30.9,Papaya Maradol,kg
+2026-07-21,pepino,Chedraui,19.9,Pepino Criollo kg,kg
+2026-07-21,pepino,HEB,28.0,Pepino Criollo 1 Kg,kg
+2026-07-21,pepino,Comer,29.9,Pepino Americano,kg
+2026-07-21,pera_danjou,HEB,62.9,Pera Red D'Anjou 1 Kg,kg
+2026-07-21,pera_danjou,Comer,59.0,Pera De Anjou,kg
+2026-07-21,pera_mantequilla,Chedraui,46.9,Pera Mantequilla por Kg,kg
+2026-07-21,perejil,Chedraui,9.9,Perejil Liso Rollo,un
+2026-07-21,perejil,HEB,15.0,Perejil Liso 1 Pz,un
+2026-07-21,perejil,Comer,11.9,Perejil,pza
+2026-07-21,pimiento_amarillo,Chedraui,98.5,Pimiento Amarillo por kg,kg
+2026-07-21,pimiento_amarillo,HEB,105.0,Pimiento Amarillo 1 Kg,kg
+2026-07-21,pimiento_amarillo,Comer,89.9,Pimiento Amarillo,kg
+2026-07-21,pimiento_naranja,Chedraui,99.0,Pimiento Naranja por kg,kg
+2026-07-21,pimiento_naranja,HEB,105.0,Pimiento Naranja 1 Kg,kg
+2026-07-21,pimiento_naranja,Comer,89.9,Pimiento Naranja,kg
+2026-07-21,pimiento_rojo,Chedraui,99.0,Pimiento Rojo por kg,kg
+2026-07-21,pimiento_rojo,HEB,105.0,Pimiento Rojo Choice 1 Kg,kg
+2026-07-21,pimiento_rojo,Comer,89.9,Pimiento Rojo,kg
+2026-07-21,pimiento_verde,Chedraui,80.0,Pimiento Verde por kg,kg
+2026-07-21,pimiento_verde,HEB,105.0,Pimiento Verde 1 Kg,kg
+2026-07-21,pimiento_verde,Comer,89.9,Pimiento Verde,kg
+2026-07-21,pina,Chedraui,16.5,Piña Gota Miel por Kg,kg
+2026-07-21,pina,HEB,24.95,Piña Miel Suprema 1 kg,kg
+2026-07-21,pina,Comer,29.9,Piña Miel,kg
+2026-07-21,pitahaya,Chedraui,59.5,Pitahaya Granel kg,kg
+2026-07-21,pitahaya,HEB,172.0,Pitahaya Nal 1 Kg,kg
+2026-07-21,pitahaya,Comer,125.0,Pitahaya,kg
+2026-07-21,platano_chiapas,Chedraui,26.0,Plátano Chiapas por Kg,kg
+2026-07-21,platano_chiapas,HEB,26.0,Plátano,kg
+2026-07-21,platano_chiapas,Comer,26.0,Platano Tabasco,kg
+2026-07-21,platano_macho,Chedraui,29.5,Plátano Macho por Kg,kg
+2026-07-21,platano_macho,HEB,37.0,Plátano Macho Grande,kg
+2026-07-21,platano_macho,Comer,45.9,Platano Macho,kg
+2026-07-21,rabano,Chedraui,17.9,Rábano Cambray Manojo,un
+2026-07-21,rabano,HEB,83.9,Rabano Negro 1 Kg,kg
+2026-07-21,rabano,Comer,38.5,Rabano Grande,kg
+2026-07-21,repollo,HEB,31.0,Repollo Verde,kg
+2026-07-21,sandia,Chedraui,13.9,Sandia sin Semilla por Kg,kg
+2026-07-21,sandia,HEB,9.95,Sandía Sangría,kg
+2026-07-21,sandia,Comer,13.9,Sandia Charleston,kg
+2026-07-21,te_limon,Chedraui,14.9,Té de Limón Manojo por Pieza,un
+2026-07-21,te_limon,HEB,28.0,Hoja Te de Limon 1 Pz,un
+2026-07-21,te_limon,Comer,18.5,Te De Limon,pza
+2026-07-21,tomate_huaje,HEB,31.0,Tomate Huaje Supremo,kg
+2026-07-21,tomate_cherry,Chedraui,16.8,Tomates Uva y Cherry NatureSweet Constellation to Go 71g,un
+2026-07-21,tomate_cherry,HEB,47.0,Tomate Cherry 284 g,un
+2026-07-21,tomate_verde,Chedraui,36.9,Tomate Verde por kg,kg
+2026-07-21,tomate_verde,Comer,23.1,Tomate Verde Con Cascara 4639 1,kg
+2026-07-21,tomillo,Chedraui,20.9,Tomillo Alfavid 30g,un
+2026-07-21,tomillo,HEB,28.0,Tomillo 1 pz Tomillo  1 Pz,un
+2026-07-21,tomillo,Comer,18.5,Tomillo,pza
+2026-07-21,toronja,Chedraui,19.9,Toronja por Kg,kg
+2026-07-21,toronja,HEB,45.0,Toronja Sangría 1 Kg,kg
+2026-07-21,toronja,Comer,39.9,Toronja Sangria,kg
+2026-07-21,uva_blanca,HEB,156.0,HEB Uvas Blancas Supremas sin Semilla,kg
+2026-07-21,uva_blanca,Comer,89.9,Uva Blanca Sin Semilla,kg
+2026-07-21,uva_globo,Chedraui,94.5,Uva Globo Emperador por kg,kg
+2026-07-21,uva_roja,Chedraui,69.0,Uva Roja sin Semilla por Kg,kg
+2026-07-21,uva_roja,HEB,125.0,Uva Roja Suprema Sin Semilla 1 Kg,kg
+2026-07-21,uva_roja,Comer,139.0,Uva Roja Sin Semilla,kg
+2026-07-21,uva_verde,Chedraui,99.9,Uva Verde por kg,kg
+2026-07-21,verdolaga,Chedraui,27.9,Verdolaga por kg,kg
+2026-07-21,verdolaga,HEB,27.0,Verdolaga 1 pz Verdolaga  1 Pz,un
+2026-07-21,verdolaga,Comer,24.9,Verdolaga,pza
+2026-07-21,yaca,Comer,36.9,Yaca,kg
+2026-07-21,yuca,Chedraui,44.0,Yuca Granel kg,kg
+2026-07-21,yuca,HEB,125.0,Yuca Granel,kg
+2026-07-21,yuca,Comer,75.4,Yuca,kg
+2026-07-21,zanahoria,Chedraui,12.9,Zanahoria por kg,kg
+2026-07-21,zanahoria,HEB,19.0,Zanahoria,kg
+2026-07-21,zanahoria,Comer,23.9,Zanahoria,kg
+2026-07-21,zarzamora,Chedraui,48.5,Zarzamora por Pieza,un
+2026-07-21,zarzamora,HEB,62.9,HEB Zarzamora 170 g,un
+2026-07-21,zarzamora,Comer,59.9,Zarzamora,pza

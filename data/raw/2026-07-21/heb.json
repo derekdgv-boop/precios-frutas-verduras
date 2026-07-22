@@ -1,0 +1,2150 @@
+[
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo Pelado Mr Lucky 170 g",
+    "precio": 58.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Opal 1 Kg",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Fuji en Bolsa 3lb 1 Pz",
+    "precio": 82.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Rockit 907 g",
+    "precio": 54.95,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Habanero Mixtos Clam 1 Pz",
+    "precio": 31.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Fresh Pepino Cortado 250 g",
+    "precio": 44.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Fresh Pepino Cortado 500 g",
+    "precio": 73.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Kiwi Gold 4 pz",
+    "precio": 94.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Melon Picasso 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lechuga Gourmet Hidropónica  1 Cmt",
+    "precio": 49.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lechuga Francesa Hidropónica  1 Cmt",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Lechuga Italiana Hidropónica",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lechuga Hidroponica Mini Romaine 2pz 1 Pz",
+    "precio": 52.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Blueberries Clam 311 g",
+    "precio": 125.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Cherry 284 g",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cereza Rainier Granel 1 Kg",
+    "precio": 209.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Chile Pasilla 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Chile Mulato 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Chile Morita 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Chile Chipotle 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Lady Alice 1 Kg",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Roja Mexicana Mt 1 Kg",
+    "precio": 28.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Elote Dulce Charola con 3 pz",
+    "precio": 68.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Durazno Dona 1 Kg",
+    "precio": 146.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Envi",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Crisantemo 1 pz Crisantemo  1 Pz",
+    "precio": 52.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chícharo Japonés 200 g",
+    "precio": 73.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Perejil Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Cilantro Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Epazote Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Romero Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Mejorana Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Mango Tommy 1 Kg",
+    "precio": 32.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ciruela Moscatel",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chabacano",
+    "precio": 114.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pitahaya Nal 1 Kg",
+    "precio": 172.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ciruela Negra Importada 1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Comice Imp 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Bosc 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Melón Tuscan",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Melón Sant Claus",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Gala Nacional Charola 1 Kg",
+    "precio": 62.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Apio  1 Kg",
+    "precio": 41.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Mr Lucky Brócoli Coronas 1 kg",
+    "precio": 68.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nopal Penca en Bolsa 1 Kg",
+    "precio": 47.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nopal Cubos en Bolsa 1 Kg",
+    "precio": 47.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nutribits Alcachofa Microondas 2 pz",
+    "precio": 105.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza Halloween 1 Kg",
+    "precio": 60.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Elote Dulce Amarillo",
+    "precio": 82.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Bartlet 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nabo Japonés 1 Pz",
+    "precio": 68.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Cereza Importada",
+    "precio": 149.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Col Morada 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ejote Chino 1 Pz",
+    "precio": 94.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pepino Amargo 1 Pz",
+    "precio": 22.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nabo Coreano 1 Pz",
+    "precio": 79.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Mostaza China 1 Pz",
+    "precio": 52.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza Peluda Larga 1 Pz",
+    "precio": 89.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Altari 1 pz Altari  1 Pz",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Bok Choy Col 1 Pz",
+    "precio": 68.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Repollo Verde",
+    "precio": 31.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tejocote  1 Kg",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Jonagold",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza de Castilla 1 Kg",
+    "precio": 37.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Alcachofa Suprema 1 Pz",
+    "precio": 59.95,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza Spaghetti 1 Kg",
+    "precio": 79.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Corazón de Apio Mr Lucky con 2 pz",
+    "precio": 31.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Coliflor Naranja 1 Pz",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Coliflor Morada 1 Pz",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Coliflor Blanca",
+    "precio": 39.95,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Berenjena  1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Zanahoria",
+    "precio": 19.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ejote Verde",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chicharo en Vaina 1 Kg",
+    "precio": 125.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pepino",
+    "precio": 30.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Jengibre",
+    "precio": 209.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Malanga Macal 1 Kg",
+    "precio": 68.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Elote Blanco",
+    "precio": 14.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chayote sin Espinas",
+    "precio": 37.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chayote con Espinas",
+    "precio": 26.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chayote Cambray",
+    "precio": 29.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabacita a Granel",
+    "precio": 37.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza Criolla 1 Kg",
+    "precio": 49.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Savila 1 pz Savila  1 Pz",
+    "precio": 94.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Melon Orangeflesh 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pepino Criollo 1 Kg",
+    "precio": 28.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Roja Nacional 1 Kg",
+    "precio": 46.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nectarina Blanca 1 Kg",
+    "precio": 167.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Rojo Choice 1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Aguacate Supremo",
+    "precio": 98.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Melon Chino Supremo 1 Kg",
+    "precio": 24.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimientos Mini 1 Lb 1 Pz",
+    "precio": 73.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Mandarina Primosole 1 Kg",
+    "precio": 49.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Kiwi Sungold Zespri Vita",
+    "precio": 156.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Arcoíris 1 Pz",
+    "precio": 83.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Granny Smith Imp en Bolsa 1.36 Kg",
+    "precio": 82.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Habanero Hidropónico Clam 1 Pz",
+    "precio": 29.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Durazno Amarillo Sup Michoacan 1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Blueberry 170 g",
+    "precio": 62.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Golden Importada en Bolsa 1.36 Kg",
+    "precio": 82.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Gala Importada en Bolsa 1.36 Kg",
+    "precio": 82.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Red Delicious Importada en Bolsa 1.36 kg",
+    "precio": 82.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebolla Morada Limpia 1 Kg",
+    "precio": 41.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Nikita-Kanzi",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Cosmic Crisp",
+    "precio": 93.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Amarillo Mini Sunny 1 Pz",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Mixto Mini Rainbow 1 Pz",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Naranja Mini Honey 1 Pz",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Rojo Mini Cupid 1 Pz",
+    "precio": 37.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Chocostar Mini Amber 1 Pz",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Rabano Negro 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Golden Nacional",
+    "precio": 57.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Sugarbee",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Soya 250 g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Juici",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Uva Roja Jelly Berries Sin Semilla 1 Pz Uva Roja S/S Jelly Berries 1 Pz",
+    "precio": 135.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Uva Negra Sin Semilla 1 Kg",
+    "precio": 135.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Jalapeño Rojo 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Frambuesa 170 g",
+    "precio": 62.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomillo 1 pz Tomillo  1 Pz",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Constellation 1 Pz",
+    "precio": 94.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Autumn Glory",
+    "precio": 49.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Serrano Rojo 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Aguacatito en Malla",
+    "precio": 31.95,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Uva Gummy Berries sin Semilla 1 kg",
+    "precio": 135.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Habanero Naranja 1 Kg",
+    "precio": 156.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Habanero Rojo 1 Kg",
+    "precio": 156.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo Negro 1 Pz",
+    "precio": 62.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Shishito 1 Pz",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Sandía Bambino 1 Kg",
+    "precio": 31.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Naranja Suprema",
+    "precio": 37.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Limón Agrio Supremo",
+    "precio": 47.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Germinado de Col Morada 1 Pz",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Germinado de Zanahoria 1 Pz",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Germinado de Kale 1 Pz",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chorizo de Champiñon 1 Pz",
+    "precio": 68.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñón Blanco Entero",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Champinon Blanco de 225 g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Packham 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Uva Blanca Cotton Candy Sin Semilla",
+    "precio": 209.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Uva Roja Suprema Sin Semilla 1 Kg",
+    "precio": 125.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Uvas Blancas Supremas sin Semilla",
+    "precio": 156.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo a Granel Supremo Mr Lucky 1 kg",
+    "precio": 209.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Shitake Seleccionado 1 Pz",
+    "precio": 52.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Huitlacoche Desgranado",
+    "precio": 35.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cola de Caballo Granel 1 Pz",
+    "precio": 26.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Eneldo/Hinojo Granel 1 Pz",
+    "precio": 26.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Mango Ataulfo Supremo",
+    "precio": 68.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Salvia en Manojo 1 Pz",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Oregano 1 pz Oregano  1 Pz",
+    "precio": 24.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Naranja 1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Gordolobo en Manojo 1 Pz",
+    "precio": 26.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Papa Blanca Chica 1 Kg",
+    "precio": 62.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Lenteja 250 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Trigo 250 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Alfalfa 250 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Guayaba Suprema 1 Kg",
+    "precio": 54.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Chile Ancho 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hoja Santa",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hoja de Plátano",
+    "precio": 143.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Arugula Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Salvia Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Menta Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Cebollin Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Albahaca Morada Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Albahaca Empacada 50 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo Desgranado 200 g",
+    "precio": 52.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Red D'Anjou 1 Kg",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Ajo con 4 pz",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Aguacate Extra",
+    "precio": 98.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Camote Garnet 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Chile de Arbol 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Chile Cascabel 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Yaka Yaka  1 Kg",
+    "precio": 41.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Habanero Negro 2 Pz",
+    "precio": 20.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Anillo de Fuego 100 g",
+    "precio": 56.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Naga Jolokia Clam 2 Pz",
+    "precio": 31.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Alfalfa 150 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Huaje Supremo",
+    "precio": 31.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tajin Tajin Chile Pasilla 75 g",
+    "precio": 49.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tajin Tajin Chile Guajillo 75 g",
+    "precio": 49.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tajin Tajin Chile de Arbol 75 g",
+    "precio": 49.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tajin Tajin Chile Ancho 100 g",
+    "precio": 49.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Pyro Hot Pepper 200 g",
+    "precio": 37.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Alfalfa Germinada Y Zanahoria 110 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Asiática Golden 1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Piquín Fresco 100 g",
+    "precio": 105.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Jazz 1 Kg",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Ambrosia",
+    "precio": 51.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñon Cremini Rebanado de 225 g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Durazno Blanco 1 Kg",
+    "precio": 167.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Higo Charola Mr Lucky 454 g",
+    "precio": 83.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Pasto de Trigo 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Honey Crisp 1 kg",
+    "precio": 93.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomatillo Limpio Seasons Select en Malla",
+    "precio": 22.95,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Aguacate en Malla Season Select Aguacate Malla 1 Pz",
+    "precio": 48.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Toronja en Malla 2.5 Kg",
+    "precio": 102.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Papaya Maradol 1 Kg",
+    "precio": 39.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Jalapeño",
+    "precio": 29.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Hungaro 1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Habanero Verde 1 Kg",
+    "precio": 156.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile de Árbol Fresco 1 Kg",
+    "precio": 146.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Chilaca 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nectarina",
+    "precio": 89.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Caribe 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nabo Japonés 1 Kg",
+    "precio": 123.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Poro Granel 1 Kg",
+    "precio": 82.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebolla Cambray",
+    "precio": 18.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lechuga Morada (Sangria) Nal 1 Pz",
+    "precio": 20.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Kiwi  1 Kg",
+    "precio": 146.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebolla Amarilla 1 Kg",
+    "precio": 26.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lechuga Orejona",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lechuga Italiana",
+    "precio": 20.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebolla Blanca Limpia",
+    "precio": 38.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lechuga Romana 1 Pz",
+    "precio": 26.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tuna Blanca O Verde 1 Kg",
+    "precio": 58.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomatillo Milpero 1 Kg",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomatillo Limpio 1 Kg",
+    "precio": 35.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Fresadilla 1 Kg",
+    "precio": 28.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Maracuyá",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Bola Supremo 1 kg",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebollita Cippoline 1 Kg",
+    "precio": 200.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebollita Perla Blanca 10 Oz",
+    "precio": 66.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebollita Perla Morada 1 Pz",
+    "precio": 66.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Fresas 454 g",
+    "precio": 79.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Caña de Azucar 1 Kg",
+    "precio": 31.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Plátano Pera 1 Kg",
+    "precio": 45.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Plátano Morado Grande 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Plátano Manzano Grande 1 Kg",
+    "precio": 47.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Plátano Macho Grande",
+    "precio": 37.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Plátano Dominico 1 Kg",
+    "precio": 71.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Plátano",
+    "precio": 26.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Jícama Grande",
+    "precio": 24.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Coco",
+    "precio": 37.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ciruela Roja Importada 1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Guanábana Grande",
+    "precio": 81.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chicozapote  1 Kg",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Durazno Importado",
+    "precio": 89.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera D'Anjou",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Asiática 1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Red Delicious Importada Suprema",
+    "precio": 62.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Granny Smith Gde Importada",
+    "precio": 39.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Golden Importada Suprema",
+    "precio": 82.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Fuji Gde Importada",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Camote Amarillo 1 kg",
+    "precio": 39.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Camote Morado 1 Kg",
+    "precio": 73.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Papa Galeana 1 Kg",
+    "precio": 62.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Papa Blanca",
+    "precio": 66.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Gala Importada",
+    "precio": 82.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Zarzamora 170 g",
+    "precio": 62.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cúrcuma",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Yuca Granel",
+    "precio": 125.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "S S Limon Agrio en Malla 1.5 Kg",
+    "precio": 66.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Rabanitos en Manojo 1 Pz",
+    "precio": 25.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nabo a Granel 1 Kg",
+    "precio": 131.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Colinabo  1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hoja Te de Limon 1 Pz",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Vaina de Pajaro 1 Pz",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ruda en Manojo 1 Pz",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Perejil Liso 1 Pz",
+    "precio": 15.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Perejil Chino 1 Pz",
+    "precio": 35.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzanilla",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Sandía Roja sin Semilla",
+    "precio": 24.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Romero Macho 1 Pz",
+    "precio": 28.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Sandía Sangría",
+    "precio": 9.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hierbabuena en Manojo 1 Pz",
+    "precio": 31.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hierba de Olor en Manojo 1 Pz",
+    "precio": 26.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Eucalipto 1 pz Eucalipto  1 Pz",
+    "precio": 31.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Fresco en Cilantro Manojo",
+    "precio": 14.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebollin 1 pz Cebollin  1 Pz",
+    "precio": 24.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Albahaca Verde 1 Pz",
+    "precio": 31.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Betabel Manojo 1 Pz",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Verdolaga 1 pz Verdolaga  1 Pz",
+    "precio": 27.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Papalo 1 pz Papalo  1 Pz",
+    "precio": 24.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Huazontle  1 Kg",
+    "precio": 62.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Melon Canary 1 Kg",
+    "precio": 52.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Espinaca Manojo",
+    "precio": 15.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Melón Valenciano 1 Kg",
+    "precio": 41.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Berros 1 pz Berros  1 Pz",
+    "precio": 24.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Betabel Rebotado 1 Kg",
+    "precio": 47.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Acelga Verde",
+    "precio": 15.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Toronja Sangría 1 Kg",
+    "precio": 45.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Naranja Navel Sin Semilla 1 Kg",
+    "precio": 49.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Anaheim 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Serrano 1 Kg",
+    "precio": 29.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Poblano 1 Kg",
+    "precio": 39.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Verde 1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Rojo 1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Amarillo 1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Limón Amarillo Eureka 1 Kg",
+    "precio": 72.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Limón sin Semilla",
+    "precio": 28.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Cebolla Blanca con Cáscara 1 Kg",
+    "precio": 19.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Lima  1 Kg",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pimiento Semáforo 1 Pz",
+    "precio": 73.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Ya 1 Kg",
+    "precio": 54.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñon Jumbo de 500 g",
+    "precio": 83.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Alfalfa Manojo 1 Pz",
+    "precio": 18.5,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo Pelado Mr Lucky 280 g",
+    "precio": 83.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo Shallot Mr Lucky 200 g",
+    "precio": 62.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Rabano 114 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Trebol 114 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Seta Seleccionada 250 g",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñon Cremini de 450 g",
+    "precio": 77.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñon Cremini de 225 g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñon Blanco Entero de 450 g",
+    "precio": 73.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñon Blanco Entero 225 g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo Seasons Select Ajo 4 pz",
+    "precio": 41.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Alfalfa con Limon Y Chile 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Alfalfa con Aderezo Mil Islas 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Alfalfa con Aderezo Italiano 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Crisp Pink",
+    "precio": 49.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Brocoli Y Alfalfa 114 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Germinado de Brocoli 114 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hongo Portabellini de 225 g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hongo Portabella de 225 g",
+    "precio": 47.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Champiñón Blanco Entero 1 Kg",
+    "precio": 146.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Mandarina Bella Sudam 1 Pz",
+    "precio": 114.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Lemonade  1 Kg",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ciruela Midnight Rose Bsa 1 Kg",
+    "precio": 209.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Koru 1 Kg",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Piqa  1 Kg",
+    "precio": 156.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo Pelado 100 Gr 100 Gr",
+    "precio": 35.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Lucy Rose 1 Kg",
+    "precio": 164.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Piqa Clam 1 kg",
+    "precio": 146.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Portobella Entero 500 g",
+    "precio": 94.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Toronja Imp Malla 3 Lbs 1 Pz",
+    "precio": 105.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomatito Salsero en Malla Mi Tienda 900gr 1 Pz",
+    "precio": 14.95,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza Kabocha 1 Kg",
+    "precio": 79.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza Butternut 1 kg",
+    "precio": 79.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Calabaza Acorn 1 Kg",
+    "precio": 79.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Esparrago",
+    "precio": 94.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Piña Miel Suprema 1 kg",
+    "precio": 24.95,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Berry Duo Pack 340 g",
+    "precio": 135.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Ajo en Malla",
+    "precio": 29.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Berries Tripack 227 g",
+    "precio": 83.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Verdolaga",
+    "precio": 27.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Nansui 1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Feicuisu 1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Nabo Japones 1 Kg",
+    "precio": 37.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Mostaza China 1 Kg",
+    "precio": 15.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Crisantemo  1 Kg",
+    "precio": 31.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chicharo Japones 1 Kg",
+    "precio": 47.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Altari 1 Kg",
+    "precio": 17.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Okra China",
+    "precio": 37.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Manzana Pink Lady en Bolsa 1.36 kg",
+    "precio": 82.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Vegetales Coles de Bruselas Mantequilla 400 g",
+    "precio": 69.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Chile Serrano de Malla Seasons Select 350 g",
+    "precio": 15.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Contellation To Go 71gr 1 Pz",
+    "precio": 27.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Cocktail en Vaina  1 Pz",
+    "precio": 60.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Zanahoria Rallada 500 g",
+    "precio": 39.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Papa Russet Potatoes 2.27 kg",
+    "precio": 31.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Manzana Ever Crisp 1 Kg",
+    "precio": 77.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera King  1 Kg",
+    "precio": 105.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pera Snow  1 Kg",
+    "precio": 94.0,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Pasta de Ajo Mr Lucky 100 g",
+    "precio": 45.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Tomate Naturesweet Glorys 680gr 680 Gr",
+    "precio": 105.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "HEB Tomate Rojo Mini Cupid 680 g",
+    "precio": 100.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "HEB",
+    "nombre": "Hidropónica Mini Francesa  1 Cmt",
+    "precio": 56.0,
+    "unidad": "un"
+  }
+]
