@@ -1,0 +1,50 @@
+name: Diag2 Comer (temporal)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install cloudscraper
+      - name: Comer 7 subcats con warm-up
+        run: |
+          python - <<'PY'
+          import time, cloudscraper
+          API = "https://www.lacomer.com.mx/lacomer-api/api/v1/public/articulopasillo/articulospasillord"
+          HOMES = ["https://www.lacomer.com.mx/", "https://www.lacomer.com.mx/lacomer/"]
+          SUB = [14,15,18,16,19,17,20]
+
+          def params(pid):
+              return dict(agruVirtual=0, filtroSeleccionado=0, idPromocion=0, marca="",
+                          noPagina=1, numResultados=500, orden=-1, padreId=pid,
+                          parmInt=1, pasId=13, pasiPort=0, precio="", succId=430)
+
+          for home in HOMES:
+              print(f"\n##### warm-up con {home} #####")
+              s = cloudscraper.create_scraper()
+              try:
+                  r0 = s.get(home, timeout=40)
+                  print(f"  home status: {r0.status_code} len {len(r0.content)}")
+              except Exception as e:
+                  print(f"  home EXC: {e!r}")
+              ok = 0
+              for pid in SUB:
+                  try:
+                      r = s.get(API, params=params(pid), timeout=40)
+                      st = r.status_code
+                      n = "-"
+                      if st == 200:
+                          try: n = len(r.json().get("vecArticulo") or [])
+                          except Exception: n = "nojson"
+                          if isinstance(n, int) and n > 0: ok += 1
+                      print(f"  padre {pid}: {st}  items {n}")
+                  except Exception as e:
+                      print(f"  padre {pid}: EXC {e!r}")
+                  time.sleep(1.5)
+              print(f"  => subcats con datos: {ok}/7")
+          PY
