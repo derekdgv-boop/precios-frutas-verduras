@@ -1,11 +1,18 @@
-"""Scraper de La Comer (tienda 'Comer'), sucursal La Comer Altaria Aguascalientes."""
-import requests
+"""Scraper de La Comer (tienda 'Comer'), sucursal La Comer Altaria Aguascalientes.
+
+La API está detrás de Cloudflare (bot management): un requests normal recibe
+403 desde IPs de datacenter (GitHub Actions). cloudscraper resuelve el reto JS
+de Cloudflare e imita un navegador, así que corre serverless sin proxy.
+"""
+import cloudscraper
 
 NOMBRE_BLOQUEADO = ("ensalada", "coctel", "salsa", "topping", "guacamole", "desinfect", "jugo")
 
 API_URL = "https://www.lacomer.com.mx/lacomer-api/api/v1/public/articulopasillo/articulospasillord"
 SUCC_ID = 430  # La Comer Altaria Aguascalientes
 PAS_ID = 13    # Pasillo "Frutas y Verduras"
+# Si cambian de sucursal/pasillo: navegar el pasillo en lacomer.com.mx,
+# DevTools > Network > "articulospasillord" y leer succId/pasId del query.
 
 # Subcategorías (padreId) dentro del pasillo Frutas y Verduras.
 # Fuera a propósito: Ensaladas y Aderezos Refrigerados (procesado),
@@ -24,8 +31,7 @@ SUBCATEGORIAS = {
 
 def fetch_products(store_name="Comer"):
     products = []
-    session = requests.Session()
-    session.headers.update({"User-Agent": "Mozilla/5.0"})
+    session = cloudscraper.create_scraper()  # sesión que pasa el reto de Cloudflare
 
     for padre_id, subcat_name in SUBCATEGORIAS.items():
         # La API ignora noPagina/numResultados y siempre regresa el

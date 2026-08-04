@@ -1,8 +1,12 @@
 """Script de una sola vez: genera products.json a partir de la lista oficial
 de claves de artículo que dio el usuario. Regex usa lookaheads (?=.*\\bXXX\\b)
 para exigir todas las palabras clave, en cualquier orden, sobre el nombre
-normalizado (sin acentos, minúsculas) del producto de cada tienda."""
+normalizado (sin acentos, minúsculas) del producto de cada tienda.
+
+Fuente de verdad de products.json: edita ITEMS aquí y corre
+`python scraper/generar_products.py` para regenerar."""
 import json
+from pathlib import Path
 
 # (id, nombre para mostrar, [palabras clave requeridas])
 ITEMS = [
@@ -134,11 +138,19 @@ def build_pattern(keywords):
     return "".join(parts)
 
 
-out = {}
-for id_, nombre, keywords in ITEMS:
-    out[id_] = {"nombre": nombre, "patron": build_pattern(keywords)}
+def main():
+    out = {}
+    for id_, nombre, keywords in ITEMS:
+        out[id_] = {"nombre": nombre, "patron": build_pattern(keywords)}
 
-with open("products.json", "w", encoding="utf-8") as f:
-    json.dump(out, f, ensure_ascii=False, indent=2)
+    salida = Path(__file__).parent / "products.json"
+    with open(salida, "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
 
-print(f"{len(out)} productos escritos en products.json")
+    print(f"{len(out)} productos escritos en {salida}")
+
+
+# Guardado bajo __main__ para poder importar ITEMS/build_pattern (p.ej. desde
+# los tests) sin reescribir products.json como efecto colateral del import.
+if __name__ == "__main__":
+    main()

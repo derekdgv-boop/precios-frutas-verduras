@@ -11,6 +11,8 @@ from vtex_store import _es_natural
 
 API_URL = "https://www.heb.com.mx/api/categories/frutas-y-verduras"
 STORE_ID = "hebmx002959"  # unico storeId que expone el sitio (catalogo nacional)
+# Si deja de responder: abrir heb.com.mx/frutas-y-verduras, DevTools > Network,
+# filtrar "api/categories" y leer el storeId del request.
 HITS_PER_PAGE = 100
 INTENTOS_POR_PAGINA = 4
 PAUSA_ENTRE_PAGINAS = 1.5

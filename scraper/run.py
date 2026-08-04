@@ -20,6 +20,10 @@ PRODUCTS_FILE = Path(__file__).parent / "products.json"
 
 TZ_MX = timezone(timedelta(hours=-6))
 
+# history.csv se reescribe entero cada corrida; sin poda crece para siempre.
+# Conservamos las N fechas más recientes (suficiente para la gráfica de tendencia).
+HISTORY_DAYS = 180
+
 
 def strip_accents(text):
     nfkd = unicodedata.normalize("NFKD", text)
@@ -79,10 +83,32 @@ def main():
     stores["Comer"] = comer.fetch_products("Comer")
     print(f"  {len(stores['Comer'])} productos")
 
-    # Guarda el catálogo crudo del día (auditoría / futuras canastas)
+    # Snapshot previo: si una tienda hoy scrapeó 0 (bloqueo anti-bot / caída),
+    # NO publicamos un catálogo vacío — conservamos su último dato bueno y lo
+    # marcamos como "stale" para que la UI avise. Así un fallo parcial no borra
+    # los precios visibles de esa tienda.
+    latest_file = DATA_DIR / "latest.json"
+    old_latest = {}
+    if latest_file.exists():
+        try:
+            old_latest = json.loads(latest_file.read_text(encoding="utf-8"))
+        except (ValueError, OSError):
+            old_latest = {}
+
+    stale = {}  # tienda -> fecha del último dato bueno conservado
+    for store_name, products in stores.items():
+        if not products and store_name in old_latest.get("catalogos", {}):
+            prev = old_latest.get("fuentes", {}).get(store_name, {})
+            stale[store_name] = prev.get("fecha") or old_latest.get("fecha", today)
+            print(f"  ! {store_name} sin datos hoy — conservo {stale[store_name]}")
+
+    # Guarda el catálogo crudo del día (auditoría / futuras canastas).
+    # No escribimos raw de una tienda vacía: sería un [] engañoso.
     day_dir = RAW_DIR / today
     day_dir.mkdir(parents=True, exist_ok=True)
     for store_name, products in stores.items():
+        if not products:
+            continue
         (day_dir / f"{store_name.lower()}.json").write_text(
             json.dumps(products, ensure_ascii=False, indent=2), encoding="utf-8"
         )
@@ -143,7 +169,8 @@ def main():
     # data/latest.json: snapshot de hoy, pivotado por producto (canasta) +
     # catálogo completo por tienda (todo fruta/verdura natural, sin procesados)
     # + cambios de precio respecto al último dato conocido.
-    latest = {"fecha": today, "productos": {}, "catalogos": {}, "cambios": cambios}
+    latest = {"fecha": today, "productos": {}, "catalogos": {}, "cambios": cambios,
+              "fuentes": {}}
     for canon, info in catalogo.items():
         latest["productos"][canon] = {"nombre_producto": info["nombre"]}
         for store_name in stores:
@@ -162,19 +189,45 @@ def main():
             for p in ordenados
         ]
 
-    (DATA_DIR / "latest.json").write_text(
+    # Restaura el último dato bueno de las tiendas que hoy fallaron.
+    for store_name, fecha_ok in stale.items():
+        latest["catalogos"][store_name] = old_latest["catalogos"][store_name]
+        for canon in catalogo:
+            prev_entry = old_latest.get("productos", {}).get(canon, {}).get(store_name)
+            if prev_entry:
+                latest["productos"][canon][store_name] = prev_entry
+
+    # fuentes: estado por tienda para que la UI muestre frescura / avisos.
+    for store_name in stores:
+        if store_name in stale:
+            latest["fuentes"][store_name] = {
+                "ok": False, "stale": True, "fecha": stale[store_name],
+                "n": len(latest["catalogos"][store_name]),
+            }
+        else:
+            latest["fuentes"][store_name] = {
+                "ok": True, "stale": False, "fecha": today,
+                "n": len(stores[store_name]),
+            }
+
+    latest_file.write_text(
         json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
     # data/history.csv: una fila por producto/tienda/día, para graficar tendencia.
     # Si ya corrió hoy (re-ejecución manual), reemplaza las filas de hoy en vez
-    # de duplicarlas.
+    # de duplicarlas. Poda a las HISTORY_DAYS fechas más recientes para que el
+    # archivo (y el repo) no crezca sin límite.
+    todas = filas_previas + filas_hoy
+    fechas_recientes = set(sorted({r["fecha"] for r in todas})[-HISTORY_DAYS:])
+    todas = [r for r in todas if r["fecha"] in fechas_recientes]
     with open(history_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(filas_previas + filas_hoy)
+        writer.writerows(todas)
 
-    print(f"Listo. {len(cambios)} cambios de precio detectados.")
+    stale_msg = f" | stale: {', '.join(stale)}" if stale else ""
+    print(f"Listo. {len(cambios)} cambios de precio detectados.{stale_msg}")
 
 
 if __name__ == "__main__":
