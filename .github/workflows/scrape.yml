@@ -1,10 +1,11 @@
 name: Actualizar precios diario
 
-# Corre en la nube, sin depender de ninguna PC:
+# Actualizacion diaria en la nube, sin depender de ninguna PC:
 #   - Chedraui y HEB responden bien desde las IPs de GitHub Actions.
-#   - Comer va detras de Cloudflare; comer.py usa cloudscraper para pasarlo.
-# Si alguna tienda llegara a fallar un dia, run.py conserva su ultimo dato
-# bueno y lo marca "stale" (no borra precios), asi que el sitio no se rompe.
+#   - Comer se OMITE aqui (SCRAPER_SKIP): su Cloudflare bloquea IPs de
+#     datacenter. Comer se refresca aparte desde una PC residencial
+#     (scripts/actualizar_precios.ps1). Mientras tanto conserva su ultimo
+#     dato bueno y se marca "stale" en la UI (no se borran precios).
 on:
   schedule:
     - cron: "0 14 * * *"   # 14:00 UTC = 08:00 hora de Aguascalientes (UTC-6).
@@ -27,7 +28,9 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Correr scraper
+      - name: Correr scraper (sin Comer)
+        env:
+          SCRAPER_SKIP: Comer
         run: python scraper/run.py
 
       - name: Guardar cambios
@@ -35,5 +38,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Actualiza precios $(date +%Y-%m-%d)"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualiza precios $(date +%Y-%m-%d)"
+            # La PC tambien pushea (Comer); reintegra por si el remoto avanzo.
+            git pull --rebase --autostash origin main
+            git push
+          fi

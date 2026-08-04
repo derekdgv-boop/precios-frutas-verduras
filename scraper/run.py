@@ -2,6 +2,7 @@
 comparativa y guarda resultados en data/."""
 import csv
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -67,21 +68,29 @@ def main():
 
     catalogo = json.loads(PRODUCTS_FILE.read_text(encoding="utf-8"))
 
+    # SCRAPER_SKIP: tiendas a NO scrapear en esta corrida (coma-separadas).
+    # Se usa en GitHub Actions con "Comer" porque su Cloudflare bloquea las IPs
+    # de datacenter; Comer se refresca aparte desde una PC residencial. Una
+    # tienda saltada conserva su último dato bueno vía el carry-forward de abajo.
+    skip = {s.strip() for s in os.environ.get("SCRAPER_SKIP", "").split(",") if s.strip()}
+
+    # (nombre, función que regresa la lista de productos)
+    fuentes_fetch = {
+        "Chedraui": lambda: vtex_store.fetch_products(
+            "https://www.chedraui.com.mx", "supermercado/frutas-y-verduras", "Chedraui"),
+        "HEB": lambda: heb.fetch_products("HEB"),
+        "Comer": lambda: comer.fetch_products("Comer"),
+    }
+
     stores = {}
-
-    print("- Chedraui...")
-    stores["Chedraui"] = vtex_store.fetch_products(
-        "https://www.chedraui.com.mx", "supermercado/frutas-y-verduras", "Chedraui"
-    )
-    print(f"  {len(stores['Chedraui'])} productos")
-
-    print("- HEB...")
-    stores["HEB"] = heb.fetch_products("HEB")
-    print(f"  {len(stores['HEB'])} productos")
-
-    print("- Comer...")
-    stores["Comer"] = comer.fetch_products("Comer")
-    print(f"  {len(stores['Comer'])} productos")
+    for nombre, fetch in fuentes_fetch.items():
+        if nombre in skip:
+            print(f"- {nombre}... (omitido por SCRAPER_SKIP)")
+            stores[nombre] = []
+            continue
+        print(f"- {nombre}...")
+        stores[nombre] = fetch()
+        print(f"  {len(stores[nombre])} productos")
 
     # Snapshot previo: si una tienda hoy scrapeó 0 (bloqueo anti-bot / caída),
     # NO publicamos un catálogo vacío — conservamos su último dato bueno y lo
