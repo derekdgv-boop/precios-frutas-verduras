@@ -19,6 +19,43 @@ jobs:
       - name: Instalar requests
         run: pip install requests
 
+      - name: Probar bypass Cloudflare de Comer (curl_cffi / cloudscraper)
+        run: |
+          pip install "curl_cffi>=0.7" cloudscraper >/dev/null 2>&1 || pip install curl_cffi cloudscraper
+          python - <<'PY'
+          URL = ("https://www.lacomer.com.mx/lacomer-api/api/v1/public/articulopasillo/"
+                 "articulospasillord?agruVirtual=0&filtroSeleccionado=0&idPromocion=0&marca=&"
+                 "noPagina=1&numResultados=5&orden=-1&padreId=14&parmInt=1&pasId=13&pasiPort=0&"
+                 "precio=&succId=430")
+
+          print("===== Comer via curl_cffi (impersonate chrome) =====")
+          try:
+              from curl_cffi import requests as cffi
+              r = cffi.get(URL, impersonate="chrome", timeout=30)
+              print(f"  status: {r.status_code}  len: {len(r.content)}")
+              try:
+                  n = len(r.json().get("vecArticulo") or [])
+                  print(f"  JSON OK, items ~ {n}   <<< BYPASS FUNCIONA")
+              except Exception:
+                  print(f"  body[:200]: {r.text[:200]!r}")
+          except Exception as e:
+              print(f"  EXCEPCION: {e!r}")
+
+          print("===== Comer via cloudscraper =====")
+          try:
+              import cloudscraper
+              s = cloudscraper.create_scraper()
+              r = s.get(URL, timeout=40)
+              print(f"  status: {r.status_code}  len: {len(r.content)}")
+              try:
+                  n = len(r.json().get("vecArticulo") or [])
+                  print(f"  JSON OK, items ~ {n}   <<< BYPASS FUNCIONA")
+              except Exception:
+                  print(f"  body[:200]: {r.text[:200]!r}")
+          except Exception as e:
+              print(f"  EXCEPCION: {e!r}")
+          PY
+
       - name: Sondear fuentes
         run: |
           python - <<'PY'
