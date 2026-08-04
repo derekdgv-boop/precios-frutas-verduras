@@ -77,8 +77,27 @@
   }
   .aviso svg { flex: none; margin-top: 1px; }
 
+  /* ---- Navegación por pestañas ---- */
+  .nav {
+    position: sticky; top: 0; z-index: 10;
+    display: flex; gap: 6px; margin-top: 20px; padding: 12px 0;
+    background: var(--paper);
+  }
+  .navtab {
+    flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 7px;
+    font-family: "Bricolage Grotesque", Inter, sans-serif; font-weight: 700; font-size: 0.98rem;
+    color: var(--muted); background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 12px 8px; cursor: pointer; box-shadow: var(--shadow); transition: background .12s, color .12s, border-color .12s;
+  }
+  .navtab:hover { border-color: #D6D0C3; }
+  .navtab.active { color: #fff; background: var(--leaf); border-color: var(--leaf); }
+  .navtab:focus-visible { outline: 2px solid var(--leaf); outline-offset: 2px; }
+  .navtab-c { font-size: 0.74rem; font-weight: 700; background: rgba(30,42,34,.08); padding: 1px 8px; border-radius: 999px; }
+  .navtab.active .navtab-c { background: rgba(255,255,255,.24); }
+
   /* ---- Section scaffolding ---- */
-  section { margin-top: 40px; }
+  section { margin-top: 24px; }
+  section.hidden { display: none; }
   .sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 4px; flex-wrap: wrap; }
   h2 { font-size: 1.3rem; font-weight: 700; margin: 0; }
   .sec-hint { color: var(--muted); font-size: 0.9rem; margin: 2px 0 16px; }
@@ -195,6 +214,12 @@
     <div class="avisos" id="avisos"></div>
   </header>
 
+  <nav class="nav" id="nav">
+    <button class="navtab active" data-sec="secCanasta">Comparar</button>
+    <button class="navtab" data-sec="secCambios">Cambios<span class="navtab-c" id="navCambios"></span></button>
+    <button class="navtab" data-sec="secCatalogo">Catálogo</button>
+  </nav>
+
   <section id="secCanasta">
     <div class="sec-head">
       <h2>Comparación por producto</h2>
@@ -208,7 +233,7 @@
     <div class="items" id="items"></div>
   </section>
 
-  <section id="secCambios">
+  <section id="secCambios" class="hidden">
     <div class="sec-head">
       <h2>Cambios de hoy</h2>
       <span class="count" id="conteoCambios"></span>
@@ -217,7 +242,7 @@
     <div class="movers" id="movers"></div>
   </section>
 
-  <section id="secCatalogo">
+  <section id="secCatalogo" class="hidden">
     <div class="sec-head">
       <h2>Catálogo completo por tienda</h2>
     </div>
@@ -461,6 +486,18 @@ async function main() {
   });
   buscador2.addEventListener("input", renderCatalogo);
   renderCatalogo();
+
+  // ---- Navegación por pestañas ----
+  const navCambios = document.getElementById("navCambios");
+  if (cambios.length) navCambios.textContent = cambios.length;
+  const nav = document.getElementById("nav");
+  const SECS = ["secCanasta", "secCambios", "secCatalogo"];
+  nav.addEventListener("click", e => {
+    const b = e.target.closest(".navtab"); if (!b) return;
+    nav.querySelectorAll(".navtab").forEach(x => x.classList.toggle("active", x === b));
+    SECS.forEach(id => document.getElementById(id).classList.toggle("hidden", id !== b.dataset.sec));
+    window.scrollTo({ top: 0 });
+  });
 }
 
 // ---- Modal de tendencia ----
