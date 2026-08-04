@@ -251,11 +251,6 @@
         "nombre": "Cebolla Morada por kg",
         "unidad": "kg"
       },
-      "HEB": {
-        "precio": 51.0,
-        "nombre": "Cebolla Morada Limpia 1 Kg",
-        "unidad": "kg"
-      },
       "Comer": {
         "precio": 44.9,
         "nombre": "Cebolla Morada",
@@ -2445,6 +2440,11 @@
         "unidad": "kg"
       },
       {
+        "nombre": "Germen de Trigo por kg",
+        "precio": 16.0,
+        "unidad": "kg"
+      },
+      {
         "nombre": "Germinado Cultivos Naturales San Francisco Alfalfa con Brócoli 200g",
         "precio": 45.0,
         "unidad": "un"
@@ -4030,11 +4030,6 @@
         "nombre": "Cebolla de Rabo 1 Pz",
         "precio": 16.0,
         "unidad": "un"
-      },
-      {
-        "nombre": "Cebolla Morada Limpia 1 Kg",
-        "precio": 51.0,
-        "unidad": "kg"
       },
       {
         "nombre": "Cebollin 1 pz Cebollin  1 Pz",
@@ -7662,16 +7657,6 @@
       "fecha_anterior": "2026-07-29"
     },
     {
-      "producto": "cebolla_morada",
-      "nombre_producto": "Cebolla Morada",
-      "tienda": "HEB",
-      "precio_anterior": 44.0,
-      "precio_nuevo": 51.0,
-      "diferencia": 7.0,
-      "porcentaje": 15.9,
-      "fecha_anterior": "2026-07-29"
-    },
-    {
       "producto": "limon",
       "nombre_producto": "Limón",
       "tienda": "Chedraui",
@@ -7927,13 +7912,13 @@
       "ok": true,
       "stale": false,
       "fecha": "2026-08-03",
-      "n": 430
+      "n": 431
     },
     "HEB": {
       "ok": true,
       "stale": false,
       "fecha": "2026-08-03",
-      "n": 347
+      "n": 346
     },
     "Comer": {
       "ok": false,
