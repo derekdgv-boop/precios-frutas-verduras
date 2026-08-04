@@ -1165,6 +1165,12 @@
   },
   {
     "tienda": "HEB",
+    "nombre": "Chile Caribe 1 Kg",
+    "precio": 83.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "HEB",
     "nombre": "Nabo Japonés 1 Kg",
     "precio": 123.0,
     "unidad": "kg"
@@ -1959,12 +1965,6 @@
     "tienda": "HEB",
     "nombre": "Pera Feicuisu 1 Kg",
     "precio": 94.0,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "HEB",
-    "nombre": "Nabo Japones 1 Kg",
-    "precio": 37.0,
     "unidad": "kg"
   },
   {

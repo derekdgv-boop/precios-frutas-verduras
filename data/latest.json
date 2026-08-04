@@ -1215,7 +1215,7 @@
     "pera_mantequilla": {
       "nombre_producto": "Pera Mantequilla",
       "Chedraui": {
-        "precio": 46.9,
+        "precio": 47.9,
         "nombre": "Pera Mantequilla por Kg",
         "unidad": "kg"
       }
@@ -3281,7 +3281,7 @@
       },
       {
         "nombre": "Pera Mantequilla por Kg",
-        "precio": 46.9,
+        "precio": 47.9,
         "unidad": "kg"
       },
       {
@@ -4140,6 +4140,11 @@
         "nombre": "Chile Anillo de Fuego 100 g",
         "precio": 56.0,
         "unidad": "un"
+      },
+      {
+        "nombre": "Chile Caribe 1 Kg",
+        "precio": 83.9,
+        "unidad": "kg"
       },
       {
         "nombre": "Chile Caribe 1 Kg",
@@ -5009,11 +5014,6 @@
       {
         "nombre": "Nabo Japonés 1 Kg",
         "precio": 123.0,
-        "unidad": "kg"
-      },
-      {
-        "nombre": "Nabo Japones 1 Kg",
-        "precio": 37.0,
         "unidad": "kg"
       },
       {
@@ -7787,16 +7787,6 @@
       "fecha_anterior": "2026-07-29"
     },
     {
-      "producto": "pera_mantequilla",
-      "nombre_producto": "Pera Mantequilla",
-      "tienda": "Chedraui",
-      "precio_anterior": 49.9,
-      "precio_nuevo": 46.9,
-      "diferencia": -3.0,
-      "porcentaje": -6.0,
-      "fecha_anterior": "2026-07-29"
-    },
-    {
       "producto": "naranja",
       "nombre_producto": "Naranja",
       "tienda": "Chedraui",
@@ -7834,6 +7824,16 @@
       "precio_nuevo": 58.5,
       "diferencia": 2.5,
       "porcentaje": 4.5,
+      "fecha_anterior": "2026-07-29"
+    },
+    {
+      "producto": "pera_mantequilla",
+      "nombre_producto": "Pera Mantequilla",
+      "tienda": "Chedraui",
+      "precio_anterior": 49.9,
+      "precio_nuevo": 47.9,
+      "diferencia": -2.0,
+      "porcentaje": -4.0,
       "fecha_anterior": "2026-07-29"
     },
     {
