@@ -74,7 +74,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Tomate Verde por kg",
-    "precio": 36.5,
+    "precio": 29.9,
     "unidad": "kg"
   },
   {
@@ -92,7 +92,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Mango Ataulfo por Kg",
-    "precio": 54.9,
+    "precio": 42.0,
     "unidad": "kg"
   },
   {
@@ -104,13 +104,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Roja Mediana por Kg",
-    "precio": 54.0,
+    "precio": 49.9,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Espinacas Rollo",
-    "precio": 9.9,
+    "precio": 7.9,
     "unidad": "un"
   },
   {
@@ -158,7 +158,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Melón Chino por Kg",
-    "precio": 29.5,
+    "precio": 19.9,
     "unidad": "kg"
   },
   {
@@ -188,13 +188,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Limón Colima por Kg",
-    "precio": 32.5,
+    "precio": 32.0,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Lechuga Romana Pieza",
-    "precio": 19.9,
+    "precio": 12.9,
     "unidad": "un"
   },
   {
@@ -212,7 +212,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Jícama por Kg",
-    "precio": 23.9,
+    "precio": 12.9,
     "unidad": "kg"
   },
   {
@@ -266,7 +266,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Rojo por kg",
-    "precio": 99.0,
+    "precio": 49.9,
     "unidad": "kg"
   },
   {
@@ -308,7 +308,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Sandia Blanca Rayada por Kg",
-    "precio": 16.0,
+    "precio": 9.9,
     "unidad": "kg"
   },
   {
@@ -332,7 +332,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Uva Roja sin Semilla por Kg",
-    "precio": 74.5,
+    "precio": 79.0,
     "unidad": "kg"
   },
   {
@@ -350,7 +350,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Royal Gala por Kg",
-    "precio": 54.0,
+    "precio": 48.0,
     "unidad": "kg"
   },
   {
@@ -362,7 +362,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Kiwi por Kg",
-    "precio": 139.0,
+    "precio": 99.0,
     "unidad": "kg"
   },
   {
@@ -434,7 +434,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Amarillo por kg",
-    "precio": 98.5,
+    "precio": 49.9,
     "unidad": "kg"
   },
   {
@@ -542,7 +542,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Frambuesa Domo 170g",
-    "precio": 48.5,
+    "precio": 49.5,
     "unidad": "un"
   },
   {
@@ -638,7 +638,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Naranja por kg",
-    "precio": 99.0,
+    "precio": 49.9,
     "unidad": "kg"
   },
   {
@@ -836,7 +836,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Güero por Kg",
-    "precio": 89.5,
+    "precio": 24.9,
     "unidad": "kg"
   },
   {
@@ -878,7 +878,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Cebolla Amarilla por kg",
-    "precio": 34.5,
+    "precio": 24.9,
     "unidad": "kg"
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Local Granel kg",
-    "precio": 35.5,
+    "precio": 55.0,
     "unidad": "kg"
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Naranja Agria kg",
-    "precio": 57.0,
+    "precio": 42.0,
     "unidad": "kg"
   },
   {
@@ -1436,7 +1436,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Lechuga Eva Trio Viva 1 Pieza",
-    "precio": 46.9,
+    "precio": 41.9,
     "unidad": "un"
   },
   {
@@ -1808,7 +1808,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Castilla por kg",
-    "precio": 48.0,
+    "precio": 14.5,
     "unidad": "kg"
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Coco Diamante A de Coco 1 Pieza",
-    "precio": 74.9,
+    "precio": 35.0,
     "unidad": "un"
   },
   {
@@ -2024,7 +2024,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Anaheim por Kg",
-    "precio": 84.9,
+    "precio": 49.9,
     "unidad": "kg"
   },
   {
