@@ -68,7 +68,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Tomate Verde por kg",
-    "precio": 34.9,
+    "precio": 32.9,
     "unidad": "kg"
   },
   {
@@ -146,7 +146,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Melón Chino por Kg",
-    "precio": 18.9,
+    "precio": 14.9,
     "unidad": "kg"
   },
   {
@@ -164,7 +164,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Uva Globo Emperador por kg",
-    "precio": 47.9,
+    "precio": 39.8,
     "unidad": "kg"
   },
   {
@@ -368,7 +368,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Ajo Enmallado por pieza",
-    "precio": 46.9,
+    "precio": 36.9,
     "unidad": "un"
   },
   {
@@ -488,7 +488,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Tomate Bola por kg",
-    "precio": 46.5,
+    "precio": 19.9,
     "unidad": "kg"
   },
   {
@@ -830,7 +830,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Local Granel kg",
-    "precio": 55.0,
+    "precio": 58.0,
     "unidad": "kg"
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Granada Roja por kg",
-    "precio": 69.0,
+    "precio": 68.0,
     "unidad": "kg"
   },
   {
@@ -1562,7 +1562,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Perejil Chino Rollo",
-    "precio": 13.9,
+    "precio": 19.9,
     "unidad": "un"
   },
   {
@@ -2156,7 +2156,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Hinojo Fresco Tiempo de Cosecha 50g",
-    "precio": 43.5,
+    "precio": 43.0,
     "unidad": "un"
   },
   {
@@ -2462,7 +2462,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Alfalfa Fresca Kg",
-    "precio": 13.9,
+    "precio": 6.9,
     "unidad": "un"
   },
   {
