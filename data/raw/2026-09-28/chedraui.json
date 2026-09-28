@@ -26,7 +26,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Plátano Chiapas por Kg",
-    "precio": 26.0,
+    "precio": 24.9,
     "unidad": "kg"
   },
   {
@@ -56,7 +56,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Jalapeño por Kg",
-    "precio": 32.5,
+    "precio": 9.7,
     "unidad": "kg"
   },
   {
@@ -68,13 +68,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pepino Verde por Kg",
-    "precio": 16.9,
+    "precio": 17.5,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Chayote sin Espinas por kg",
-    "precio": 24.9,
+    "precio": 19.9,
     "unidad": "kg"
   },
   {
@@ -86,7 +86,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Cebolla Blanca por kg",
-    "precio": 62.0,
+    "precio": 62.9,
     "unidad": "kg"
   },
   {
@@ -98,7 +98,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Limón Colima por Kg",
-    "precio": 44.0,
+    "precio": 32.0,
     "unidad": "kg"
   },
   {
@@ -128,7 +128,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Guayaba por Kg",
-    "precio": 76.9,
+    "precio": 52.9,
     "unidad": "kg"
   },
   {
@@ -152,7 +152,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Nopal por kg",
-    "precio": 32.0,
+    "precio": 29.9,
     "unidad": "kg"
   },
   {
@@ -170,13 +170,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Limón Eureka Paramount kg",
-    "precio": 53.5,
+    "precio": 34.9,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Verde por kg",
-    "precio": 65.5,
+    "precio": 49.9,
     "unidad": "kg"
   },
   {
@@ -200,13 +200,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Cebolla Amarilla por kg",
-    "precio": 40.58,
+    "precio": 38.9,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Cebolla Morada por kg",
-    "precio": 73.5,
+    "precio": 70.0,
     "unidad": "kg"
   },
   {
@@ -254,7 +254,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pera Mantequilla por Kg",
-    "precio": 59.0,
+    "precio": 52.0,
     "unidad": "kg"
   },
   {
@@ -266,7 +266,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Ciruela por kg",
-    "precio": 99.0,
+    "precio": 94.0,
     "unidad": "kg"
   },
   {
@@ -320,7 +320,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Uva Verde por kg",
-    "precio": 88.9,
+    "precio": 69.9,
     "unidad": "kg"
   },
   {
@@ -332,7 +332,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Mandarina por Kg",
-    "precio": 54.9,
+    "precio": 59.9,
     "unidad": "kg"
   },
   {
@@ -368,7 +368,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Habanero Naranja por kg",
-    "precio": 118.5,
+    "precio": 165.0,
     "unidad": "kg"
   },
   {
@@ -440,13 +440,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Criolla por Kg",
-    "precio": 35.9,
+    "precio": 41.5,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Tomatillo por kg",
-    "precio": 39.9,
+    "precio": 14.9,
     "unidad": "kg"
   },
   {
@@ -470,7 +470,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Durazno Rojo por Kg",
-    "precio": 147.5,
+    "precio": 69.0,
     "unidad": "kg"
   },
   {
@@ -488,7 +488,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Jengibre por kg",
-    "precio": 80.5,
+    "precio": 81.9,
     "unidad": "kg"
   },
   {
@@ -554,7 +554,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Naranja por kg",
-    "precio": 67.9,
+    "precio": 59.0,
     "unidad": "kg"
   },
   {
@@ -626,7 +626,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Lechuga Fresh Garden Sucrine 3 Piezas 500g",
-    "precio": 61.5,
+    "precio": 9.9,
     "unidad": "un"
   },
   {
@@ -776,7 +776,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Local Granel kg",
-    "precio": 58.0,
+    "precio": 55.0,
     "unidad": "kg"
   },
   {
@@ -925,6 +925,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Blue Berry Tamaño Jumbo 278g",
+    "precio": 129.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Papa Blanca Malla pza",
     "precio": 49.5,
     "unidad": "un"
@@ -1064,7 +1070,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Melón Amarillo por Kg",
-    "precio": 31.9,
+    "precio": 25.9,
     "unidad": "kg"
   },
   {
@@ -1304,7 +1310,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Jitomate Baby Tom Campo Vivo Orgánico 180g",
-    "precio": 44.5,
+    "precio": 9.9,
     "unidad": "un"
   },
   {
@@ -1328,13 +1334,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Xcatic por Kg",
-    "precio": 165.0,
+    "precio": 14.9,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Chile Dulce kg",
-    "precio": 155.0,
+    "precio": 14.9,
     "unidad": "kg"
   },
   {
@@ -1537,6 +1543,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Mini Pepino Persa Campo Vivo Orgánico 400g",
+    "precio": 52.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Germinado de Alfalfa 240g",
     "precio": 62.0,
     "unidad": "un"
@@ -1550,7 +1562,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Jitomate Saladet Campo Vivo Orgánico 450g",
-    "precio": 49.9,
+    "precio": 9.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Aguacate Campo Vivo Orgánico 450 g",
+    "precio": 89.9,
     "unidad": "un"
   },
   {
@@ -1682,7 +1700,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Naranja en Arpilla 5kg",
-    "precio": 174.5,
+    "precio": 226.0,
     "unidad": "un"
   },
   {
@@ -2197,6 +2215,12 @@
   },
   {
     "tienda": "Chedraui",
+    "nombre": "Uva Moon Drops kg",
+    "precio": 69.9,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
     "nombre": "Uva Roja Domo 908g",
     "precio": 64.5,
     "unidad": "un"
@@ -2541,24 +2565,6 @@
     "tienda": "Chedraui",
     "nombre": "Calabaza Monstruos Kg",
     "precio": 105.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Naranja Blood Orange en Malla Fresh Garden 908g",
-    "precio": 89.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Papa Russet en Bolsa 1.3kg",
-    "precio": 54.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Tomate Golden Berry Clamshell 170g",
-    "precio": 89.9,
     "unidad": "un"
   }
 ]

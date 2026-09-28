@@ -8585,181 +8585,93 @@ fecha,producto,tienda,precio,nombre_original,unidad
 2026-09-27,zanahoria,Chedraui,14.9,Zanahoria por kg,kg
 2026-09-27,zarzamora,Chedraui,48.5,Zarzamora por Pieza,un
 2026-09-28,acelga,Chedraui,9.9,Acelgas Rollo,un
-2026-09-28,acelga,Comer,11.9,Acelga,pza
 2026-09-28,aguacate,Chedraui,44.5,Aguacate Chiapas por Kg,kg
-2026-09-28,aguacate,Comer,59.9,Aguacate Hass,kg
 2026-09-28,ajo,Chedraui,138.5,Ajo por Kg,kg
-2026-09-28,ajo,Comer,298.0,Ajo Italiano 4639 1,kg
 2026-09-28,alcachofa,Chedraui,99.9,Alcachofa Microondas Nutribits Bolsa 2 Piezas,un
-2026-09-28,alcachofa,Comer,198.0,Alcachofa,kg
 2026-09-28,alfalfa,Chedraui,13.9,Alfalfa Fresca Kg,un
-2026-09-28,alfalfa,Comer,19.4,Alfalfa Fresca,pza
 2026-09-28,apio,Chedraui,26.9,Apio por kg,kg
-2026-09-28,apio,Comer,28.9,Apio,kg
 2026-09-28,berenjena,Chedraui,64.9,Berenjena por Kg,kg
-2026-09-28,berenjena,Comer,79.9,Berenjena,kg
 2026-09-28,betabel,Chedraui,24.5,Betabel Cambray con Rabo,kg
-2026-09-28,betabel,Comer,36.9,Betabel,kg
 2026-09-28,brocoli,Chedraui,46.9,Brócoli por Kg,kg
-2026-09-28,brocoli,Comer,49.9,Brocoli,kg
 2026-09-28,camote,Chedraui,44.5,Camote Amarillo por kg,kg
-2026-09-28,camote,Comer,110.0,Camote Naranja Importado,kg
-2026-09-28,cana_azucar,Comer,26.2,Caña,kg
-2026-09-28,cebolla_blanca,Chedraui,62.0,Cebolla Blanca por kg,kg
-2026-09-28,cebolla_blanca,Comer,62.9,Cebolla Blanca,kg
+2026-09-28,cebolla_blanca,Chedraui,62.9,Cebolla Blanca por kg,kg
 2026-09-28,cebolla_cambray,Chedraui,10.8,Cebolla de Cambray por Manojo,un
-2026-09-28,cebolla_cambray,Comer,12.9,Cebolla Cambray,pza
-2026-09-28,cebolla_morada,Chedraui,73.5,Cebolla Morada por kg,kg
-2026-09-28,cebolla_morada,Comer,69.9,Cebolla Morada,kg
+2026-09-28,cebolla_morada,Chedraui,70.0,Cebolla Morada por kg,kg
 2026-09-28,cebollin,Chedraui,9.5,Cebollín por Pieza,un
 2026-09-28,cereza,Chedraui,125.0,Cereza Natural kg,kg
-2026-09-28,cereza,Comer,201.5,Cereza,kg
-2026-09-28,chayote,Chedraui,24.9,Chayote sin Espinas por kg,kg
-2026-09-28,chayote,Comer,26.9,Chayote Sin Espinas,kg
+2026-09-28,chayote,Chedraui,19.9,Chayote sin Espinas por kg,kg
 2026-09-28,chicharo,Chedraui,59.5,Chícharo por kg,kg
-2026-09-28,chicharo,Comer,190.0,Brote De Chicharo,grs
-2026-09-28,chile_chilaca,Comer,92.3,Chilaca,kg
 2026-09-28,chile_arbol,Chedraui,120.5,Chile de Árbol por Kg,kg
-2026-09-28,chile_arbol,Comer,179.9,Chile Verde De Arbol,kg
 2026-09-28,chile_guero,Chedraui,65.9,Chile Güero por Kg,kg
-2026-09-28,chile_guero,Comer,79.9,Chile Hungaro,kg
 2026-09-28,chile_habanero,Chedraui,99.0,Chile Habanero por Kg,kg
-2026-09-28,chile_habanero,Comer,149.0,Chile Habanero,kg
 2026-09-28,chile_poblano,Chedraui,56.0,Chile Poblano por Kg,kg
-2026-09-28,chile_poblano,Comer,59.9,Chile Poblano,kg
 2026-09-28,chile_serrano,Chedraui,49.9,Chile Serrano por Kg,kg
-2026-09-28,chile_serrano,Comer,49.9,Chile Serrano,kg
 2026-09-28,cilantro,Chedraui,9.9,Cilantro Rollo,un
-2026-09-28,cilantro,Comer,79.9,Germen De Cilantro,kg
 2026-09-28,ciruela_moscatel,Chedraui,74.5,Ciruela Moscatel Kg,kg
-2026-09-28,ciruela_moscatel,Comer,79.9,Ciruela Moscatel,kg
 2026-09-28,ciruela_roja,Chedraui,59.9,Ciruela con Hueso por kg,kg
-2026-09-28,ciruela_roja,Comer,110.0,Ciruela Nubiana,kg
 2026-09-28,col_blanca,Chedraui,19.9,Col Blanca por kg,kg
-2026-09-28,col_blanca,Comer,32.9,Col Blanca,kg
 2026-09-28,coliflor,Chedraui,33.5,Floretes de Coliflor Mr. Lucky 454g,un
-2026-09-28,coliflor,Comer,45.9,Coliflor,pza
 2026-09-28,durazno_amarillo,Chedraui,120.0,Durazno Amarillo kg,kg
-2026-09-28,durazno_rojo,Chedraui,147.5,Durazno Rojo por Kg,kg
+2026-09-28,durazno_rojo,Chedraui,69.0,Durazno Rojo por Kg,kg
 2026-09-28,ejote,Chedraui,44.9,Ejote por kg,kg
-2026-09-28,ejote,Comer,59.9,Ejote Verde,kg
 2026-09-28,elote,Chedraui,68.5,Grano de Elote por kg,kg
-2026-09-28,elote,Comer,90.0,Grano De Elote,kg
 2026-09-28,epazote,Chedraui,13.5,Epazote Rollo,un
-2026-09-28,epazote,Comer,23.5,Epazote,pza
 2026-09-28,esparrago,Chedraui,149.0,Esparrago Verde 454g,un
-2026-09-28,esparrago,Comer,307.7,Esparrago Morado,kg
 2026-09-28,espinaca,Chedraui,9.9,Espinacas Rollo,un
-2026-09-28,espinaca,Comer,11.9,Espinaca,pza
 2026-09-28,frambuesa,Chedraui,58.5,Frambuesa Domo 170g,un
 2026-09-28,fresa,Chedraui,79.0,Fresa Domo 454g,un
-2026-09-28,fresa,Comer,89.9,Fresa,pza
 2026-09-28,germen_soya,Chedraui,49.9,Germen de Soya por kg,kg
-2026-09-28,germen_soya,Comer,55.4,Germen De Soya,kg
-2026-09-28,guanabana,Comer,104.0,Guanabana,kg
-2026-09-28,guayaba,Chedraui,69.5,Guayaba Clamshell kg,kg
-2026-09-28,guayaba,Comer,59.9,Guayaba,kg
+2026-09-28,guayaba,Chedraui,52.9,Guayaba por Kg,kg
 2026-09-28,hierbabuena,Chedraui,20.9,Hierbabuena Alfavid 30g,un
-2026-09-28,hierbabuena,Comer,21.7,Hierbabuena,pza
 2026-09-28,jamaica,Chedraui,190.0,Jamaica por kg,kg
-2026-09-28,jamaica,Comer,77.1,Jamaica Organica,grs
-2026-09-28,jengibre,Chedraui,80.5,Jengibre por kg,kg
-2026-09-28,jengibre,Comer,198.0,Jengibre,kg
+2026-09-28,jengibre,Chedraui,81.9,Jengibre por kg,kg
 2026-09-28,jicama,Chedraui,32.0,Jícama por Kg,kg
-2026-09-28,jicama,Comer,36.9,Jicama,kg
 2026-09-28,jitomate_saladet,Chedraui,29.0,Tomate Saladet por kg,kg
-2026-09-28,jitomate_saladet,Comer,29.9,Jitomate Saladet,kg
 2026-09-28,jitomate_bola,Chedraui,39.9,Tomate Bola por kg,kg
-2026-09-28,jitomate_bola,Comer,59.9,Jitomate Bola,kg
 2026-09-28,kiwi,Chedraui,99.0,Kiwi por Kg,kg
-2026-09-28,kiwi,Comer,120.0,Kiwi,kg
 2026-09-28,lechuga_orejona,Chedraui,24.5,Lechuga Larga Pieza,un
-2026-09-28,lechuga_orejona,Comer,24.9,Lechuga Orejona,pza
 2026-09-28,lechuga_romana,Chedraui,16.9,Lechuga Romana Pieza,un
-2026-09-28,lechuga_romana,Comer,19.9,Lechuga Romana,pza
 2026-09-28,lechuga_sangria,Chedraui,19.5,Lechuga Sangría Pieza,un
-2026-09-28,lechuga_sangria,Comer,23.9,Lechuga Sangria,pza
 2026-09-28,limon,Chedraui,29.9,Limón sin Semilla por Kg,kg
-2026-09-28,limon,Comer,36.9,Limon Sin Semilla,kg
 2026-09-28,mamey,Chedraui,51.5,Mamey por Kg,kg
-2026-09-28,mamey,Comer,69.9,Mamey,kg
-2026-09-28,mandarina,Chedraui,54.9,Mandarina por Kg,kg
-2026-09-28,mandarina,Comer,59.9,Mandarina En Malla,grs
+2026-09-28,mandarina,Chedraui,59.9,Mandarina por Kg,kg
 2026-09-28,mango_ataulfo,Chedraui,75.99,Mango Ataulfo por Kg,kg
-2026-09-28,mango_ataulfo,Comer,98.5,Mango Ataulfo,kg
 2026-09-28,mango_manila,Chedraui,55.5,Mango Manila por Kg,kg
-2026-09-28,mango_manila,Comer,98.5,Mango Manila,kg
 2026-09-28,mango_paraiso,Chedraui,48.9,Mango Paraíso por Kg,kg
-2026-09-28,mango_paraiso,Comer,79.9,Mango Paraiso,kg
 2026-09-28,manzana_golden,Chedraui,44.0,Manzana Golden Chica en Bolsa por Kg,kg
-2026-09-28,manzana_golden,Comer,59.9,Manzana Golden Nacional,kg
 2026-09-28,manzana_granny,Chedraui,64.5,Manzana Granny Smith en Bolsa por kg,kg
-2026-09-28,manzana_granny,Comer,69.9,Manzana Granny,kg
 2026-09-28,manzana_roja,Chedraui,52.9,Manzana Roja Chica en Bolsa por Kg,kg
 2026-09-28,manzana_royal_gala,Chedraui,44.0,Manzana Royal Gala en Bolsa por kg,kg
-2026-09-28,manzana_royal_gala,Comer,59.9,Manzana Royal Gala Bolsa,kg
-2026-09-28,mejorana,Comer,16.9,Mejorana,pza
-2026-09-28,melon_amarillo,Chedraui,31.9,Melón Amarillo por Kg,kg
+2026-09-28,melon_amarillo,Chedraui,25.9,Melón Amarillo por Kg,kg
 2026-09-28,melon_chino,Chedraui,34.0,Melón Chino por Kg,kg
-2026-09-28,melon_chino,Comer,34.9,Melon Chino,kg
 2026-09-28,naranja,Chedraui,41.0,Naranja Agria kg,kg
-2026-09-28,naranja,Comer,44.9,Naranja Valencia,kg
-2026-09-28,nopal_entero,Chedraui,32.0,Nopal por kg,kg
-2026-09-28,nopal_entero,Comer,36.9,Nopal,kg
+2026-09-28,nopal_entero,Chedraui,29.9,Nopal por kg,kg
 2026-09-28,nopal_picado,Chedraui,49.9,Nopal Picado Granel Kg,kg
-2026-09-28,nopal_picado,Comer,42.9,Nopal Picado,kg
 2026-09-28,papa_blanca,Chedraui,49.0,Papa Blanca por kg,kg
-2026-09-28,papa_blanca,Comer,52.9,Papa Blanca,kg
 2026-09-28,papa_cambray,Chedraui,47.5,Papa Cambray por kg,kg
-2026-09-28,papa_cambray,Comer,59.9,Papa Cambray,kg
 2026-09-28,papaya,Chedraui,39.0,Papaya Maradol por kg,kg
-2026-09-28,papaya,Comer,39.9,Papaya Maradol,kg
-2026-09-28,pepino,Chedraui,16.9,Pepino Verde por Kg,kg
-2026-09-28,pepino,Comer,24.9,Pepino Americano,kg
-2026-09-28,pera_danjou,Comer,69.9,Pera De Anjou,kg
-2026-09-28,pera_mantequilla,Chedraui,59.0,Pera Mantequilla por Kg,kg
+2026-09-28,pepino,Chedraui,17.5,Pepino Verde por Kg,kg
+2026-09-28,pera_mantequilla,Chedraui,52.0,Pera Mantequilla por Kg,kg
 2026-09-28,perejil,Chedraui,7.9,Perejil Liso Rollo,un
-2026-09-28,perejil,Comer,12.9,Perejil,pza
 2026-09-28,pimiento_amarillo,Chedraui,89.5,Pimiento Amarillo por kg,kg
-2026-09-28,pimiento_amarillo,Comer,79.9,Pimiento Amarillo,kg
-2026-09-28,pimiento_naranja,Chedraui,67.9,Pimiento Naranja por kg,kg
-2026-09-28,pimiento_naranja,Comer,79.9,Pimiento Naranja,kg
+2026-09-28,pimiento_naranja,Chedraui,59.0,Pimiento Naranja por kg,kg
 2026-09-28,pimiento_rojo,Chedraui,65.9,Pimiento Rojo por kg,kg
-2026-09-28,pimiento_rojo,Comer,79.9,Pimiento Rojo,kg
-2026-09-28,pimiento_verde,Chedraui,65.5,Pimiento Verde por kg,kg
-2026-09-28,pimiento_verde,Comer,79.9,Pimiento Verde,kg
+2026-09-28,pimiento_verde,Chedraui,49.9,Pimiento Verde por kg,kg
 2026-09-28,pina,Chedraui,36.0,Piña Gota Miel por Kg,kg
-2026-09-28,pina,Comer,39.9,Piña Miel,kg
 2026-09-28,pitahaya,Chedraui,74.9,Pitahaya Granel kg,kg
-2026-09-28,pitahaya,Comer,198.0,Pitahaya,kg
-2026-09-28,platano_chiapas,Chedraui,26.0,Plátano Chiapas por Kg,kg
-2026-09-28,platano_chiapas,Comer,29.9,Platano Tabasco,kg
+2026-09-28,platano_chiapas,Chedraui,24.9,Plátano Chiapas por Kg,kg
 2026-09-28,platano_macho,Chedraui,34.9,Plátano Macho por Kg,kg
-2026-09-28,platano_macho,Comer,59.9,Platano Macho,kg
 2026-09-28,rabano,Chedraui,18.5,Rábano Largo Rollo,un
-2026-09-28,rabano,Comer,32.3,Rabano Grande,kg
 2026-09-28,sandia,Chedraui,19.0,Sandia Blanca Rayada por Kg,kg
-2026-09-28,sandia,Comer,26.9,Sandia Roja,kg
 2026-09-28,te_limon,Chedraui,14.9,Té de Limón Manojo por Pieza,un
-2026-09-28,te_limon,Comer,18.5,Te De Limon,pza
 2026-09-28,tomate_cherry,Chedraui,21.0,Tomates Uva y Cherry NatureSweet Constellation to Go 71g,un
 2026-09-28,tomate_verde,Chedraui,36.9,Tomate Verde por kg,kg
-2026-09-28,tomate_verde,Comer,29.2,Tomate Verde Con Cascara 4639 1,kg
 2026-09-28,tomillo,Chedraui,43.5,Tomillo Fresco Tiempo de Cosecha 50g,un
-2026-09-28,tomillo,Comer,17.7,Tomillo,pza
 2026-09-28,toronja,Chedraui,29.9,Toronja por Kg,kg
-2026-09-28,toronja,Comer,38.9,Toronja Sangria,kg
-2026-09-28,uva_blanca,Comer,99.9,Uva Blanca Sin Semilla,kg
 2026-09-28,uva_globo,Chedraui,68.5,Uva Globo Emperador por kg,kg
 2026-09-28,uva_roja,Chedraui,82.9,Uva Roja sin Semilla por Kg,kg
-2026-09-28,uva_roja,Comer,129.0,Uva Roja Sin Semilla,kg
-2026-09-28,uva_verde,Chedraui,88.9,Uva Verde por kg,kg
+2026-09-28,uva_verde,Chedraui,69.9,Uva Verde por kg,kg
 2026-09-28,verdolaga,Chedraui,27.9,Verdolaga por kg,kg
-2026-09-28,verdolaga,Comer,23.9,Verdolaga,pza
-2026-09-28,yaca,Comer,44.6,Yaca,kg
 2026-09-28,yuca,Chedraui,41.0,Yuca Granel kg,kg
-2026-09-28,yuca,Comer,75.4,Yuca,kg
 2026-09-28,zanahoria,Chedraui,14.9,Zanahoria por kg,kg
-2026-09-28,zanahoria,Comer,21.9,Zanahoria,kg
 2026-09-28,zarzamora,Chedraui,48.5,Zarzamora por Pieza,un
-2026-09-28,zarzamora,Comer,69.9,Zarzamora,pza
