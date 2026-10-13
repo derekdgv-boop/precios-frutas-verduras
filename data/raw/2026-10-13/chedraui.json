@@ -56,7 +56,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Jalapeño por Kg",
-    "precio": 39.9,
+    "precio": 6.7,
     "unidad": "kg"
   },
   {
@@ -86,7 +86,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Limón Colima por Kg",
-    "precio": 34.9,
+    "precio": 32.0,
     "unidad": "kg"
   },
   {
@@ -104,7 +104,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Habanero por Kg",
-    "precio": 99.0,
+    "precio": 89.9,
     "unidad": "kg"
   },
   {
@@ -248,7 +248,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Royal Gala por Kg",
-    "precio": 59.0,
+    "precio": 44.8,
     "unidad": "kg"
   },
   {
@@ -272,7 +272,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Mandarina por Kg",
-    "precio": 67.9,
+    "precio": 65.0,
     "unidad": "kg"
   },
   {
@@ -332,13 +332,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Uva Verde por kg",
-    "precio": 96.0,
+    "precio": 79.0,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Durazno Rojo por Kg",
-    "precio": 139.9,
+    "precio": 99.0,
     "unidad": "kg"
   },
   {
@@ -422,7 +422,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Apio por kg",
-    "precio": 29.5,
+    "precio": 28.9,
     "unidad": "kg"
   },
   {
@@ -434,13 +434,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Castilla por kg",
-    "precio": 20.5,
+    "precio": 20.0,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Criolla por Kg",
-    "precio": 35.9,
+    "precio": 41.5,
     "unidad": "kg"
   },
   {
@@ -584,7 +584,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Sweet Peppers 3 Piezas",
-    "precio": 64.5,
+    "precio": 60.9,
     "unidad": "un"
   },
   {
@@ -614,13 +614,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Mamey por Kg",
-    "precio": 56.5,
+    "precio": 54.5,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Sandia Blanca Rayada por Kg",
-    "precio": 18.8,
+    "precio": 18.9,
     "unidad": "kg"
   },
   {
@@ -674,7 +674,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Coliflor Pre Enfriada Pieza",
-    "precio": 39.5,
+    "precio": 59.8,
     "unidad": "un"
   },
   {
@@ -686,7 +686,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Royal Gala en Bolsa por kg",
-    "precio": 44.0,
+    "precio": 57.5,
     "unidad": "kg"
   },
   {
@@ -722,7 +722,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Lechuga Hidropónica Fresh Garden Italiana 1 Pieza",
-    "precio": 38.9,
+    "precio": 9.9,
     "unidad": "un"
   },
   {
@@ -872,7 +872,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Col Morada por kg",
-    "precio": 24.9,
+    "precio": 25.5,
     "unidad": "kg"
   },
   {
@@ -1442,7 +1442,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Lechuga Sangría Pieza",
-    "precio": 16.5,
+    "precio": 19.5,
     "unidad": "un"
   },
   {
@@ -1563,6 +1563,12 @@
     "tienda": "Chedraui",
     "nombre": "Uva Verde Domo Pz",
     "precio": 110.0,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Zanahoria Campo Vivo Orgánica Bolsa 450g",
+    "precio": 37.0,
     "unidad": "un"
   },
   {
@@ -1690,6 +1696,12 @@
     "nombre": "Chile Chedraui Mulato Bolsa 100g",
     "precio": 29.5,
     "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Hongo Portobello por Kg",
+    "precio": 150.9,
+    "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
@@ -1826,7 +1838,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Jitomate Saladet Campo Vivo Orgánico 450g",
-    "precio": 49.9,
+    "precio": 14.5,
     "unidad": "un"
   },
   {
@@ -1892,7 +1904,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Elote Cocido Los Aztecas 2 Pieza",
-    "precio": 44.5,
+    "precio": 9.9,
     "unidad": "un"
   },
   {
@@ -2042,7 +2054,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Espinaca Freshly 200g",
-    "precio": 36.5,
+    "precio": 12.9,
     "unidad": "un"
   },
   {
@@ -2571,18 +2583,6 @@
     "tienda": "Chedraui",
     "nombre": "Mix de Frutas Rancho Tierra Generosa 650g (4 unidades)",
     "precio": 59.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Plumcot Family Tree Flavor Gator 454g",
-    "precio": 84.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Manzanas Mix Chumis 6 Manzanas",
-    "precio": 67.5,
     "unidad": "un"
   }
 ]
