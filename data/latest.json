@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-18",
+  "fecha": "2026-10-19",
   "productos": {
     "acelga": {
       "nombre_producto": "Acelga",
@@ -133,7 +133,7 @@
     "betabel": {
       "nombre_producto": "Betabel",
       "Chedraui": {
-        "precio": 12.5,
+        "precio": 24.5,
         "nombre": "Betabel Cambray con Rabo",
         "unidad": "kg"
       },
@@ -180,8 +180,8 @@
     "camote": {
       "nombre_producto": "Camote",
       "Chedraui": {
-        "precio": 44.5,
-        "nombre": "Camote Amarillo por kg",
+        "precio": 58.0,
+        "nombre": "Camote Morado por kg",
         "unidad": "kg"
       },
       "HEB": {
@@ -252,7 +252,7 @@
     "cebolla_morada": {
       "nombre_producto": "Cebolla Morada",
       "Chedraui": {
-        "precio": 67.9,
+        "precio": 39.9,
         "nombre": "Cebolla Morada por kg",
         "unidad": "kg"
       },
@@ -287,11 +287,6 @@
     },
     "cereza": {
       "nombre_producto": "Cereza",
-      "Chedraui": {
-        "precio": 125.0,
-        "nombre": "Cereza Natural kg",
-        "unidad": "kg"
-      },
       "HEB": {
         "precio": 209.0,
         "nombre": "Cereza Rainier Granel 1 Kg",
@@ -436,7 +431,7 @@
     "chile_poblano": {
       "nombre_producto": "Chile Poblano",
       "Chedraui": {
-        "precio": 59.9,
+        "precio": 64.8,
         "nombre": "Chile Poblano por Kg",
         "unidad": "kg"
       },
@@ -573,7 +568,7 @@
     "durazno_rojo": {
       "nombre_producto": "Durazno Rojo",
       "Chedraui": {
-        "precio": 103.9,
+        "precio": 104.0,
         "nombre": "Durazno Rojo por Kg",
         "unidad": "kg"
       }
@@ -777,7 +772,7 @@
     "jengibre": {
       "nombre_producto": "Jengibre",
       "Chedraui": {
-        "precio": 99.0,
+        "precio": 79.9,
         "nombre": "Jengibre por kg",
         "unidad": "kg"
       },
@@ -1018,7 +1013,7 @@
     "manzana_granny": {
       "nombre_producto": "Manzana Granny Smith",
       "Chedraui": {
-        "precio": 32.8,
+        "precio": 72.9,
         "nombre": "Manzana Granny Smith por Kg",
         "unidad": "kg"
       },
@@ -1036,8 +1031,8 @@
     "manzana_roja": {
       "nombre_producto": "Manzana Roja",
       "Chedraui": {
-        "precio": 40.0,
-        "nombre": "Manzana Roja Chica en Bolsa por Kg",
+        "precio": 59.9,
+        "nombre": "Manzana Roja Mediana por Kg",
         "unidad": "kg"
       }
     },
@@ -1101,7 +1096,7 @@
     "naranja": {
       "nombre_producto": "Naranja",
       "Chedraui": {
-        "precio": 42.0,
+        "precio": 41.0,
         "nombre": "Naranja Agria kg",
         "unidad": "kg"
       },
@@ -1119,7 +1114,7 @@
     "nopal_entero": {
       "nombre_producto": "Nopal Entero",
       "Chedraui": {
-        "precio": 32.9,
+        "precio": 41.9,
         "nombre": "Nopal por kg",
         "unidad": "kg"
       },
@@ -1150,7 +1145,7 @@
     "papa_blanca": {
       "nombre_producto": "Papa Blanca",
       "Chedraui": {
-        "precio": 47.0,
+        "precio": 49.9,
         "nombre": "Papa Blanca por kg",
         "unidad": "kg"
       },
@@ -1230,7 +1225,7 @@
     "pera_mantequilla": {
       "nombre_producto": "Pera Mantequilla",
       "Chedraui": {
-        "precio": 80.9,
+        "precio": 64.7,
         "nombre": "Pera Mantequilla por Kg",
         "unidad": "kg"
       }
@@ -1328,7 +1323,7 @@
     "pina": {
       "nombre_producto": "Piña",
       "Chedraui": {
-        "precio": 30.0,
+        "precio": 32.9,
         "nombre": "Piña Gota Miel por Kg",
         "unidad": "kg"
       },
@@ -1364,7 +1359,7 @@
     "platano_chiapas": {
       "nombre_producto": "Plátano",
       "Chedraui": {
-        "precio": 18.0,
+        "precio": 26.9,
         "nombre": "Plátano Chiapas por Kg",
         "unidad": "kg"
       },
@@ -1426,7 +1421,7 @@
     "sandia": {
       "nombre_producto": "Sandía",
       "Chedraui": {
-        "precio": 18.9,
+        "precio": 19.4,
         "nombre": "Sandia Blanca Rayada por Kg",
         "unidad": "kg"
       },
@@ -1483,7 +1478,7 @@
     "tomate_verde": {
       "nombre_producto": "Tomate Verde",
       "Chedraui": {
-        "precio": 43.0,
+        "precio": 54.9,
         "nombre": "Tomate Verde por kg",
         "unidad": "kg"
       },
@@ -1514,7 +1509,7 @@
     "toronja": {
       "nombre_producto": "Toronja",
       "Chedraui": {
-        "precio": 28.9,
+        "precio": 29.9,
         "nombre": "Toronja por Kg",
         "unidad": "kg"
       },
@@ -1545,7 +1540,7 @@
     "uva_globo": {
       "nombre_producto": "Uva Globo",
       "Chedraui": {
-        "precio": 32.8,
+        "precio": 132.5,
         "nombre": "Uva Globo Emperador por kg",
         "unidad": "kg"
       }
@@ -1571,7 +1566,7 @@
     "uva_verde": {
       "nombre_producto": "Uva Verde",
       "Chedraui": {
-        "precio": 115.9,
+        "precio": 78.9,
         "nombre": "Uva Verde por kg",
         "unidad": "kg"
       }
@@ -1605,7 +1600,7 @@
     "yuca": {
       "nombre_producto": "Yuca",
       "Chedraui": {
-        "precio": 49.0,
+        "precio": 41.0,
         "nombre": "Yuca Granel kg",
         "unidad": "kg"
       },
@@ -1676,7 +1671,7 @@
       },
       {
         "nombre": "Aguacate Hass Enmallado Pieza",
-        "precio": 24.5,
+        "precio": 30.9,
         "unidad": "un"
       },
       {
@@ -1701,7 +1696,7 @@
       },
       {
         "nombre": "Ajo Enmallado por pieza",
-        "precio": 57.9,
+        "precio": 44.5,
         "unidad": "un"
       },
       {
@@ -1780,8 +1775,13 @@
         "unidad": "un"
       },
       {
+        "nombre": "Berzas Pieza",
+        "precio": 22.5,
+        "unidad": "un"
+      },
+      {
         "nombre": "Betabel Cambray con Rabo",
-        "precio": 12.5,
+        "precio": 24.5,
         "unidad": "kg"
       },
       {
@@ -1791,7 +1791,7 @@
       },
       {
         "nombre": "Betabel por Kg",
-        "precio": 28.9,
+        "precio": 28.5,
         "unidad": "kg"
       },
       {
@@ -1866,7 +1866,7 @@
       },
       {
         "nombre": "Calabaza Italiana por Kg",
-        "precio": 39.9,
+        "precio": 44.5,
         "unidad": "kg"
       },
       {
@@ -1881,12 +1881,12 @@
       },
       {
         "nombre": "Calabaza Spaghetti kg",
-        "precio": 87.9,
+        "precio": 39.9,
         "unidad": "kg"
       },
       {
         "nombre": "Camote Amarillo por kg",
-        "precio": 44.5,
+        "precio": 64.9,
         "unidad": "kg"
       },
       {
@@ -1931,7 +1931,7 @@
       },
       {
         "nombre": "Cebolla Morada por kg",
-        "precio": 67.9,
+        "precio": 39.9,
         "unidad": "kg"
       },
       {
@@ -1943,11 +1943,6 @@
         "nombre": "Cebollín por Pieza",
         "precio": 13.5,
         "unidad": "un"
-      },
-      {
-        "nombre": "Cereza Natural kg",
-        "precio": 125.0,
-        "unidad": "kg"
       },
       {
         "nombre": "Chalot Granel Kg",
@@ -2016,7 +2011,7 @@
       },
       {
         "nombre": "Chicozapote por Kg",
-        "precio": 77.5,
+        "precio": 66.9,
         "unidad": "kg"
       },
       {
@@ -2076,7 +2071,7 @@
       },
       {
         "nombre": "Chile Poblano por Kg",
-        "precio": 59.9,
+        "precio": 64.8,
         "unidad": "kg"
       },
       {
@@ -2116,7 +2111,7 @@
       },
       {
         "nombre": "Coco Diamante A de Coco 1 Pieza",
-        "precio": 39.9,
+        "precio": 19.9,
         "unidad": "un"
       },
       {
@@ -2150,6 +2145,11 @@
         "unidad": "kg"
       },
       {
+        "nombre": "Coles de Bruselas Eat Smart Bolsa 340g",
+        "precio": 99.0,
+        "unidad": "un"
+      },
+      {
         "nombre": "Coliflor Morada 750g",
         "precio": 41.5,
         "unidad": "un"
@@ -2160,13 +2160,8 @@
         "unidad": "un"
       },
       {
-        "nombre": "Coliflor Naranja 750g",
-        "precio": 41.5,
-        "unidad": "un"
-      },
-      {
         "nombre": "Coliflor Pre Enfriada Pieza",
-        "precio": 58.0,
+        "precio": 62.0,
         "unidad": "un"
       },
       {
@@ -2226,7 +2221,7 @@
       },
       {
         "nombre": "Durazno Rojo por Kg",
-        "precio": 103.9,
+        "precio": 104.0,
         "unidad": "kg"
       },
       {
@@ -2326,7 +2321,7 @@
       },
       {
         "nombre": "Espinaca Hidroponica Hidrocool 300 g",
-        "precio": 32.9,
+        "precio": 51.0,
         "unidad": "un"
       },
       {
@@ -2382,6 +2377,11 @@
       {
         "nombre": "Floretes de Coliflor Fresh Garden 500g",
         "precio": 39.0,
+        "unidad": "un"
+      },
+      {
+        "nombre": "Floretes de Coliflor Mr. Lucky 454g",
+        "precio": 33.5,
         "unidad": "un"
       },
       {
@@ -2601,7 +2601,7 @@
       },
       {
         "nombre": "Hongo Portobello por Kg",
-        "precio": 169.5,
+        "precio": 112.5,
         "unidad": "kg"
       },
       {
@@ -2631,7 +2631,7 @@
       },
       {
         "nombre": "Jengibre por kg",
-        "precio": 99.0,
+        "precio": 79.9,
         "unidad": "kg"
       },
       {
@@ -2642,6 +2642,11 @@
       {
         "nombre": "Jícama Vegetalistos 454g",
         "precio": 44.0,
+        "unidad": "un"
+      },
+      {
+        "nombre": "Jitomate Baby Tom Campo Vivo Orgánico 180g",
+        "precio": 44.5,
         "unidad": "un"
       },
       {
@@ -2747,11 +2752,6 @@
       {
         "nombre": "Lechuga Francesa Pieza",
         "precio": 24.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Lechuga Fresh Garden Baby 6 Piezas 400g",
-        "precio": 65.9,
         "unidad": "un"
       },
       {
@@ -2926,7 +2926,7 @@
       },
       {
         "nombre": "Manzana Golden Mediana por Kg",
-        "precio": 58.0,
+        "precio": 59.9,
         "unidad": "kg"
       },
       {
@@ -2940,13 +2940,8 @@
         "unidad": "un"
       },
       {
-        "nombre": "Manzana Granny Smith en Bolsa por kg",
-        "precio": 73.9,
-        "unidad": "kg"
-      },
-      {
         "nombre": "Manzana Granny Smith por Kg",
-        "precio": 32.8,
+        "precio": 72.9,
         "unidad": "kg"
       },
       {
@@ -2971,12 +2966,12 @@
       },
       {
         "nombre": "Manzana Roja Chica en Bolsa por Kg",
-        "precio": 40.0,
+        "precio": 63.5,
         "unidad": "kg"
       },
       {
         "nombre": "Manzana Roja Mediana por Kg",
-        "precio": 42.0,
+        "precio": 59.9,
         "unidad": "kg"
       },
       {
@@ -3011,7 +3006,7 @@
       },
       {
         "nombre": "Manzanilla Rollo",
-        "precio": 11.9,
+        "precio": 13.5,
         "unidad": "un"
       },
       {
@@ -3111,7 +3106,7 @@
       },
       {
         "nombre": "Naranja Agria kg",
-        "precio": 42.0,
+        "precio": 41.0,
         "unidad": "kg"
       },
       {
@@ -3171,7 +3166,7 @@
       },
       {
         "nombre": "Nopal por kg",
-        "precio": 32.9,
+        "precio": 41.9,
         "unidad": "kg"
       },
       {
@@ -3186,7 +3181,7 @@
       },
       {
         "nombre": "Palitos de Apio Mr. Lucky 8 Piezas de 100gr",
-        "precio": 15.9,
+        "precio": 63.0,
         "unidad": "un"
       },
       {
@@ -3206,12 +3201,12 @@
       },
       {
         "nombre": "Papa Blanca Malla pza",
-        "precio": 49.5,
+        "precio": 19.9,
         "unidad": "un"
       },
       {
         "nombre": "Papa Blanca por kg",
-        "precio": 47.0,
+        "precio": 49.9,
         "unidad": "kg"
       },
       {
@@ -3236,7 +3231,7 @@
       },
       {
         "nombre": "Papa Morena kg",
-        "precio": 26.5,
+        "precio": 19.8,
         "unidad": "kg"
       },
       {
@@ -3261,7 +3256,7 @@
       },
       {
         "nombre": "Pepino Blanco kg",
-        "precio": 44.0,
+        "precio": 54.0,
         "unidad": "kg"
       },
       {
@@ -3306,7 +3301,7 @@
       },
       {
         "nombre": "Pera Mantequilla por Kg",
-        "precio": 80.9,
+        "precio": 64.7,
         "unidad": "kg"
       },
       {
@@ -3356,7 +3351,7 @@
       },
       {
         "nombre": "Pimiento Nature Sweet Mini 454 g",
-        "precio": 74.9,
+        "precio": 39.9,
         "unidad": "un"
       },
       {
@@ -3366,7 +3361,7 @@
       },
       {
         "nombre": "Pimiento Sweet Peppers 3 Piezas",
-        "precio": 73.5,
+        "precio": 69.9,
         "unidad": "un"
       },
       {
@@ -3376,7 +3371,7 @@
       },
       {
         "nombre": "Piña Gota Miel por Kg",
-        "precio": 30.0,
+        "precio": 32.9,
         "unidad": "kg"
       },
       {
@@ -3386,12 +3381,12 @@
       },
       {
         "nombre": "Plátano Chiapas por Kg",
-        "precio": 18.0,
+        "precio": 26.9,
         "unidad": "kg"
       },
       {
         "nombre": "Plátano Dominico por Kg",
-        "precio": 40.9,
+        "precio": 39.5,
         "unidad": "kg"
       },
       {
@@ -3411,7 +3406,7 @@
       },
       {
         "nombre": "Poro Pieza",
-        "precio": 6.9,
+        "precio": 22.0,
         "unidad": "un"
       },
       {
@@ -3461,7 +3456,7 @@
       },
       {
         "nombre": "Romero Fresco Tiempo de Cosecha 50g",
-        "precio": 22.9,
+        "precio": 43.5,
         "unidad": "un"
       },
       {
@@ -3501,17 +3496,17 @@
       },
       {
         "nombre": "Sandia Blanca Rayada por Kg",
-        "precio": 18.9,
+        "precio": 19.4,
         "unidad": "kg"
       },
       {
         "nombre": "Sandía Personal kg",
-        "precio": 29.5,
+        "precio": 23.9,
         "unidad": "kg"
       },
       {
         "nombre": "Sandia sin Semilla por Kg",
-        "precio": 23.5,
+        "precio": 26.9,
         "unidad": "kg"
       },
       {
@@ -3527,6 +3522,11 @@
       {
         "nombre": "Seta Monteblanco Selección 250g",
         "precio": 34.9,
+        "unidad": "un"
+      },
+      {
+        "nombre": "Shiitake Monteblanco Selección 160g",
+        "precio": 59.0,
         "unidad": "un"
       },
       {
@@ -3571,7 +3571,7 @@
       },
       {
         "nombre": "Tomate Cherry Uva NatureSweet 113g",
-        "precio": 25.0,
+        "precio": 24.9,
         "unidad": "un"
       },
       {
@@ -3601,7 +3601,7 @@
       },
       {
         "nombre": "Tomate Verde por kg",
-        "precio": 43.0,
+        "precio": 54.9,
         "unidad": "kg"
       },
       {
@@ -3616,7 +3616,7 @@
       },
       {
         "nombre": "Tomates Cherry NatureSweet Glorys 467g",
-        "precio": 28.5,
+        "precio": 94.9,
         "unidad": "un"
       },
       {
@@ -3661,12 +3661,12 @@
       },
       {
         "nombre": "Toronja por Kg",
-        "precio": 28.9,
+        "precio": 29.9,
         "unidad": "kg"
       },
       {
         "nombre": "Tuna por kg",
-        "precio": 24.99,
+        "precio": 32.8,
         "unidad": "kg"
       },
       {
@@ -3681,7 +3681,7 @@
       },
       {
         "nombre": "Uva Globo Emperador por kg",
-        "precio": 32.8,
+        "precio": 132.5,
         "unidad": "kg"
       },
       {
@@ -3711,7 +3711,7 @@
       },
       {
         "nombre": "Uva Verde por kg",
-        "precio": 115.9,
+        "precio": 78.9,
         "unidad": "kg"
       },
       {
@@ -3741,7 +3741,7 @@
       },
       {
         "nombre": "Yuca Granel kg",
-        "precio": 49.0,
+        "precio": 41.0,
         "unidad": "kg"
       },
       {
@@ -3776,7 +3776,7 @@
       },
       {
         "nombre": "Zanahoria Mr Lucky Baby 100g",
-        "precio": 19.9,
+        "precio": 53.0,
         "unidad": "un"
       },
       {
@@ -7442,232 +7442,212 @@
   },
   "cambios": [
     {
-      "producto": "aguacate",
-      "nombre_producto": "Aguacate Hass",
-      "tienda": "Chedraui",
-      "precio_anterior": 30.0,
-      "precio_nuevo": 58.9,
-      "diferencia": 28.9,
-      "porcentaje": 96.3,
-      "fecha_anterior": "2026-10-17"
-    },
-    {
       "producto": "uva_globo",
       "nombre_producto": "Uva Globo",
       "tienda": "Chedraui",
-      "precio_anterior": 132.5,
-      "precio_nuevo": 32.8,
-      "diferencia": -99.7,
-      "porcentaje": -75.2,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 32.8,
+      "precio_nuevo": 132.5,
+      "diferencia": 99.7,
+      "porcentaje": 304.0,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "manzana_granny",
       "nombre_producto": "Manzana Granny Smith",
       "tienda": "Chedraui",
-      "precio_anterior": 72.9,
-      "precio_nuevo": 32.8,
-      "diferencia": -40.1,
-      "porcentaje": -55.0,
-      "fecha_anterior": "2026-10-17"
-    },
-    {
-      "producto": "platano_macho",
-      "nombre_producto": "Plátano Macho",
-      "tienda": "Chedraui",
-      "precio_anterior": 24.9,
-      "precio_nuevo": 37.9,
-      "diferencia": 13.0,
-      "porcentaje": 52.2,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 32.8,
+      "precio_nuevo": 72.9,
+      "diferencia": 40.1,
+      "porcentaje": 122.3,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "betabel",
       "nombre_producto": "Betabel",
       "tienda": "Chedraui",
-      "precio_anterior": 24.5,
-      "precio_nuevo": 12.5,
-      "diferencia": -12.0,
-      "porcentaje": -49.0,
-      "fecha_anterior": "2026-10-17"
-    },
-    {
-      "producto": "coliflor",
-      "nombre_producto": "Coliflor",
-      "tienda": "Chedraui",
-      "precio_anterior": 39.0,
-      "precio_nuevo": 19.9,
-      "diferencia": -19.1,
-      "porcentaje": -49.0,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 12.5,
+      "precio_nuevo": 24.5,
+      "diferencia": 12.0,
+      "porcentaje": 96.0,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "manzana_roja",
       "nombre_producto": "Manzana Roja",
       "tienda": "Chedraui",
-      "precio_anterior": 63.5,
-      "precio_nuevo": 40.0,
-      "diferencia": -23.5,
-      "porcentaje": -37.0,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 40.0,
+      "precio_nuevo": 59.9,
+      "diferencia": 19.9,
+      "porcentaje": 49.7,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "platano_chiapas",
       "nombre_producto": "Plátano",
       "tienda": "Chedraui",
-      "precio_anterior": 24.9,
-      "precio_nuevo": 18.0,
-      "diferencia": -6.9,
-      "porcentaje": -27.7,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 18.0,
+      "precio_nuevo": 26.9,
+      "diferencia": 8.9,
+      "porcentaje": 49.4,
+      "fecha_anterior": "2026-10-18"
+    },
+    {
+      "producto": "cebolla_morada",
+      "nombre_producto": "Cebolla Morada",
+      "tienda": "Chedraui",
+      "precio_anterior": 67.9,
+      "precio_nuevo": 39.9,
+      "diferencia": -28.0,
+      "porcentaje": -41.2,
+      "fecha_anterior": "2026-10-18"
+    },
+    {
+      "producto": "uva_verde",
+      "nombre_producto": "Uva Verde",
+      "tienda": "Chedraui",
+      "precio_anterior": 115.9,
+      "precio_nuevo": 78.9,
+      "diferencia": -37.0,
+      "porcentaje": -31.9,
+      "fecha_anterior": "2026-10-18"
+    },
+    {
+      "producto": "camote",
+      "nombre_producto": "Camote",
+      "tienda": "Chedraui",
+      "precio_anterior": 44.5,
+      "precio_nuevo": 58.0,
+      "diferencia": 13.5,
+      "porcentaje": 30.3,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "tomate_verde",
       "nombre_producto": "Tomate Verde",
       "tienda": "Chedraui",
-      "precio_anterior": 55.9,
-      "precio_nuevo": 43.0,
-      "diferencia": -12.9,
-      "porcentaje": -23.1,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 43.0,
+      "precio_nuevo": 54.9,
+      "diferencia": 11.9,
+      "porcentaje": 27.7,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "nopal_entero",
       "nombre_producto": "Nopal Entero",
       "tienda": "Chedraui",
-      "precio_anterior": 41.9,
-      "precio_nuevo": 32.9,
-      "diferencia": -9.0,
-      "porcentaje": -21.5,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 32.9,
+      "precio_nuevo": 41.9,
+      "diferencia": 9.0,
+      "porcentaje": 27.4,
+      "fecha_anterior": "2026-10-18"
     },
     {
-      "producto": "pimiento_amarillo",
-      "nombre_producto": "Pimiento Amarillo",
+      "producto": "pera_mantequilla",
+      "nombre_producto": "Pera Mantequilla",
       "tienda": "Chedraui",
-      "precio_anterior": 49.9,
-      "precio_nuevo": 57.9,
-      "diferencia": 8.0,
-      "porcentaje": 16.0,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 80.9,
+      "precio_nuevo": 64.7,
+      "diferencia": -16.2,
+      "porcentaje": -20.0,
+      "fecha_anterior": "2026-10-18"
     },
     {
-      "producto": "pimiento_naranja",
-      "nombre_producto": "Pimiento Naranja",
+      "producto": "jengibre",
+      "nombre_producto": "Jengibre",
       "tienda": "Chedraui",
-      "precio_anterior": 49.9,
-      "precio_nuevo": 57.9,
-      "diferencia": 8.0,
-      "porcentaje": 16.0,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 99.0,
+      "precio_nuevo": 79.9,
+      "diferencia": -19.1,
+      "porcentaje": -19.3,
+      "fecha_anterior": "2026-10-18"
     },
     {
-      "producto": "pimiento_rojo",
-      "nombre_producto": "Pimiento Rojo",
+      "producto": "yuca",
+      "nombre_producto": "Yuca",
       "tienda": "Chedraui",
-      "precio_anterior": 49.9,
-      "precio_nuevo": 57.9,
-      "diferencia": 8.0,
-      "porcentaje": 16.0,
-      "fecha_anterior": "2026-10-17"
-    },
-    {
-      "producto": "guayaba",
-      "nombre_producto": "Guayaba",
-      "tienda": "Chedraui",
-      "precio_anterior": 69.5,
-      "precio_nuevo": 59.9,
-      "diferencia": -9.6,
-      "porcentaje": -13.8,
-      "fecha_anterior": "2026-10-17"
-    },
-    {
-      "producto": "perejil",
-      "nombre_producto": "Perejil",
-      "tienda": "Chedraui",
-      "precio_anterior": 9.9,
-      "precio_nuevo": 8.9,
-      "diferencia": -1.0,
-      "porcentaje": -10.1,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 49.0,
+      "precio_nuevo": 41.0,
+      "diferencia": -8.0,
+      "porcentaje": -16.3,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "pina",
       "nombre_producto": "Piña",
       "tienda": "Chedraui",
-      "precio_anterior": 32.9,
-      "precio_nuevo": 30.0,
-      "diferencia": -2.9,
-      "porcentaje": -8.8,
-      "fecha_anterior": "2026-10-17"
-    },
-    {
-      "producto": "verdolaga",
-      "nombre_producto": "Verdolaga",
-      "tienda": "Chedraui",
-      "precio_anterior": 29.9,
-      "precio_nuevo": 27.5,
-      "diferencia": -2.4,
-      "porcentaje": -8.0,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 30.0,
+      "precio_nuevo": 32.9,
+      "diferencia": 2.9,
+      "porcentaje": 9.7,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "chile_poblano",
       "nombre_producto": "Chile Poblano",
       "tienda": "Chedraui",
-      "precio_anterior": 64.8,
-      "precio_nuevo": 59.9,
-      "diferencia": -4.9,
-      "porcentaje": -7.6,
-      "fecha_anterior": "2026-10-17"
-    },
-    {
-      "producto": "manzana_golden",
-      "nombre_producto": "Manzana Golden",
-      "tienda": "Chedraui",
-      "precio_anterior": 53.9,
-      "precio_nuevo": 49.9,
-      "diferencia": -4.0,
-      "porcentaje": -7.4,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 59.9,
+      "precio_nuevo": 64.8,
+      "diferencia": 4.9,
+      "porcentaje": 8.2,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "papa_blanca",
       "nombre_producto": "Papa Blanca",
       "tienda": "Chedraui",
-      "precio_anterior": 49.9,
-      "precio_nuevo": 47.0,
-      "diferencia": -2.9,
-      "porcentaje": -5.8,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 47.0,
+      "precio_nuevo": 49.9,
+      "diferencia": 2.9,
+      "porcentaje": 6.2,
+      "fecha_anterior": "2026-10-18"
     },
     {
-      "producto": "chile_habanero",
-      "nombre_producto": "Chile Habanero",
+      "producto": "toronja",
+      "nombre_producto": "Toronja",
       "tienda": "Chedraui",
-      "precio_anterior": 95.0,
-      "precio_nuevo": 89.9,
-      "diferencia": -5.1,
-      "porcentaje": -5.4,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 28.9,
+      "precio_nuevo": 29.9,
+      "diferencia": 1.0,
+      "porcentaje": 3.5,
+      "fecha_anterior": "2026-10-18"
     },
     {
       "producto": "sandia",
       "nombre_producto": "Sandía",
       "tienda": "Chedraui",
-      "precio_anterior": 19.4,
-      "precio_nuevo": 18.9,
-      "diferencia": -0.5,
-      "porcentaje": -2.6,
-      "fecha_anterior": "2026-10-17"
+      "precio_anterior": 18.9,
+      "precio_nuevo": 19.4,
+      "diferencia": 0.5,
+      "porcentaje": 2.6,
+      "fecha_anterior": "2026-10-18"
+    },
+    {
+      "producto": "naranja",
+      "nombre_producto": "Naranja",
+      "tienda": "Chedraui",
+      "precio_anterior": 42.0,
+      "precio_nuevo": 41.0,
+      "diferencia": -1.0,
+      "porcentaje": -2.4,
+      "fecha_anterior": "2026-10-18"
+    },
+    {
+      "producto": "durazno_rojo",
+      "nombre_producto": "Durazno Rojo",
+      "tienda": "Chedraui",
+      "precio_anterior": 103.9,
+      "precio_nuevo": 104.0,
+      "diferencia": 0.1,
+      "porcentaje": 0.1,
+      "fecha_anterior": "2026-10-18"
     }
   ],
   "fuentes": {
     "Chedraui": {
       "ok": true,
       "stale": false,
-      "fecha": "2026-10-18",
-      "n": 430
+      "fecha": "2026-10-19",
+      "n": 431
     },
     "HEB": {
       "ok": false,
