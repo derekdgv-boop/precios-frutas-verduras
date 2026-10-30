@@ -2,7 +2,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Tomate Saladet por kg",
-    "precio": 39.0,
+    "precio": 27.0,
     "unidad": "kg"
   },
   {
@@ -20,7 +20,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Plátano Chiapas por Kg",
-    "precio": 20.0,
+    "precio": 18.0,
     "unidad": "kg"
   },
   {
@@ -38,7 +38,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Tomate Verde por kg",
-    "precio": 64.9,
+    "precio": 46.0,
     "unidad": "kg"
   },
   {
@@ -56,7 +56,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Jalapeño por Kg",
-    "precio": 21.0,
+    "precio": 20.0,
     "unidad": "kg"
   },
   {
@@ -104,7 +104,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Roja Mediana por Kg",
-    "precio": 73.7,
+    "precio": 40.0,
     "unidad": "kg"
   },
   {
@@ -133,12 +133,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Naranja Paramount kg",
-    "precio": 46.9,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Limón Eureka Paramount kg",
     "precio": 56.9,
     "unidad": "kg"
@@ -146,7 +140,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Chile Poblano por Kg",
-    "precio": 65.6,
+    "precio": 61.0,
     "unidad": "kg"
   },
   {
@@ -224,7 +218,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Royal Gala por Kg",
-    "precio": 68.7,
+    "precio": 54.0,
     "unidad": "kg"
   },
   {
@@ -332,13 +326,13 @@
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Amarillo por kg",
-    "precio": 89.5,
+    "precio": 89.0,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Pimiento Naranja por kg",
-    "precio": 89.9,
+    "precio": 89.0,
     "unidad": "kg"
   },
   {
@@ -386,7 +380,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Jícama por Kg",
-    "precio": 41.4,
+    "precio": 36.0,
     "unidad": "kg"
   },
   {
@@ -458,19 +452,19 @@
   {
     "tienda": "Chedraui",
     "nombre": "Sandia Blanca Rayada por Kg",
-    "precio": 19.8,
+    "precio": 16.0,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Uva Globo Emperador por kg",
-    "precio": 84.2,
+    "precio": 48.0,
     "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Roja Chica en Bolsa por Kg",
-    "precio": 49.0,
+    "precio": 40.0,
     "unidad": "kg"
   },
   {
@@ -704,7 +698,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Manzana Royal Gala en Bolsa por kg",
-    "precio": 65.5,
+    "precio": 53.0,
     "unidad": "kg"
   },
   {
@@ -853,15 +847,15 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Pepino Criollo kg",
-    "precio": 6.5,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Corazones de Lechuga Mr. Lucky 3 Piezas",
     "precio": 54.5,
     "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Pepino Criollo kg",
+    "precio": 6.5,
+    "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
@@ -1027,12 +1021,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Floretes de Coliflor Mr. Lucky 454g",
-    "precio": 33.5,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Espinaca Baby Mr. Lucky Popeye 227g",
     "precio": 59.0,
     "unidad": "un"
@@ -1059,18 +1047,6 @@
     "tienda": "Chedraui",
     "nombre": "Cremini Monteblanco Rebanado 225g",
     "precio": 34.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Lechuga Escarola Pieza",
-    "precio": 28.9,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Lechuga Francesa Pieza",
-    "precio": 23.9,
     "unidad": "un"
   },
   {
@@ -1105,12 +1081,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Chile Anaheim por Kg",
-    "precio": 95.5,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Ajo Mr Lucky Pelado 170g",
     "precio": 59.0,
     "unidad": "un"
@@ -1126,6 +1096,12 @@
     "nombre": "Mini Chile Morrón Orgánico 350g",
     "precio": 59.5,
     "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Chile Anaheim por Kg",
+    "precio": 95.5,
+    "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
@@ -1268,7 +1244,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Fantasía por kg",
-    "precio": 40.0,
+    "precio": 25.0,
     "unidad": "kg"
   },
   {
@@ -1346,7 +1322,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Calavera Kg",
-    "precio": 45.0,
+    "precio": 25.0,
     "unidad": "un"
   },
   {
@@ -1549,12 +1525,6 @@
   },
   {
     "tienda": "Chedraui",
-    "nombre": "Ciruela Moscatel Kg",
-    "precio": 16.5,
-    "unidad": "kg"
-  },
-  {
-    "tienda": "Chedraui",
     "nombre": "Tomate Verde Orgánico Bolsa 450g",
     "precio": 43.5,
     "unidad": "un"
@@ -1569,6 +1539,18 @@
     "tienda": "Chedraui",
     "nombre": "Cebolla Blanca Campo Vivo Orgánica 700g",
     "precio": 59.9,
+    "unidad": "un"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Ciruela Moscatel Kg",
+    "precio": 16.5,
+    "unidad": "kg"
+  },
+  {
+    "tienda": "Chedraui",
+    "nombre": "Quinoa Reventada Naturalika Vita 50g",
+    "precio": 63.0,
     "unidad": "un"
   },
   {
@@ -1598,7 +1580,7 @@
   {
     "tienda": "Chedraui",
     "nombre": "Calabaza Monstruos Kg",
-    "precio": 45.0,
+    "precio": 25.0,
     "unidad": "un"
   },
   {
@@ -1654,18 +1636,6 @@
     "nombre": "Orégano Fresco Tiempo de Cosecha 50g",
     "precio": 43.5,
     "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Quinoa Reventada Naturalika Vita 50g",
-    "precio": 63.0,
-    "unidad": "un"
-  },
-  {
-    "tienda": "Chedraui",
-    "nombre": "Recado por kg",
-    "precio": 105.0,
-    "unidad": "kg"
   },
   {
     "tienda": "Chedraui",
