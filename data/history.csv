@@ -12324,3 +12324,88 @@ fecha,producto,tienda,precio,nombre_original,unidad
 2026-11-09,uva_verde,Chedraui,114.9,Uva Verde por kg,kg
 2026-11-09,zanahoria,Chedraui,14.5,Zanahoria por kg,kg
 2026-11-09,zarzamora,Chedraui,48.5,Zarzamora por Pieza,un
+2026-11-10,acelga,Chedraui,14.8,Acelgas Rollo,un
+2026-11-10,aguacate,Chedraui,29.5,Aguacate Hass por Kg,kg
+2026-11-10,ajo,Chedraui,163.5,Ajo por Kg,kg
+2026-11-10,alcachofa,Chedraui,189.9,Alcachofa Microwave 59g,kg
+2026-11-10,alfalfa,Chedraui,14.0,Alfalfa Fresca Kg,un
+2026-11-10,apio,Chedraui,24.9,Apio por kg,kg
+2026-11-10,berenjena,Chedraui,64.9,Berenjena por Kg,kg
+2026-11-10,betabel,Chedraui,12.5,Betabel por Kg,kg
+2026-11-10,brocoli,Chedraui,49.9,Brócoli por Kg,kg
+2026-11-10,camote,Chedraui,44.5,Camote Amarillo por kg,kg
+2026-11-10,cana_azucar,Chedraui,8.5,Caña por Kg,kg
+2026-11-10,cebolla_blanca,Chedraui,29.5,Cebolla Blanca por kg,kg
+2026-11-10,cebolla_cambray,Chedraui,14.5,Cebolla de Cambray por Manojo,un
+2026-11-10,cebolla_morada,Chedraui,59.9,Cebolla Morada por kg,kg
+2026-11-10,cebollin,Chedraui,9.5,Cebollín por Pieza,un
+2026-11-10,chayote,Chedraui,22.5,Chayote sin Espinas por kg,kg
+2026-11-10,chicharo,Chedraui,58.5,Chícharo por kg,kg
+2026-11-10,chile_arbol,Chedraui,147.5,Chile de Árbol por Kg,kg
+2026-11-10,chile_guero,Chedraui,56.5,Chile Güero por Kg,kg
+2026-11-10,chile_habanero,Chedraui,123.5,Chile Habanero por Kg,kg
+2026-11-10,chile_poblano,Chedraui,61.0,Chile Poblano por Kg,kg
+2026-11-10,chile_serrano,Chedraui,49.0,Chile Serrano por Kg,kg
+2026-11-10,cilantro,Chedraui,11.8,Cilantro Rollo,un
+2026-11-10,ciruela_roja,Chedraui,63.5,Ciruela con Hueso por kg,kg
+2026-11-10,col_blanca,Chedraui,19.5,Col Blanca por kg,kg
+2026-11-10,coliflor,Chedraui,33.5,Floretes de Coliflor Mr. Lucky 454g,un
+2026-11-10,durazno_rojo,Chedraui,79.0,Durazno Rojo por Kg,kg
+2026-11-10,ejote,Chedraui,29.5,Ejote por kg,kg
+2026-11-10,elote,Chedraui,56.0,Grano de Elote por kg,kg
+2026-11-10,epazote,Chedraui,10.0,Epazote Rollo,un
+2026-11-10,esparrago,Chedraui,149.0,Esparrago Verde 454g,un
+2026-11-10,espinaca,Chedraui,10.4,Espinacas Rollo,un
+2026-11-10,frambuesa,Chedraui,48.0,Frambuesa Domo 170g,un
+2026-11-10,fresa,Chedraui,21.9,Vaso Pepino Fresa Pieza,un
+2026-11-10,germen_soya,Chedraui,39.9,Germen de Soya por kg,kg
+2026-11-10,guanabana,Chedraui,89.5,Guanábana por Kg,kg
+2026-11-10,guayaba,Chedraui,17.5,Guayaba por Kg,kg
+2026-11-10,jamaica,Chedraui,190.0,Jamaica por kg,kg
+2026-11-10,jengibre,Chedraui,79.9,Jengibre por kg,kg
+2026-11-10,jicama,Chedraui,36.0,Jícama por Kg,kg
+2026-11-10,jitomate_saladet,Chedraui,39.0,Tomate Saladet por kg,kg
+2026-11-10,jitomate_bola,Chedraui,30.0,Jitomate Beef Gourmet Bola Kg,kg
+2026-11-10,kiwi,Chedraui,95.0,Kiwi por Kg,kg
+2026-11-10,lechuga_orejona,Chedraui,24.5,Lechuga Larga Pieza,un
+2026-11-10,lechuga_romana,Chedraui,24.0,Lechuga Romana Pieza,un
+2026-11-10,lechuga_sangria,Chedraui,20.5,Lechuga Sangría Pieza,un
+2026-11-10,limon,Chedraui,15.5,Limón sin Semilla por Kg,kg
+2026-11-10,mamey,Chedraui,49.9,Mamey por Kg,kg
+2026-11-10,mandarina,Chedraui,53.5,Mandarina por Kg,kg
+2026-11-10,manzana_golden,Chedraui,29.5,Manzana Golden Chica en Bolsa por Kg,kg
+2026-11-10,manzana_granny,Chedraui,73.5,Manzana Granny Smith por Kg,kg
+2026-11-10,manzana_roja,Chedraui,38.0,Manzana Roja Chica en Bolsa por Kg,kg
+2026-11-10,manzana_royal_gala,Chedraui,40.0,Manzana Royal Gala en Bolsa por kg,kg
+2026-11-10,melon_amarillo,Chedraui,9.5,Melón Amarillo por Kg,kg
+2026-11-10,melon_chino,Chedraui,34.9,Melón Chino por Kg,kg
+2026-11-10,naranja,Chedraui,42.5,Naranja Paramount kg,kg
+2026-11-10,nopal_entero,Chedraui,39.9,Nopal por kg,kg
+2026-11-10,papa_blanca,Chedraui,48.0,Papa Blanca por kg,kg
+2026-11-10,papa_cambray,Chedraui,49.5,Papa Cambray por kg,kg
+2026-11-10,papaya,Chedraui,39.9,Papaya Maradol por kg,kg
+2026-11-10,pepino,Chedraui,12.5,Pepino Europeo por Kg,kg
+2026-11-10,pera_mantequilla,Chedraui,55.9,Pera Mantequilla por Kg,kg
+2026-11-10,perejil,Chedraui,14.0,Perejil Chino Rollo,un
+2026-11-10,pimiento_amarillo,Chedraui,89.0,Pimiento Amarillo por kg,kg
+2026-11-10,pimiento_naranja,Chedraui,89.0,Pimiento Naranja por kg,kg
+2026-11-10,pimiento_rojo,Chedraui,92.5,Pimiento Rojo por kg,kg
+2026-11-10,pimiento_verde,Chedraui,75.0,Pimiento Verde por kg,kg
+2026-11-10,pina,Chedraui,30.0,Piña Gota Miel por Kg,kg
+2026-11-10,pitahaya,Chedraui,98.0,Pitahaya Granel kg,kg
+2026-11-10,platano_chiapas,Chedraui,13.5,Plátano Chiapas por Kg,kg
+2026-11-10,platano_macho,Chedraui,32.5,Plátano Macho por Kg,kg
+2026-11-10,rabano,Chedraui,12.5,Rábano Cambray Manojo,un
+2026-11-10,sandia,Chedraui,16.0,Sandia Blanca Rayada por Kg,kg
+2026-11-10,te_limon,Chedraui,14.9,Té de Limón Manojo por Pieza,un
+2026-11-10,tomate_cherry,Chedraui,21.0,Tomates Uva y Cherry NatureSweet Constellation to Go 71g,un
+2026-11-10,tomate_verde,Chedraui,64.0,Tomate Verde por kg,kg
+2026-11-10,tomillo,Chedraui,43.5,Tomillo Fresco Tiempo de Cosecha 50g,un
+2026-11-10,toronja,Chedraui,7.0,Toronja por Kg,kg
+2026-11-10,uva_globo,Chedraui,48.0,Uva Globo Emperador por kg,kg
+2026-11-10,uva_roja,Chedraui,113.9,Uva Roja sin Semilla por Kg,kg
+2026-11-10,uva_verde,Chedraui,99.0,Uva Verde por kg,kg
+2026-11-10,verdolaga,Chedraui,24.5,Verdolaga por kg,kg
+2026-11-10,yaca,Chedraui,41.0,Yaca Fruta kg,kg
+2026-11-10,zanahoria,Chedraui,14.9,Zanahoria por kg,kg
+2026-11-10,zarzamora,Chedraui,42.9,Zarzamora por Pieza,un
