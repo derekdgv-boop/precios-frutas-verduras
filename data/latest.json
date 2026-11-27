@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-26",
+  "fecha": "2026-11-27",
   "productos": {
     "acelga": {
       "nombre_producto": "Acelga",
@@ -128,8 +128,8 @@
     "betabel": {
       "nombre_producto": "Betabel",
       "Chedraui": {
-        "precio": 12.5,
-        "nombre": "Betabel por Kg",
+        "precio": 15.5,
+        "nombre": "Betabel Cambray con Rabo",
         "unidad": "kg"
       },
       "HEB": {
@@ -265,7 +265,7 @@
     "cebollin": {
       "nombre_producto": "Cebollín",
       "Chedraui": {
-        "precio": 9.5,
+        "precio": 13.9,
         "nombre": "Cebollín por Pieza",
         "unidad": "un"
       },
@@ -597,7 +597,7 @@
     "epazote": {
       "nombre_producto": "Epazote",
       "Chedraui": {
-        "precio": 10.0,
+        "precio": 15.5,
         "nombre": "Epazote Rollo",
         "unidad": "un"
       },
@@ -651,7 +651,7 @@
     "frambuesa": {
       "nombre_producto": "Frambuesa",
       "Chedraui": {
-        "precio": 48.0,
+        "precio": 58.5,
         "nombre": "Frambuesa Domo 170g",
         "unidad": "un"
       },
@@ -682,7 +682,7 @@
     "germen_soya": {
       "nombre_producto": "Germen de Soya",
       "Chedraui": {
-        "precio": 39.9,
+        "precio": 64.9,
         "nombre": "Germen de Soya por kg",
         "unidad": "kg"
       },
@@ -902,7 +902,7 @@
     "limon": {
       "nombre_producto": "Limón",
       "Chedraui": {
-        "precio": 33.5,
+        "precio": 34.0,
         "nombre": "Limón Colima por Kg",
         "unidad": "kg"
       },
@@ -1133,7 +1133,7 @@
     "papa_cambray": {
       "nombre_producto": "Papa Cambray",
       "Chedraui": {
-        "precio": 49.0,
+        "precio": 49.5,
         "nombre": "Papa Cambray por kg",
         "unidad": "kg"
       },
@@ -1203,7 +1203,7 @@
     "perejil": {
       "nombre_producto": "Perejil",
       "Chedraui": {
-        "precio": 10.0,
+        "precio": 9.9,
         "nombre": "Perejil Liso Rollo",
         "unidad": "un"
       },
@@ -1409,7 +1409,7 @@
     "te_limon": {
       "nombre_producto": "Té Limón",
       "Chedraui": {
-        "precio": 15.0,
+        "precio": 14.9,
         "nombre": "Té de Limón Manojo por Pieza",
         "unidad": "un"
       },
@@ -1544,7 +1544,7 @@
     "verdolaga": {
       "nombre_producto": "Verdolaga",
       "Chedraui": {
-        "precio": 24.5,
+        "precio": 38.5,
         "nombre": "Verdolaga por kg",
         "unidad": "kg"
       },
@@ -1701,7 +1701,7 @@
       },
       {
         "nombre": "Albahaca Rollo",
-        "precio": 12.5,
+        "precio": 16.5,
         "unidad": "un"
       },
       {
@@ -1766,7 +1766,7 @@
       },
       {
         "nombre": "Betabel por Kg",
-        "precio": 12.5,
+        "precio": 28.5,
         "unidad": "kg"
       },
       {
@@ -1831,7 +1831,7 @@
       },
       {
         "nombre": "Calabaza Criolla por Kg",
-        "precio": 36.5,
+        "precio": 50.5,
         "unidad": "kg"
       },
       {
@@ -1931,7 +1931,7 @@
       },
       {
         "nombre": "Cebollín por Pieza",
-        "precio": 9.5,
+        "precio": 13.9,
         "unidad": "un"
       },
       {
@@ -2221,7 +2221,7 @@
       },
       {
         "nombre": "Epazote Rollo",
-        "precio": 10.0,
+        "precio": 15.5,
         "unidad": "un"
       },
       {
@@ -2296,7 +2296,7 @@
       },
       {
         "nombre": "Flor de Calabaza por kg",
-        "precio": 96.5,
+        "precio": 134.5,
         "unidad": "kg"
       },
       {
@@ -2321,7 +2321,7 @@
       },
       {
         "nombre": "Frambuesa Domo 170g",
-        "precio": 48.0,
+        "precio": 58.5,
         "unidad": "un"
       },
       {
@@ -2331,7 +2331,7 @@
       },
       {
         "nombre": "Garbanzo Fresco por Pieza",
-        "precio": 25.0,
+        "precio": 24.9,
         "unidad": "un"
       },
       {
@@ -2371,7 +2371,7 @@
       },
       {
         "nombre": "Germen de Soya por kg",
-        "precio": 39.9,
+        "precio": 64.9,
         "unidad": "kg"
       },
       {
@@ -2411,22 +2411,17 @@
       },
       {
         "nombre": "Habas por kg",
-        "precio": 29.5,
+        "precio": 41.5,
         "unidad": "kg"
       },
       {
         "nombre": "Hierba Buena Rollo",
-        "precio": 10.5,
+        "precio": 14.5,
         "unidad": "un"
       },
       {
         "nombre": "Hierbas de Olor por Pieza",
-        "precio": 8.5,
-        "unidad": "un"
-      },
-      {
-        "nombre": "Higo Mr Lucky 454 g",
-        "precio": 88.0,
+        "precio": 13.9,
         "unidad": "un"
       },
       {
@@ -2471,7 +2466,7 @@
       },
       {
         "nombre": "Huazontle Rollo",
-        "precio": 16.0,
+        "precio": 19.9,
         "unidad": "un"
       },
       {
@@ -2681,7 +2676,7 @@
       },
       {
         "nombre": "Limón Colima por Kg",
-        "precio": 33.5,
+        "precio": 34.0,
         "unidad": "kg"
       },
       {
@@ -2831,7 +2826,7 @@
       },
       {
         "nombre": "Manzanilla Rollo",
-        "precio": 10.0,
+        "precio": 13.9,
         "unidad": "un"
       },
       {
@@ -2862,6 +2857,11 @@
       {
         "nombre": "Mezcla de Berries 227g",
         "precio": 129.0,
+        "unidad": "un"
+      },
+      {
+        "nombre": "Mini Chile Morrón Orgánico 350g",
+        "precio": 59.5,
         "unidad": "un"
       },
       {
@@ -2951,7 +2951,7 @@
       },
       {
         "nombre": "Pakchoy kg",
-        "precio": 66.5,
+        "precio": 78.5,
         "unidad": "kg"
       },
       {
@@ -2996,7 +2996,7 @@
       },
       {
         "nombre": "Papa Cambray por kg",
-        "precio": 49.0,
+        "precio": 49.5,
         "unidad": "kg"
       },
       {
@@ -3086,7 +3086,7 @@
       },
       {
         "nombre": "Perejil Liso Rollo",
-        "precio": 10.0,
+        "precio": 9.9,
         "unidad": "un"
       },
       {
@@ -3296,7 +3296,7 @@
       },
       {
         "nombre": "Té de Limón Manojo por Pieza",
-        "precio": 15.0,
+        "precio": 14.9,
         "unidad": "un"
       },
       {
@@ -3491,7 +3491,7 @@
       },
       {
         "nombre": "Verdolaga por kg",
-        "precio": 24.5,
+        "precio": 38.5,
         "unidad": "kg"
       },
       {
@@ -7037,311 +7037,111 @@
   },
   "cambios": [
     {
-      "producto": "uva_roja",
-      "nombre_producto": "Uva Roja",
+      "producto": "germen_soya",
+      "nombre_producto": "Germen de Soya",
       "tienda": "Chedraui",
-      "precio_anterior": 18.5,
-      "precio_nuevo": 111.9,
-      "diferencia": 93.4,
-      "porcentaje": 504.9,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 39.9,
+      "precio_nuevo": 64.9,
+      "diferencia": 25.0,
+      "porcentaje": 62.7,
+      "fecha_anterior": "2026-11-26"
     },
     {
-      "producto": "cana_azucar",
-      "nombre_producto": "Caña de Azúcar",
+      "producto": "verdolaga",
+      "nombre_producto": "Verdolaga",
       "tienda": "Chedraui",
-      "precio_anterior": 8.5,
-      "precio_nuevo": 29.9,
-      "diferencia": 21.4,
-      "porcentaje": 251.8,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 24.5,
+      "precio_nuevo": 38.5,
+      "diferencia": 14.0,
+      "porcentaje": 57.1,
+      "fecha_anterior": "2026-11-26"
     },
     {
-      "producto": "cilantro",
-      "nombre_producto": "Cilantro",
+      "producto": "epazote",
+      "nombre_producto": "Epazote",
       "tienda": "Chedraui",
-      "precio_anterior": 6.9,
-      "precio_nuevo": 11.5,
-      "diferencia": 4.6,
-      "porcentaje": 66.7,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "acelga",
-      "nombre_producto": "Acelga",
-      "tienda": "Chedraui",
-      "precio_anterior": 6.9,
-      "precio_nuevo": 9.9,
-      "diferencia": 3.0,
-      "porcentaje": 43.5,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "aguacate",
-      "nombre_producto": "Aguacate Hass",
-      "tienda": "Chedraui",
-      "precio_anterior": 29.5,
-      "precio_nuevo": 42.0,
-      "diferencia": 12.5,
-      "porcentaje": 42.4,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "pina",
-      "nombre_producto": "Piña",
-      "tienda": "Chedraui",
-      "precio_anterior": 18.5,
-      "precio_nuevo": 26.0,
-      "diferencia": 7.5,
-      "porcentaje": 40.5,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "toronja",
-      "nombre_producto": "Toronja",
-      "tienda": "Chedraui",
-      "precio_anterior": 19.5,
-      "precio_nuevo": 26.9,
-      "diferencia": 7.4,
-      "porcentaje": 37.9,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "apio",
-      "nombre_producto": "Apio",
-      "tienda": "Chedraui",
-      "precio_anterior": 29.9,
-      "precio_nuevo": 20.0,
-      "diferencia": -9.9,
-      "porcentaje": -33.1,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 10.0,
+      "precio_nuevo": 15.5,
+      "diferencia": 5.5,
+      "porcentaje": 55.0,
+      "fecha_anterior": "2026-11-26"
     },
     {
       "producto": "cebollin",
       "nombre_producto": "Cebollín",
       "tienda": "Chedraui",
-      "precio_anterior": 13.9,
-      "precio_nuevo": 9.5,
-      "diferencia": -4.4,
-      "porcentaje": -31.7,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 9.5,
+      "precio_nuevo": 13.9,
+      "diferencia": 4.4,
+      "porcentaje": 46.3,
+      "fecha_anterior": "2026-11-26"
     },
     {
-      "producto": "brocoli",
-      "nombre_producto": "Brócoli",
+      "producto": "betabel",
+      "nombre_producto": "Betabel",
       "tienda": "Chedraui",
-      "precio_anterior": 39.5,
-      "precio_nuevo": 49.9,
-      "diferencia": 10.4,
-      "porcentaje": 26.3,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 12.5,
+      "precio_nuevo": 15.5,
+      "diferencia": 3.0,
+      "porcentaje": 24.0,
+      "fecha_anterior": "2026-11-26"
     },
     {
-      "producto": "uva_globo",
-      "nombre_producto": "Uva Globo",
+      "producto": "frambuesa",
+      "nombre_producto": "Frambuesa",
       "tienda": "Chedraui",
-      "precio_anterior": 62.5,
-      "precio_nuevo": 48.0,
-      "diferencia": -14.5,
-      "porcentaje": -23.2,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "papa_blanca",
-      "nombre_producto": "Papa Blanca",
-      "tienda": "Chedraui",
-      "precio_anterior": 38.5,
-      "precio_nuevo": 47.0,
-      "diferencia": 8.5,
-      "porcentaje": 22.1,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "manzana_golden",
-      "nombre_producto": "Manzana Golden",
-      "tienda": "Chedraui",
-      "precio_anterior": 29.5,
-      "precio_nuevo": 36.0,
-      "diferencia": 6.5,
-      "porcentaje": 22.0,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "col_blanca",
-      "nombre_producto": "Col Blanca",
-      "tienda": "Chedraui",
-      "precio_anterior": 16.5,
-      "precio_nuevo": 19.9,
-      "diferencia": 3.4,
-      "porcentaje": 20.6,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "pepino",
-      "nombre_producto": "Pepino",
-      "tienda": "Chedraui",
-      "precio_anterior": 24.5,
-      "precio_nuevo": 29.0,
-      "diferencia": 4.5,
-      "porcentaje": 18.4,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "chile_serrano",
-      "nombre_producto": "Chile Serrano",
-      "tienda": "Chedraui",
-      "precio_anterior": 56.9,
-      "precio_nuevo": 65.0,
-      "diferencia": 8.1,
-      "porcentaje": 14.2,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "zarzamora",
-      "nombre_producto": "Zarzamora",
-      "tienda": "Chedraui",
-      "precio_anterior": 42.9,
-      "precio_nuevo": 48.5,
-      "diferencia": 5.6,
-      "porcentaje": 13.1,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 48.0,
+      "precio_nuevo": 58.5,
+      "diferencia": 10.5,
+      "porcentaje": 21.9,
+      "fecha_anterior": "2026-11-26"
     },
     {
       "producto": "limon",
       "nombre_producto": "Limón",
       "tienda": "Chedraui",
-      "precio_anterior": 29.9,
-      "precio_nuevo": 33.5,
-      "diferencia": 3.6,
-      "porcentaje": 12.0,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "naranja",
-      "nombre_producto": "Naranja",
-      "tienda": "Chedraui",
-      "precio_anterior": 42.5,
-      "precio_nuevo": 46.9,
-      "diferencia": 4.4,
-      "porcentaje": 10.4,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "mandarina",
-      "nombre_producto": "Mandarina",
-      "tienda": "Chedraui",
-      "precio_anterior": 53.5,
-      "precio_nuevo": 59.0,
-      "diferencia": 5.5,
-      "porcentaje": 10.3,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "cebolla_cambray",
-      "nombre_producto": "Cebolla de Cambray",
-      "tienda": "Chedraui",
-      "precio_anterior": 14.9,
-      "precio_nuevo": 13.9,
-      "diferencia": -1.0,
-      "porcentaje": -6.7,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "uva_verde",
-      "nombre_producto": "Uva Verde",
-      "tienda": "Chedraui",
-      "precio_anterior": 85.0,
-      "precio_nuevo": 79.9,
-      "diferencia": -5.1,
-      "porcentaje": -6.0,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "nopal_entero",
-      "nombre_producto": "Nopal Entero",
-      "tienda": "Chedraui",
-      "precio_anterior": 39.9,
-      "precio_nuevo": 42.0,
-      "diferencia": 2.1,
-      "porcentaje": 5.3,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "papaya",
-      "nombre_producto": "Papaya Maradol",
-      "tienda": "Chedraui",
-      "precio_anterior": 39.9,
-      "precio_nuevo": 42.0,
-      "diferencia": 2.1,
-      "porcentaje": 5.3,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "jicama",
-      "nombre_producto": "Jícama",
-      "tienda": "Chedraui",
-      "precio_anterior": 39.9,
-      "precio_nuevo": 41.9,
-      "diferencia": 2.0,
-      "porcentaje": 5.0,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "cebolla_blanca",
-      "nombre_producto": "Cebolla Blanca",
-      "tienda": "Chedraui",
-      "precio_anterior": 42.0,
-      "precio_nuevo": 44.0,
-      "diferencia": 2.0,
-      "porcentaje": 4.8,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 33.5,
+      "precio_nuevo": 34.0,
+      "diferencia": 0.5,
+      "porcentaje": 1.5,
+      "fecha_anterior": "2026-11-26"
     },
     {
       "producto": "papa_cambray",
       "nombre_producto": "Papa Cambray",
       "tienda": "Chedraui",
-      "precio_anterior": 46.9,
-      "precio_nuevo": 49.0,
-      "diferencia": 2.1,
-      "porcentaje": 4.5,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 49.0,
+      "precio_nuevo": 49.5,
+      "diferencia": 0.5,
+      "porcentaje": 1.0,
+      "fecha_anterior": "2026-11-26"
     },
     {
-      "producto": "lechuga_orejona",
-      "nombre_producto": "Lechuga Orejona / Larga / Lisa",
+      "producto": "perejil",
+      "nombre_producto": "Perejil",
       "tienda": "Chedraui",
-      "precio_anterior": 26.9,
-      "precio_nuevo": 27.9,
-      "diferencia": 1.0,
-      "porcentaje": 3.7,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 10.0,
+      "precio_nuevo": 9.9,
+      "diferencia": -0.1,
+      "porcentaje": -1.0,
+      "fecha_anterior": "2026-11-26"
     },
     {
-      "producto": "cebolla_morada",
-      "nombre_producto": "Cebolla Morada",
+      "producto": "te_limon",
+      "nombre_producto": "Té Limón",
       "tienda": "Chedraui",
-      "precio_anterior": 59.9,
-      "precio_nuevo": 62.0,
-      "diferencia": 2.1,
-      "porcentaje": 3.5,
-      "fecha_anterior": "2026-11-25"
-    },
-    {
-      "producto": "sandia",
-      "nombre_producto": "Sandía",
-      "tienda": "Chedraui",
-      "precio_anterior": 21.9,
-      "precio_nuevo": 22.0,
-      "diferencia": 0.1,
-      "porcentaje": 0.5,
-      "fecha_anterior": "2026-11-25"
+      "precio_anterior": 15.0,
+      "precio_nuevo": 14.9,
+      "diferencia": -0.1,
+      "porcentaje": -0.7,
+      "fecha_anterior": "2026-11-26"
     }
   ],
   "fuentes": {
     "Chedraui": {
       "ok": true,
       "stale": false,
-      "fecha": "2026-11-26",
+      "fecha": "2026-11-27",
       "n": 388
     },
     "HEB": {
